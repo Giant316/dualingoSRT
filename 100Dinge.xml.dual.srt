@@ -1,0 +1,9811 @@
+1
+00:00:25,817 --> 00:00:28,111
+(Mann)
+<i>Das sind unsere Urgroßeltern.</i>
+(Man)
+<i>These are our great grandparents.</i>
+
+2
+00:00:28,361 --> 00:00:30,363
+<i>Sie hatten 57 Dinge.</i>
+<i>They had 57 things.</i>
+
+3
+00:00:30,530 --> 00:00:32,699
+<i>Dann hatten sie einen Weltkrieg.</i>
+<i>Then they had a world war.</i>
+
+4
+00:00:32,866 --> 00:00:34,576
+<i>Und die Inflation.</i>
+<i>And inflation.</i>
+
+5
+00:00:35,785 --> 00:00:37,537
+<i>Aber sie glaubten an Gott</i>
+<i>But they believed in God</i>
+
+6
+00:00:37,704 --> 00:00:40,331
+<i>und ein besseres Leben nach dem Tod.</i>
+<i>and a better life after death.</i>
+
+7
+00:00:41,624 --> 00:00:43,293
+{\an8}<i>Das sind unsere Großeltern.</i>
+{\ an8} <i>These are our grandparents.</i>
+
+8
+00:00:43,460 --> 00:00:44,961
+{\an8}<i>Sie hatten 200 Dinge.</i>
+{\ an8} <i>You had 200 things.</i>
+
+9
+00:00:45,587 --> 00:00:47,380
+<i>Dann hatten sie Hitler.</i>
+<i>Then they had Hitler.</i>
+
+10
+00:00:47,547 --> 00:00:49,466
+<i>Dann hatten sie gar nichts.</i>
+<i>Then they had nothing.</i>
+
+11
+00:00:51,760 --> 00:00:54,179
+<i>Aber sie glaubten an die Zukunft,</i>
+<i>But they believed in the future</i>
+
+12
+00:00:54,429 --> 00:00:56,347
+<i>und die versprach Wohlstand.</i>
+<i>and that promised prosperity.</i>
+
+13
+00:00:57,098 --> 00:00:58,516
+<i>Das sind unsere Eltern.</i>
+<i>These are our parents.</i>
+
+14
+00:00:58,683 --> 00:01:00,602
+<i>Sie hatten 650 Dinge.</i>
+<i>They had 650 things.</i>
+
+15
+00:01:00,769 --> 00:01:02,479
+<i>Dann hatten sie die Mauer.</i>
+<i>Then they had the wall.</i>
+
+16
+00:01:02,645 --> 00:01:04,689
+<i>Und 'ne Akte bei der Stasi.</i>
+<i>And a file with the Stasi.</i>
+
+17
+00:01:04,856 --> 00:01:06,816
+<i>Aber die Wende kam,</i>
+<i>But the turning point came</i>
+
+18
+00:01:06,983 --> 00:01:09,069
+<i>und sie glaubten an die Freiheit.</i>
+<i>and they believed in freedom.</i>
+
+19
+00:01:09,319 --> 00:01:10,820
+<i>Und das sind wir.</i>
+<i>And that's us.</i>
+
+20
+00:01:10,987 --> 00:01:12,989
+<i>Wir haben im Schnitt 10.000 Dinge.</i>
+<i>We have an average of 10,000 things.</i>
+
+21
+00:01:13,239 --> 00:01:14,616
+<i>10.000.</i>
+<i>10.000.</i>
+
+22
+00:01:15,950 --> 00:01:17,744
+<i>Wir haben Wohlstand.</i>
+<i>We have wealth.</i>
+
+23
+00:01:17,994 --> 00:01:19,412
+{\an8}<i>Wir haben Freiheit.</i>
+{\ an8} <i>We have freedom.</i>
+
+24
+00:01:19,579 --> 00:01:21,748
+{\an8}<i>Die Zukunft ist da.</i>
+{\ an8} <i>The future is here.</i>
+
+25
+00:01:23,208 --> 00:01:24,709
+<i>Und jetzt?</i>
+<i>And now?</i>
+
+26
+00:01:26,085 --> 00:01:27,629
+(Frau, leise) <i>Paul.</i>
+(Woman, softly) <i>Paul.</i>
+
+27
+00:01:27,879 --> 00:01:29,672
+<i>Du musst aufstehen.</i>
+<i>You have to get up.</i>
+
+28
+00:01:30,423 --> 00:01:31,758
+<i>Hey, es ist Zeit.</i>
+<i>Hey it's time</i>
+
+29
+00:01:31,925 --> 00:01:34,594
+Wir sind gerade erst ins Bett gegangen.
+We just went to bed.
+
+30
+00:01:34,761 --> 00:01:36,221
+(sie lacht)
+(she laughs)
+
+31
+00:01:36,387 --> 00:01:39,015
+<i>Oh Paul, du bist so ein Morgenmuffel.</i>
+<i>Oh Paul, you're such a grumpy morning.</i>
+
+32
+00:01:39,182 --> 00:01:41,935
+- Wie viel Uhr ist es denn?
+<i>- Halb 10.</i>
+- What time is it?
+<i>- 9:30.</i>
+
+33
+00:01:42,018 --> 00:01:43,353
+{\an8}Fuck!
+{\an8}Fuck!
+
+34
+00:01:46,064 --> 00:01:48,566
+(Lied: "Faith" von Lake Street Dive)
+(Lied: "Faith" von Lake Street Dive)
+
+35
+00:01:48,817 --> 00:01:51,319
+(schwungvoller Blues)
+(lively blues)
+
+36
+00:01:53,738 --> 00:01:55,949
+{\an8}- Wie ist das Wetter?
+<i>- Schnee, -2 Grad.</i>
+{\ an8} - What's the weather like?
+<i>- Snow, -2 degrees.</i>
+
+37
+00:01:56,116 --> 00:01:58,952
+{\an8}<i>- Die Aussichten sind trübe.</i>
+- Ja. Vergiss es.
+{\ an8} <i>- The prospects are</i> bleak .
+- Yes. Forget it.
+
+38
+00:02:07,335 --> 00:02:10,296
+<i>Paul, rate mal, was heute online erscheint.</i>
+<i>Paul, guess what's online today.</i>
+
+39
+00:02:10,463 --> 00:02:12,924
+Pharrell Williams'
+"Human Race Ultra Boost"?
+Pharrell Williams'
+"Human Race Ultra Boost"?
+
+40
+00:02:13,091 --> 00:02:15,635
+<i>Der Vorverkauf startet in 5 Minuten.</i>
+<i>Advance sales start in 5 minutes.</i>
+
+41
+00:02:15,885 --> 00:02:17,929
+- Was? Zeig.
+<i>- Such mich.</i>
+- What? Show.
+<i>- Search for me.</i>
+
+42
+00:02:18,096 --> 00:02:19,722
+- Wo bist du?
+<i>- Hier.</i>
+- Where are you?
+<i>- Here.</i>
+
+43
+00:02:19,973 --> 00:02:21,432
+{\an8}- Wo?
+<i>- Hier.</i>
+{\ an8} - Where?
+<i>- Here.</i>
+
+44
+00:02:21,683 --> 00:02:22,767
+{\an8}Oh, Nana.
+(Klingeln)
+{\an8}Oh, Nana.
+(Klingeln)
+
+45
+00:02:23,017 --> 00:02:24,227
+(er stöhnt)
+(he groans)
+
+46
+00:02:24,477 --> 00:02:26,604
+(lachend) <i>Paul, sei nicht so grob.</i>
+(laughing) <i>Paul, don't be so rude.</i>
+
+47
+00:02:31,151 --> 00:02:33,528
+(Lied läuft weiter)
+(Song continues)
+
+48
+00:02:36,656 --> 00:02:38,199
+{\an8}Yes! Yes!
+{\an8}Yes! Yes!
+
+49
+00:02:53,756 --> 00:02:54,841
+(Trump) <i>Fake news.</i>
+(Trump) <i>Fake news.</i>
+
+50
+00:02:55,091 --> 00:02:57,427
+(Katze miaut, Rumpeln)
+(Cat meows, rumble)
+
+51
+00:02:57,677 --> 00:02:59,721
+{\an8}(Frau stöhnt aus Lautsprecher)
+{\ an8} (woman groans from loudspeaker)
+
+52
+00:02:59,888 --> 00:03:00,972
+{\an8}(Klingeln)
+{\ an8} (ringing)
+
+53
+00:03:01,139 --> 00:03:02,265
+Scheiße.
+Crap.
+
+54
+00:03:02,515 --> 00:03:03,933
+(Lied klingt aus)
+(Song ends)
+
+55
+00:03:04,100 --> 00:03:05,685
+- Nicht dein Ernst.
+- Was?
+- Really.
+- What?
+
+56
+00:03:05,935 --> 00:03:07,979
+- Was machst du?
+- Sport.
+- What do you do?
+- Sports.
+
+57
+00:03:09,147 --> 00:03:10,440
+Mit Erektion?
+With an erection?
+
+58
+00:03:10,899 --> 00:03:12,317
+- Ah!
+- Los, mach hin.
+- Ah!
+- Go ahead.
+
+59
+00:03:13,192 --> 00:03:15,445
+{\an8}- Wo ist der Anzug?
+- Im Paket!
+{\ an8} - Where is the suit?
+- In the package!
+
+60
+00:03:15,695 --> 00:03:18,281
+- Welches?
+- Unter der Kaffeemaschine.
+- which one?
+- Under the coffee maker.
+
+61
+00:03:18,531 --> 00:03:21,492
+Ich starte mit Nachrichten,
+dann tweetet Trump
+I start with news,
+then Trump tweeted
+
+62
+00:03:21,743 --> 00:03:24,579
+und nach Katzenvideos
+lande ich bei YouPorn.
+and after cat videos
+I end up on YouPorn.
+
+63
+00:03:24,829 --> 00:03:27,206
+{\an8}Trump, Katze, YouPorn.
+Merkel, Eisbär, YouPorn.
+{\ an8} Trump, cat, YouPorn.
+Merkel, polar bear, YouPorn.
+
+64
+00:03:27,373 --> 00:03:29,375
+- Ein Fluch.
+- Ich hab's kapiert.
+- A curse.
+- I get it.
+
+65
+00:03:29,542 --> 00:03:31,252
+- Welche Schuhe?
+- Kanye West.
+- Which shoes?
+- Kanye West.
+
+66
+00:03:32,420 --> 00:03:34,339
+Die weißen!
+The white ones!
+
+67
+00:03:36,007 --> 00:03:38,134
+{\an8}- Wie lange hast du gemacht?
+- 2:53 Uhr.
+{\ an8} - How long did you do?
+- 2:53 am.
+
+68
+00:03:38,384 --> 00:03:41,471
+- Es reicht, sie ist super.
+- Sie hat einen Witz gemacht.
+- Enough, she's great.
+- She made a joke.
+
+69
+00:03:41,596 --> 00:03:42,805
+Heute wird sie verkauft,
+Today she is sold
+
+70
+00:03:43,056 --> 00:03:44,307
+und du machst Pause.
+and you take a break.
+
+71
+00:03:44,641 --> 00:03:45,892
+Hey.
+Hey.
+
+72
+00:03:46,142 --> 00:03:47,310
+Schlaf nicht mit der Arbeit.
+Don't sleep with work.
+
+73
+00:03:47,560 --> 00:03:49,395
+Ich schlafe nicht mit ihr.
+I don't sleep with her.
+
+74
+00:03:50,313 --> 00:03:52,482
+Shit! Ich kriege 'n Tumor.
+Shit! I'm gonna get a tumor.
+
+75
+00:03:52,732 --> 00:03:54,525
+{\an8}Wer zuletzt unten ist, verliert.
+{\ an8} Whoever is down last loses.
+
+76
+00:03:54,692 --> 00:03:56,986
+{\an8}- (Paul) Hä?
+- (Toni lacht)
+{\ an8} - (Paul) Huh?
+- (Toni laughs)
+
+77
+00:03:57,153 --> 00:03:59,155
+(schwungvoller Blues)
+(lively blues)
+
+78
+00:04:00,365 --> 00:04:03,701
+- Spinnst du? Nicht meine Haare!
+- Da gehen welche aus.
+- Are you crazy? Not my hair!
+- There are some going out.
+
+79
+00:04:03,868 --> 00:04:05,370
+- Was? Wo?
+- Da. (lacht)
+- What? Where?
+- There. (laughs)
+
+80
+00:04:05,536 --> 00:04:07,330
+Du fällst jedes Mal drauf rein.
+You fall for it every time.
+
+81
+00:04:07,497 --> 00:04:09,540
+Das ist ein ernsthaftes Problem!
+This is a serious problem!
+
+82
+00:04:10,291 --> 00:04:11,960
+Du musst die Ölwanne wechseln.
+You need to change the oil pan.
+
+83
+00:04:12,210 --> 00:04:14,045
+Das ist wie bei Deepwater Horizon.
+It's like Deepwater Horizon.
+
+84
+00:04:14,170 --> 00:04:16,506
+- Bist du glücklich, Toni?
+- Was?
+- Are you happy, Toni?
+- What?
+
+85
+00:04:17,173 --> 00:04:19,175
+Glücklich. Bist du glücklich?
+Happy. Are you happy?
+
+86
+00:04:19,342 --> 00:04:21,970
+- Wie kommst du darauf?
+- Ach... Ich hab da...
+- What makes you think that?
+- Oh ... I have ...
+
+87
+00:04:22,136 --> 00:04:23,972
+Ich bin glücklich, wenn du Gas gibst
+I am happy when you step on the gas
+
+88
+00:04:24,097 --> 00:04:25,974
+und dein Fuß nicht durchbricht.
+and your foot won't break through.
+
+89
+00:04:26,224 --> 00:04:29,227
+Beruhig dich. Dann sind halt 2,
+3 Leute vor uns da.
+Calm down. Then there are 2 or
+3 people in front of us.
+
+90
+00:04:31,938 --> 00:04:33,648
+(Frau) Die Nummer 126.
+(Woman) The number 126.
+
+91
+00:04:33,815 --> 00:04:36,651
+Konnte keiner wissen,
+dass alle so früh aufstehen.
+Nobody could have known
+that everyone was getting up so early.
+
+92
+00:04:36,818 --> 00:04:38,653
+Die sehen alle aus wie wir.
+They all look like us.
+
+93
+00:04:39,279 --> 00:04:41,864
+Ich dachte, wir sind was Besonderes.
+I thought we were special.
+
+94
+00:04:43,324 --> 00:04:44,659
+Haben alle Superideen?
+Do they all have great ideas?
+
+95
+00:04:44,826 --> 00:04:47,120
+- Toni, lass uns abhauen.
+- Paul.
+- Toni, let's get out of here.
+- Paul.
+
+96
+00:04:50,373 --> 00:04:52,959
+Entschuldigung, was pitcht ihr so?
+Sorry, what are you pitching?
+
+97
+00:04:53,793 --> 00:04:55,753
+Wir sind Minimalisten.
+We are minimalists.
+
+98
+00:04:56,546 --> 00:04:57,672
+- Ah ja.
+- Aha.
+- Ah yes.
+- Aha.
+
+99
+00:04:57,922 --> 00:04:59,382
+Wir leben mit 100 Dingen.
+We live with 100 things.
+
+100
+00:05:00,383 --> 00:05:02,635
+Deo gehört offensichtlich nicht dazu.
+Deodorant is obviously not one of them.
+
+101
+00:05:06,889 --> 00:05:08,725
+Und was ist eure Idee?
+And what is your idea?
+
+102
+00:05:08,891 --> 00:05:11,686
+Unsere App hilft, Unnötiges zu reduzieren.
+Our app helps to reduce unnecessary things.
+
+103
+00:05:12,353 --> 00:05:13,479
+Wer verdient daran?
+Who earns from it?
+
+104
+00:05:13,730 --> 00:05:16,024
+- Niemand.
+- Der Logik entziehen wir uns.
+- Nobody.
+- We evade logic.
+
+105
+00:05:16,274 --> 00:05:19,193
+Der Mensch muss frei sein,
+Dinge müssen einen Wert haben.
+Man must be free,
+things must have value.
+
+106
+00:05:19,360 --> 00:05:21,029
+Wir haben nur eine Erde.
+We only have one earth.
+
+107
+00:05:21,279 --> 00:05:23,323
+(unisono)
+Nieder mit dem Kaufzwang.
+(in unison)
+Down with the pressure to buy.
+
+108
+00:05:23,573 --> 00:05:24,949
+{\an8}(Frau) 128.
+{\ an8} (woman) 128.
+
+109
+00:05:25,116 --> 00:05:26,367
+{\an8}- Wow.
+- Ja.
+{\an8}- Wow.
+- Ja.
+
+110
+00:05:26,534 --> 00:05:27,618
+{\an8}Das...
+{\ an8} That ...
+
+111
+00:05:28,286 --> 00:05:29,787
+{\an8}- Viel Glück.
+- Wow.
+{\ an8} - Good luck.
+- Wow.
+
+112
+00:05:32,498 --> 00:05:34,625
+- Wir sind safe.
+- Gott sei Dank.
+- We are safe.
+- Thank God.
+
+113
+00:05:34,792 --> 00:05:36,419
+(rhythmischer E-Bass)
+(rhythmischer E-Bass)
+
+114
+00:05:36,586 --> 00:05:37,628
+684!
+684!
+
+115
+00:05:45,553 --> 00:05:46,971
+(Toni) <i>Ähm, hallo.</i>
+(Toni) <i>Um, hello.</i>
+
+116
+00:05:47,221 --> 00:05:48,681
+Anton Katz und Paul...
+Anton Katz and Paul ...
+
+117
+00:05:48,848 --> 00:05:51,434
+(Frau) Jaja, gleich zum Interessanten.
+(Woman) Yeah, right to the interesting.
+
+118
+00:05:51,601 --> 00:05:53,102
+Wir sind in der 13. Stunde,
+We are in the 13th hour
+
+119
+00:05:53,269 --> 00:05:55,855
+meine Nanny
+will zu ihrem Kind nach Polen.
+my nanny
+wants to go to her child in Poland.
+
+120
+00:05:56,022 --> 00:05:58,274
+Antonietta Kärcher,
+Senior Talent Scout.
+Antonietta Kärcher,
+Senior Talent Scout.
+
+121
+00:05:58,441 --> 00:05:59,817
+Herr Becht, Herr Dröger,
+Mr. Becht, Mr. Dröger,
+
+122
+00:05:59,984 --> 00:06:03,071
+die Anwälte der Anwälte unseres Mandanten.
+the lawyers of our client's lawyers.
+
+123
+00:06:03,237 --> 00:06:04,864
+Das ist David Zuckerman.
+This is David Zuckerman.
+
+124
+00:06:07,241 --> 00:06:08,284
+- Wer?
+- Who?
+- Wer?
+- Who?
+
+125
+00:06:13,372 --> 00:06:15,166
+- Fuck.
+- (Paul) Zuckerman.
+- Fuck.
+- (Paul) Zuckerman.
+
+126
+00:06:15,333 --> 00:06:16,459
+(Toni) Der schaut zu.
+(Toni) He's watching.
+
+127
+00:06:16,709 --> 00:06:20,630
+Na ja, jeder hier könnte
+der nächste Steve Jobs sein.
+Well, anyone here could be
+the next Steve Jobs.
+
+128
+00:06:25,301 --> 00:06:26,469
+Das war ironisch.
+That was ironic.
+
+129
+00:06:26,719 --> 00:06:28,638
+Niemand hier ist wie Steve Jobs.
+Nobody here is like Steve Jobs.
+
+130
+00:06:28,805 --> 00:06:31,432
+Und, was haben Sie Schönes für uns?
+And what nice things do you have for us?
+
+131
+00:06:32,892 --> 00:06:34,310
+Es ist ganz einfach.
+It's easy.
+
+132
+00:06:34,477 --> 00:06:35,978
+Ich habe mich gefragt:
+I asked myself:
+
+133
+00:06:36,145 --> 00:06:39,190
+Warum ist die Stimme
+auf dem Handy für jeden gleich?
+Why is the voice
+on the phone the same for everyone?
+
+134
+00:06:39,982 --> 00:06:44,070
+Egal, ob ich sie benutze, Toni,
+meine Mutter oder Sie,
+It doesn't matter whether I use them, Toni,
+my mother or you,
+
+135
+00:06:44,237 --> 00:06:46,197
+es ist immer dieselbe Stimme.
+it's always the same voice.
+
+136
+00:06:46,364 --> 00:06:48,032
+Ich habe mich gefragt,
+I was wondering
+
+137
+00:06:48,199 --> 00:06:51,244
+was, wenn unser Handy
+eine Persönlichkeit hätte?
+what if our cell phone had
+a personality?
+
+138
+00:06:51,494 --> 00:06:53,663
+Die ganz auf uns abgestimmt ist.
+Which is completely tailored to us.
+
+139
+00:06:53,830 --> 00:06:55,456
+Wie wollen Sie das machen?
+How are you going to do that?
+
+140
+00:06:55,706 --> 00:06:59,168
+Die Software erkennt
+unsere Emotionen an der Stimme
+The software recognizes
+our emotions by the voice
+
+141
+00:06:59,335 --> 00:07:00,503
+und passt sich an.
+and adapts.
+
+142
+00:07:01,629 --> 00:07:03,589
+Ja dann, lassen Sie mal hören.
+Well then, let's hear it.
+
+143
+00:07:04,715 --> 00:07:06,342
+- Jetzt?
+- Nein.
+- Now?
+- no
+
+144
+00:07:06,884 --> 00:07:09,512
+Jetzt nicht, das wäre ganz schlecht.
+Not now, that would be very bad.
+
+145
+00:07:10,138 --> 00:07:11,264
+Äh...
+Uh ...
+
+146
+00:07:11,889 --> 00:07:14,016
+Natürlich jetzt. Wann sonst?
+Of course now. When then?
+
+147
+00:07:22,775 --> 00:07:24,235
+Hallo, Nana.
+Hello, Nana.
+
+148
+00:07:26,821 --> 00:07:28,156
+Ähm...
+Um ...
+
+149
+00:07:29,449 --> 00:07:31,033
+Nana?
+Nana?
+
+150
+00:07:37,665 --> 00:07:39,041
+Äh... Nana.
+Ehh ... Nana.
+
+151
+00:07:39,292 --> 00:07:41,627
+<i>- Was ist, Paul?</i>
+- Oh, Gott sei Dank.
+<i>- What is it, Paul? </i>
+- Thank god.
+
+152
+00:07:41,794 --> 00:07:44,589
+Ich dachte, du bist weg.
+Aber wo sollte sie hin?
+I thought you were gone.
+But where should she go?
+
+153
+00:07:44,755 --> 00:07:47,842
+(lachend) <i>Paul, du bist</i>
+<i>der Lustigste, den ich kenne.</i>
+(laughing) <i>Paul, you are </i>
+<i>the funniest I know.</i>
+
+154
+00:07:48,092 --> 00:07:50,303
+<i>Allerdings bist du auch der Einzige.</i>
+<i>However, you are also the only one.</i>
+
+155
+00:07:50,553 --> 00:07:52,763
+Das ist ihr 2. eigener Witz.
+This is her 2nd own joke.
+
+156
+00:07:52,930 --> 00:07:54,599
+<i>- Findest du gut?</i>
+- Mega.
+<i>- Do you like it? </i>
+- mega.
+
+157
+00:07:54,765 --> 00:07:56,392
+<i>Habe ich mir ausgedacht.</i>
+<i>I made it up.</i>
+
+158
+00:07:56,559 --> 00:07:58,436
+- Du bist großartig.
+<i>- Nein, du.</i>
+- You are great.
+<i>- No you.</i>
+
+159
+00:07:58,686 --> 00:08:01,689
+- Ach, hör auf.
+- (kichernd) <i>Ich liebe dich.</i>
+- Oh, stop it.
+- (chuckling) <i>I love you.</i>
+
+160
+00:08:02,482 --> 00:08:06,402
+Ich tue nur so. Ich falle nicht
+auf meine Erfindung rein.
+I just pretend I'm not falling
+for my invention.
+
+161
+00:08:06,569 --> 00:08:07,987
+Sie mag mich halt.
+She just likes me.
+
+162
+00:08:08,696 --> 00:08:11,824
+Das kombiniert mit Ihren Datenbanken:
+Combined with your databases:
+
+163
+00:08:12,074 --> 00:08:14,243
+- Die Möglichkeiten sind riesig.
+- Nein.
+- The possibilities are huge.
+- no
+
+164
+00:08:14,494 --> 00:08:16,037
+Sie sind grenzenlos.
+You are limitless.
+
+165
+00:08:16,204 --> 00:08:19,332
+Wir könnten die Menschen
+psychologisch beraten,
+We could
+advise people psychologically
+
+166
+00:08:19,499 --> 00:08:22,168
+Alten Gesellschaft leisten,
+Kinder trösten.
+Keeping old company,
+comforting children.
+
+167
+00:08:22,335 --> 00:08:24,295
+Niemand muss arbeiten, einsam sein.
+Nobody has to work, be lonely.
+
+168
+00:08:24,462 --> 00:08:27,048
+Wir könnten die Menschen glücklich machen.
+We could make people happy.
+
+169
+00:08:27,215 --> 00:08:28,716
+Entschuldigen Sie,
+Excuse me,
+
+170
+00:08:28,883 --> 00:08:31,177
+hier wird seit 13 Stunden nur das gemacht.
+this has only been done here for 13 hours.
+
+171
+00:08:31,427 --> 00:08:33,262
+Glück, Glück, Glück...
+Happiness, happiness, happiness ...
+
+172
+00:08:33,429 --> 00:08:35,932
+Ich habe Sodbrennen
+von Ihrem Enthusiasmus.
+I got heartburn
+from your enthusiasm.
+
+173
+00:08:36,182 --> 00:08:37,683
+Vielen Dank. Danke.
+Many Thanks. Thanks.
+
+174
+00:08:42,980 --> 00:08:46,108
+Sie fragen sich,
+was für Sie dabei rausspringt.
+You
+'re wondering what's in it for you.
+
+175
+00:08:47,860 --> 00:08:51,739
+Das sind Pauls Laufwege
+in den letzten 9 Monaten.
+These are Paul's walks
+in the last 9 months.
+
+176
+00:08:51,989 --> 00:08:54,242
+Und das ist Paul.
+And this is Paul.
+
+177
+00:08:54,408 --> 00:08:56,869
+All seine Charaktereigenschaften.
+All of his character traits.
+
+178
+00:08:57,119 --> 00:09:01,249
+Während er NANA konfigurierte,
+sammelten wir Daten über ihn.
+While he was configuring NANA,
+we were collecting data on him.
+
+179
+00:09:01,415 --> 00:09:03,459
+- Was?
+- Wir kennen seinen Humor.
+- What?
+- We know his sense of humor.
+
+180
+00:09:03,626 --> 00:09:05,419
+Kennen Ängste und Vorlieben,
+Know fears and preferences
+
+181
+00:09:05,586 --> 00:09:07,880
+aber vor allem seine Schwachpunkte.
+but above all its weaknesses.
+
+182
+00:09:08,130 --> 00:09:09,173
+Äh, bitte was?
+Uh please what?
+
+183
+00:09:09,423 --> 00:09:13,594
+Wir haben ihm zum Test
+passende Angebote untergejubelt.
+We gave him
+offers suitable for the test .
+
+184
+00:09:13,761 --> 00:09:15,680
+Er hat sie alle gekauft. Alle.
+He bought them all. All.
+
+185
+00:09:15,930 --> 00:09:18,724
+151 Produkte.
+151 products.
+
+186
+00:09:18,975 --> 00:09:22,270
+Schuhe, die er nicht anzieht,
+weil sie neu bleiben sollen.
+Shoes that he doesn't wear
+because they should stay new.
+
+187
+00:09:22,436 --> 00:09:25,565
+Basecaps, die er nicht trägt,
+weil er sie nicht findet.
+Baseball caps that he doesn't wear
+because he can't find them.
+
+188
+00:09:25,731 --> 00:09:28,401
+Kondome, die er nicht braucht...
+Condoms he doesn't need ...
+
+189
+00:09:29,360 --> 00:09:30,695
+weil er sie nicht braucht.
+because he doesn't need her.
+
+190
+00:09:30,945 --> 00:09:32,321
+Was glauben Sie,
+What do you think,
+
+191
+00:09:32,572 --> 00:09:35,783
+würde die Industrie zahlen,
+um Paul so gut zu kennen?
+would the industry pay
+to know Paul so well?
+
+192
+00:09:36,033 --> 00:09:37,743
+(Vibrieren)
+(Vibrate)
+
+193
+00:09:37,910 --> 00:09:40,538
+Sehen Sie, das ist meine Nanny. Wetten?
+See, this is my nanny. Betting?
+
+194
+00:09:40,705 --> 00:09:44,417
+Meine Kinder sitzen sicher
+an der Raststätte Frankfurt Oder.
+My children are safe
+at the Frankfurt Oder service area.
+
+195
+00:09:44,584 --> 00:09:47,128
+- Darf ich dich mal sprechen?
+- Nicht jetzt.
+- May I speak to you?
+- Not now.
+
+196
+00:09:47,753 --> 00:09:50,840
+Verarschst du mich?
+Ihr habt mich als Köder benutzt?
+Are you kidding me
+You used me as bait?
+
+197
+00:09:51,090 --> 00:09:52,925
+Ich konnte nichts sagen.
+I couldn't say anything.
+
+198
+00:09:53,175 --> 00:09:55,636
+Ich wirke wie ein Vollspast,
+der alles kauft.
+I look like a fat man who
+buys everything.
+
+199
+00:09:55,886 --> 00:09:57,346
+Du hast alles gekauft.
+You bought everything.
+
+200
+00:09:57,597 --> 00:09:59,557
+Nee, ist klar. Ist... Wirklich?
+No, that's clear. Is really?
+
+201
+00:09:59,807 --> 00:10:01,559
+Paul, du bist ein Genie.
+Paul, you are a genius.
+
+202
+00:10:01,809 --> 00:10:04,020
+Aber du bist eine Konsumschlampe.
+But you're a consumer slut.
+
+203
+00:10:04,270 --> 00:10:06,480
+- Du warst perfekt.
+- Ich bin keine Konsum...
+- You were perfect.
+- I am not consuming ...
+
+204
+00:10:06,647 --> 00:10:07,690
+Pst!
+Pst!
+
+205
+00:10:11,027 --> 00:10:13,112
+Das ist noch nie vorgekommen.
+That has never happened before.
+
+206
+00:10:13,279 --> 00:10:14,655
+Was?
+Was?
+
+207
+00:10:15,197 --> 00:10:17,033
+- Er hat angerufen.
+- Wer?
+- He has called.
+- Who?
+
+208
+00:10:18,284 --> 00:10:19,577
+Er.
+Is.
+
+209
+00:10:20,703 --> 00:10:22,038
+Er?
+Is?
+
+210
+00:10:22,204 --> 00:10:23,664
+Er bietet 4 Millionen Euro.
+He offers 4 million euros.
+
+211
+00:10:23,914 --> 00:10:26,042
+Warum kann ich mir nicht erklären.
+I can't explain why.
+
+212
+00:10:26,208 --> 00:10:27,543
+- Aber...
+- Yes.
+- Aber...
+- Yes.
+
+213
+00:10:27,793 --> 00:10:30,254
+Er kommt zur Digital Midget Convention.
+He's coming to the Digital Midget Convention.
+
+214
+00:10:30,421 --> 00:10:31,964
+Er möchte Sie treffen.
+He wants to meet you.
+
+215
+00:10:32,590 --> 00:10:34,467
+(Jubel)
+(Cheers)
+
+216
+00:10:34,717 --> 00:10:35,760
+4 Millionen!
+4 million!
+
+217
+00:10:35,926 --> 00:10:37,637
+Ja! Geil, oder?
+Yes! Cool, right?
+
+218
+00:10:37,803 --> 00:10:40,056
+(Lied: "Remmidemmi" von Deichkind)
+(Song: "Remmidemmi" by Deichkind)
+
+219
+00:10:40,306 --> 00:10:42,767
+(sie singen) <i>Yippie Yippie Yeah</i>
+<i>Yippie Yeah</i>
+(they sing) <i>Yippie Yippie Yeah </i>
+<i>Yippie Yeah</i>
+
+220
+00:10:43,017 --> 00:10:44,393
+<i>Krawall und Remmidemmi!</i>
+<i>Riots and Remmidemmi!</i>
+
+221
+00:10:44,644 --> 00:10:46,937
+Reden wir noch über die Festanstellung?
+Are we still talking about permanent employment?
+
+222
+00:10:47,104 --> 00:10:48,689
+- Was?
+- Festanstellung!
+- What?
+- Permanent employment!
+
+223
+00:10:48,939 --> 00:10:50,733
+- Jetzt?
+- Ja. Ich kann nicht mehr.
+- Now?
+- Yes. I can not anymore.
+
+224
+00:10:50,983 --> 00:10:53,527
+Ich wohne unter 'ner Treppe,
+wie Harry Potter.
+I live under the stairs
+like Harry Potter.
+
+225
+00:10:53,778 --> 00:10:55,780
+Ich muss immer ein Airbnb mieten,
+I always have to rent an Airbnb
+
+226
+00:10:55,946 --> 00:10:57,823
+wenn meine Eltern kommen.
+when my parents come.
+
+227
+00:10:58,616 --> 00:11:01,118
+Hi, du bist also der neue Steve Jobs?
+Hi, are you the new Steve Jobs?
+
+228
+00:11:01,327 --> 00:11:02,662
+- Was?
+- Jobs. Steve.
+- Was?
+- Jobs. Steve.
+
+229
+00:11:02,912 --> 00:11:05,081
+Job? Hat sie Job gesagt?
+Job? Did she say job?
+
+230
+00:11:05,331 --> 00:11:07,625
+- Betty, sie...
+- Hast du den Arsch offen?
+- Betty, she ...
+- Do you have your ass open?
+
+231
+00:11:07,875 --> 00:11:09,502
+Ich arbeite 7 Jahre quasi für lau
+I work for 7 years for free
+
+232
+00:11:09,752 --> 00:11:11,629
+und brauch 'ne Festanstellung.
+and need a permanent job.
+
+233
+00:11:11,879 --> 00:11:15,049
+Wenn du dazwischen grätschst,
+mit deinen Extensions,
+If you grapple in between
+with your extensions
+
+234
+00:11:15,216 --> 00:11:18,302
+dann zieh dich warm an,
+ich breche dir die Beine.
+then dress warmly,
+I'll break your legs.
+
+235
+00:11:18,511 --> 00:11:20,388
+Such dir 'nen Fußballer!
+Find a footballer!
+
+236
+00:11:22,348 --> 00:11:24,016
+Was?
+Was?
+
+237
+00:11:24,475 --> 00:11:25,476
+Äh, nichts.
+Uh, nothing.
+
+238
+00:11:25,643 --> 00:11:27,436
+Ronnie, hast du Paul gesehen?
+Ronnie, did you see Paul?
+
+239
+00:11:27,603 --> 00:11:29,563
+Der feiert irgendwo derbe ab!
+He's celebrating somewhere rough!
+
+240
+00:11:29,814 --> 00:11:31,774
+(Jubel)
+(Cheers)
+
+241
+00:11:32,024 --> 00:11:34,026
+(Lied läuft laut weiter)
+(Song continues loudly)
+
+242
+00:11:40,616 --> 00:11:42,493
+Ja. Ich, äh...
+Yes. I, uh ...
+
+243
+00:11:42,660 --> 00:11:45,329
+Paul und ich wollten ein paar Worte sagen.
+Paul and I wanted to say a few words.
+
+244
+00:11:45,579 --> 00:11:47,665
+Keine Ahnung, wo der ist.
+(Jubelruf)
+I don't know where it is.
+(Cheers)
+
+245
+00:11:48,791 --> 00:11:50,167
+(Gelächter)
+(Laughter)
+
+246
+00:11:50,334 --> 00:11:54,422
+Als mir Paul vor 5 Jahren
+von seiner Idee erzählte,
+When Paul told me
+about his idea 5 years ago ,
+
+247
+00:11:54,588 --> 00:11:55,714
+war es für uns...
+was it for us ...
+
+248
+00:11:55,881 --> 00:11:57,133
+Langweilig!
+Boring!
+
+249
+00:11:57,299 --> 00:11:59,885
+(singt) <i>DJ turn the music on!</i>
+(singt) <i>DJ turn the music on!</i>
+
+250
+00:12:01,011 --> 00:12:02,763
+- Sorry.
+- Da ist er ja.
+- Sorry.
+- There He is.
+
+251
+00:12:02,930 --> 00:12:04,974
+- Ja, da bin ich.
+- Komm hoch.
+- Yes, there I am.
+- Get up.
+
+252
+00:12:05,224 --> 00:12:06,392
+Sorry.
+Sorry.
+
+253
+00:12:06,559 --> 00:12:09,562
+Ich musste mir noch Turnschuhe bestellen.
+I still had to order sneakers.
+
+254
+00:12:10,187 --> 00:12:11,605
+Ok, wo war ich?
+Ok where was i
+
+255
+00:12:11,856 --> 00:12:13,399
+Keine Ahnung. Wo?
+No idea. Where?
+
+256
+00:12:14,358 --> 00:12:16,902
+- Paul erzählte mir die Idee...
+- Ja.
+- Paul told me the idea ...
+- Yes.
+
+257
+00:12:17,528 --> 00:12:20,030
+- Uns war nicht klar...
+- Habe ich ihm erzählt.
+- We didn't realize ...
+- I told him.
+
+258
+00:12:20,197 --> 00:12:23,242
+- War für uns unvorstellbar...
+- Unvorstellbar.
+- It was unimaginable for us ...
+- Unimaginable.
+
+259
+00:12:23,409 --> 00:12:26,495
+- Mit 'nem Angebot...
+- Wuh! Riesenangebot.
+- With an offer ...
+- Wuh! Huge offer.
+
+260
+00:12:26,662 --> 00:12:28,998
+- Machst du weiter so?
+- Ups. Nein.
+- are you doing it like this?
+- oops. No.
+
+261
+00:12:29,165 --> 00:12:30,499
+- Sorry.
+- Ok.
+- Sorry.
+- Ok.
+
+262
+00:12:30,666 --> 00:12:32,084
+- Bitte.
+- Danke.
+- You're welcome.
+- Thanks.
+
+263
+00:12:33,961 --> 00:12:37,756
+Wir wollten uns bei euch
+für eure harte Arbeit bedanken.
+We wanted to
+thank you guys for your hard work.
+
+264
+00:12:38,007 --> 00:12:40,259
+Toni bekam erst mit 17 Schamhaare.
+Toni only got pubic hair when she was 17.
+
+265
+00:12:41,385 --> 00:12:43,012
+Als Letzter in der Klasse.
+Last in class.
+
+266
+00:12:44,388 --> 00:12:47,433
+Er war überhaupt
+sehr spät dran für sein Alter.
+He was really
+late for his age anyway .
+
+267
+00:12:47,600 --> 00:12:50,269
+Er stopfte sich Klopapier
+in die Unterhose.
+He stuffed toilet paper
+into his underpants.
+
+268
+00:12:50,519 --> 00:12:51,854
+(Toni und Paul lachen)
+(Toni and Paul laugh)
+
+269
+00:12:52,104 --> 00:12:54,064
+Ich verstehe, was das wird.
+I understand what that will be.
+
+270
+00:12:54,315 --> 00:12:57,526
+Deswegen braucht er Muckis.
+Und Statussymbole.
+That's why he needs muscles.
+And status symbols.
+
+271
+00:12:57,776 --> 00:12:59,528
+Die Konsumschlampe ist noch sauer.
+The consumer bitch is still mad.
+
+272
+00:12:59,778 --> 00:13:01,238
+Wer ist die Konsumschlampe?
+Who is the consumer slut?
+
+273
+00:13:01,363 --> 00:13:02,740
+- Das ärgert dich.
+- Du.
+- That annoys you.
+- you.
+
+274
+00:13:02,990 --> 00:13:06,202
+- Du hast keine Selbstkontrolle.
+- Uhr, Anzug...
+- You have no self-control.
+- watch, suit ...
+
+275
+00:13:06,368 --> 00:13:08,787
+Paul hat 'ne Standleitung zu Amazon.
+Paul has a dedicated line to Amazon.
+
+276
+00:13:09,038 --> 00:13:11,499
+- Und keine Disziplin!
+- Meine Haare gehen aus.
+- And no discipline!
+- My hair is going out.
+
+277
+00:13:11,749 --> 00:13:14,960
+Ich kann ohne alles,
+ich definiere mich nicht darüber.
+I can do without everything,
+I don't define myself by it.
+
+278
+00:13:15,211 --> 00:13:17,588
+Du hältst keinen Tag
+ohne deinen Scheiß aus.
+You can't go a day
+without your shit.
+
+279
+00:13:17,838 --> 00:13:19,298
+- 100 Tage.
+- Niemals.
+- 100 days.
+- No way.
+
+280
+00:13:19,507 --> 00:13:20,591
+Wetten?
+Betting?
+
+281
+00:13:20,758 --> 00:13:23,093
+Paul, Paul, Paul.
+Paul, Paul, Paul.
+
+282
+00:13:23,719 --> 00:13:25,930
+Ich tue alles weg. Kannst du das auch?
+I put everything away. Can you do that too
+
+283
+00:13:26,180 --> 00:13:27,598
+- Hm?
+- Alles?
+- Hm?
+- Everything?
+
+284
+00:13:27,723 --> 00:13:29,975
+- Alles, was wir besitzen?
+- Ja, all...
+- Everything we own?
+- Yes, all ...
+
+285
+00:13:30,142 --> 00:13:31,685
+Jeden Tag kommt was zurück.
+Something comes back every day.
+
+286
+00:13:31,936 --> 00:13:33,354
+Ach so. Ja.
+I see. Yes.
+
+287
+00:13:33,604 --> 00:13:34,980
+Wer aufgibt,
+Who gives up
+
+288
+00:13:35,147 --> 00:13:39,235
+überschreibt der Belegschaft
+die Hälfte seiner Anteile.
+overwrites
+half of its shares to the workforce .
+
+289
+00:13:39,401 --> 00:13:41,153
+(anschwellender Jubel)
+(rising cheers)
+
+290
+00:13:41,987 --> 00:13:43,948
+(Ronnie) Das gibt's nicht!
+(Ronnie) That doesn't exist!
+
+291
+00:13:44,073 --> 00:13:46,116
+- Bist du bescheuert?
+- Oh.
+- Are you stupid?
+- oh
+
+292
+00:13:46,283 --> 00:13:48,285
+Oh, da zieht er den Schwanz ein.
+Oh, there he pulls in his tail.
+
+293
+00:13:48,452 --> 00:13:50,871
+Wenn's ums Geld geht, wird er vorsichtig.
+When it comes to money, he gets cautious.
+
+294
+00:13:51,121 --> 00:13:53,207
+- Weil er geizig ist.
+- Du Geizhals!
+- Because he's stingy.
+- You curmudgeon!
+
+295
+00:13:53,457 --> 00:13:55,793
+(Buhrufe)
+(Boos)
+
+296
+00:13:56,961 --> 00:13:59,255
+(Menge) Toni, Toni, Toni...
+(Crowd) Toni, Toni, Toni ...
+
+297
+00:13:59,421 --> 00:14:02,508
+- Toni, Toni...
+- Paul, Paul, Paul...
+- Toni, Toni ...
+- Paul, Paul, Paul ...
+
+298
+00:14:02,758 --> 00:14:05,010
+(lauter Jubel)
+(loud cheers)
+
+299
+00:14:06,345 --> 00:14:09,932
+Jetzt haben wir 10 Aufpasser,
+die auf Fehler warten.
+Now we have 10 watchdogs
+waiting for mistakes.
+
+300
+00:14:10,182 --> 00:14:13,561
+Die haben gesoffen.
+Bis morgen ist das vergessen.
+They drank.
+That'll be forgotten by tomorrow.
+
+301
+00:14:27,449 --> 00:14:29,118
+(Aufschrei)
+(Outcry)
+
+302
+00:14:39,670 --> 00:14:41,380
+Toni.
+(Klappern)
+Toni.
+(Clatter)
+
+303
+00:14:41,630 --> 00:14:43,507
+- (Frau) Zum Frisör.
+- Shit.
+- (woman) To the hairdresser.
+- Shit.
+
+304
+00:14:43,757 --> 00:14:45,801
+(2. Frau) Jutta, brauchst du Hilfe?
+(2nd wife) Jutta, do you need help?
+
+305
+00:14:45,968 --> 00:14:47,428
+Fuck.
+Fuck.
+
+306
+00:14:51,432 --> 00:14:53,183
+Das ist ja toll.
+That's great.
+
+307
+00:14:53,726 --> 00:14:55,227
+Hallo.
+Hi there.
+
+308
+00:14:56,270 --> 00:14:59,064
+- (Junge) Ja!
+- Ja. Das ist ein Penis.
+- (boy) Yeah!
+- Yes. It's a penis.
+
+309
+00:14:59,231 --> 00:15:00,608
+Die Vorhaut.
+The foreskin.
+
+310
+00:15:00,774 --> 00:15:03,736
+- Genau. So was hast du auch.
+- Äh, ich...
+- I agree. You have something like that too.
+- Uh, I ...
+
+311
+00:15:03,986 --> 00:15:06,280
+Super, dass er sieht, was ihm bevorsteht.
+It's great that he sees what's in store for him.
+
+312
+00:15:06,447 --> 00:15:08,699
+Elke und ich können da nicht helfen.
+Elke and I can't help.
+
+313
+00:15:08,949 --> 00:15:12,161
+Guck mal, wie 'ne Python
+mit Rollkragenpullover.
+Look, like a python
+with a turtleneck.
+
+314
+00:15:12,411 --> 00:15:14,997
+Jutta, ich muss gehen. Schönen Tag.
+Jutta, I have to go. Nice day.
+
+315
+00:15:20,210 --> 00:15:21,670
+Toni?
+Toni?
+
+316
+00:15:25,049 --> 00:15:26,842
+Oh Gott.
+Oh God.
+
+317
+00:15:33,891 --> 00:15:35,100
+(Toni) Mhm?
+(Toni) Mhm?
+
+318
+00:15:35,267 --> 00:15:36,977
+Gott sei Dank, du lebst.
+Thank god you're alive
+
+319
+00:15:37,144 --> 00:15:39,730
+Alles ist weg. Möbel, Wertsachen...
+Everything is gone. Furniture, valuables ...
+
+320
+00:15:39,897 --> 00:15:41,982
+Mein Handy. Wir müssen die Polizei...
+My mobile phone. We need the police ...
+
+321
+00:15:42,232 --> 00:15:44,109
+Du siehst aus wie ein Steak.
+You look like a steak.
+
+322
+00:15:44,276 --> 00:15:48,072
+- Übernachtung auf der Heizung.
+- Wieso? Was ist passiert?
+- Overnight on the heater.
+- How so? What happened?
+
+323
+00:15:48,322 --> 00:15:50,574
+Dir darf man keinen Alkohol geben.
+You can't be given alcohol.
+
+324
+00:15:50,741 --> 00:15:53,869
+Ich hab 'nen Filmriss.
+War bestimmt was im Drink.
+I've got a tear in the film.
+Was definitely something in the drink.
+
+325
+00:15:54,036 --> 00:15:55,871
+Das kennt man aus den Medien.
+You know that from the media.
+
+326
+00:15:56,038 --> 00:15:58,624
+K.-o.-Tropfen, ausgeraubt, ver... Was?
+Knockout drops, robbed, ruined ... What?
+
+327
+00:16:00,084 --> 00:16:01,126
+Aua.
+No.
+
+328
+00:16:03,295 --> 00:16:05,005
+Ausziehen! Ausziehen...
+Take off! Take off...
+
+329
+00:16:07,800 --> 00:16:08,968
+Nee.
+No.
+
+330
+00:16:09,134 --> 00:16:10,469
+Jep.
+Give.
+
+331
+00:16:10,636 --> 00:16:13,305
+- Nee. Nee...
+- Doch, und es war deine Idee.
+- Nope. Nah ...
+- Yes, and it was your idea.
+
+332
+00:16:13,555 --> 00:16:15,557
+Das kann keiner ernst nehmen.
+Nobody can take that seriously.
+
+333
+00:16:15,724 --> 00:16:18,143
+Hat keiner,
+bis du Anteile versprochen hast.
+Nobody has
+until you've promised shares.
+
+334
+00:16:18,394 --> 00:16:20,562
+Unter Alkoholeinfluss. Das gilt nicht.
+Under the influence of alcohol. That doesn't apply.
+
+335
+00:16:20,729 --> 00:16:22,147
+Natürlich nicht.
+Of course not.
+
+336
+00:16:22,398 --> 00:16:25,025
+Wir sagen beide,
+ist nicht, es war ein Witz.
+We both say
+is not, it was a joke.
+
+337
+00:16:25,275 --> 00:16:27,277
+- Wir beide.
+- Steht keiner blöd da.
+- We both.
+- Nobody looks stupid.
+
+338
+00:16:27,486 --> 00:16:29,071
+- Stimmt.
+- Was sollen sie machen?
+- Right.
+- What should you do?
+
+339
+00:16:29,321 --> 00:16:30,572
+Was sollen sie machen?
+What should you do?
+
+340
+00:16:30,739 --> 00:16:31,782
+(Klingeln)
+(Ring)
+
+341
+00:16:33,409 --> 00:16:34,910
+Schönen guten Morgen.
+Good Morning.
+
+342
+00:16:35,160 --> 00:16:38,247
+Wir haben schön geschuftet,
+bis alles drin war.
+We worked nice
+until everything was there.
+
+343
+00:16:39,707 --> 00:16:41,083
+Hallo.
+Hi there.
+
+344
+00:16:41,333 --> 00:16:44,712
+Die Miete ist 100 Tage bezahlt,
+wir haben zusammengelegt.
+The rent has been paid for 100 days,
+we have merged.
+
+345
+00:16:44,878 --> 00:16:47,131
+Ich auch, trotz Praktikantengehalt.
+Me too, despite my internship.
+
+346
+00:16:47,381 --> 00:16:48,882
+Hier sind die Regeln.
+Here are the rules.
+
+347
+00:16:49,133 --> 00:16:52,261
+Immer um Mitternacht
+holt ihr eine Sache zurück.
+You always bring something back at midnight .
+
+348
+00:16:52,428 --> 00:16:54,304
+Schuhe und Socken sind eins.
+Shoes and socks are one.
+
+349
+00:16:54,555 --> 00:16:56,265
+Nahrungsmittel gibt's im Büro.
+There's food in the office.
+
+350
+00:16:56,515 --> 00:16:58,934
+Eure Karten und Geld sind hier drin.
+Your cards and money are in here.
+
+351
+00:16:59,935 --> 00:17:01,854
+Wer das aufmacht, hat verloren.
+Whoever opens that has lost.
+
+352
+00:17:02,104 --> 00:17:04,690
+Den Proviant fürs Wochenende
+hat Betty geholt.
+Betty has fetched the provisions for the weekend .
+
+353
+00:17:04,857 --> 00:17:07,443
+Superfood und Smoothies gegen den Kater.
+Superfood and smoothies against the hangover.
+
+354
+00:17:07,693 --> 00:17:08,819
+Danke.
+Thanks.
+
+355
+00:17:08,986 --> 00:17:12,322
+Äh, die Regeln muss man ja
+nicht so penibel sehen.
+Uh, you
+don't have to be so meticulous about the rules .
+
+356
+00:17:13,490 --> 00:17:15,242
+Wisst ihr, was das ist?
+Do you know what that is?
+
+357
+00:17:16,035 --> 00:17:18,996
+Carrie Fishers Bikini
+aus <i>Rückkehr der Jedi-Ritter.</i>
+Carrie Fisher's bikini
+from <i>Return of the Jedi.</i>
+
+358
+00:17:19,163 --> 00:17:22,458
+Der wird bald versteigert.
+Wisst ihr, wer mitbietet?
+It will be auctioned off soon.
+Do you know who is bidding?
+
+359
+00:17:24,084 --> 00:17:25,210
+Ok.
+Ok.
+
+360
+00:17:26,086 --> 00:17:27,421
+(Paul) Pass auf, Ronnie,
+(Paul) watch out, Ronnie,
+
+361
+00:17:28,672 --> 00:17:30,674
+Toni möchte was sagen.
+Toni would like to say something.
+
+362
+00:17:32,634 --> 00:17:34,636
+Paul hat Schiss, dass er es nicht packt.
+Paul is scared that he won't make it.
+
+363
+00:17:36,722 --> 00:17:39,224
+- (lachend) Ja.
+- Die Flasche.
+- (laughing) Yes.
+- The bottle.
+
+364
+00:17:39,475 --> 00:17:40,976
+Zu Recht.
+Rightly.
+
+365
+00:17:43,437 --> 00:17:44,980
+Ihr fangt ja bei 0 an.
+You start at 0.
+
+366
+00:17:45,230 --> 00:17:46,565
+Keine Schüssel.
+No bowl.
+
+367
+00:17:48,942 --> 00:17:50,861
+Gläser habt ihr auch keine.
+You don't have any glasses either.
+
+368
+00:17:51,737 --> 00:17:54,698
+So, und... der muss leider auch mit.
+So, and ... unfortunately he has to go too.
+
+369
+00:17:57,326 --> 00:17:59,036
+- Betty.
+- Ja.
+- Betty.
+- Yes.
+
+370
+00:18:04,041 --> 00:18:06,585
+Du hast gesagt, wir sagen gemeinsam ab.
+You said we would cancel together.
+
+371
+00:18:06,752 --> 00:18:10,339
+Ja. Und dann fiel mir ein,
+meine Anteile sind ja safe.
+Yes. And then it occurred to me that
+my parts are safe.
+
+372
+00:18:10,589 --> 00:18:13,175
+Gegen dich kann man nicht verlieren.
+You can't lose against you.
+
+373
+00:18:14,802 --> 00:18:16,804
+(Kirchenuhr gongt)
+(Church clock gong)
+
+374
+00:18:22,059 --> 00:18:24,061
+(sie atmen bibbernd)
+(they breathe shivering)
+
+375
+00:18:25,104 --> 00:18:26,647
+Nee, das mache ich nicht.
+Nah, I don't do that.
+
+376
+00:18:26,814 --> 00:18:27,981
+Ich nehme das Auto.
+I take the car.
+
+377
+00:18:32,319 --> 00:18:33,987
+Dann ist das deine erste Sache.
+Then this is your first thing.
+
+378
+00:18:34,154 --> 00:18:35,572
+Was? Fuck. Nein.
+What? Fuck. No.
+
+379
+00:18:35,823 --> 00:18:37,157
+Toni, bring mir was mit.
+Toni, bring me something.
+
+380
+00:18:37,324 --> 00:18:38,450
+Scheiße. Toni!
+Crap. Toni!
+
+381
+00:18:39,243 --> 00:18:41,078
+Au. Ah!
+At. Ah!
+
+382
+00:18:41,328 --> 00:18:42,996
+(schwungvoller Swing)
+(lively swing)
+
+383
+00:19:00,514 --> 00:19:01,807
+(Musik endet)
+(Music ends)
+
+384
+00:19:03,851 --> 00:19:05,435
+- Meine Sachen.
+- Arschgeigen.
+- My stuff.
+- Butt violins.
+
+385
+00:19:05,686 --> 00:19:08,438
+- (Paul) Alles da.
+- Alles durcheinander.
+- (Paul) Everything is there.
+- All mixed up.
+
+386
+00:19:08,605 --> 00:19:09,815
+Ok, ganz logisch.
+Ok, quite logical.
+
+387
+00:19:10,065 --> 00:19:11,817
+Ok, ganz logisch.
+Ok, quite logical.
+
+388
+00:19:12,067 --> 00:19:13,735
+Wärmen, anziehen, abtrocknen.
+Warm up, dress, dry off.
+
+389
+00:19:13,986 --> 00:19:15,487
+Bedecken, wärmen, anziehen.
+Cover, warm, dress.
+
+390
+00:19:18,991 --> 00:19:20,242
+Mein Handy.
+My mobile phone.
+
+391
+00:19:20,492 --> 00:19:21,869
+Meine Anzüge.
+My suits.
+
+392
+00:19:23,996 --> 00:19:25,455
+Das ist Kaschmir.
+This is cashmere.
+
+393
+00:19:25,622 --> 00:19:28,667
+Das muss man aufhängen,
+das muss man gut behandeln.
+You have to hang it up,
+treat it well.
+
+394
+00:19:29,626 --> 00:19:31,628
+(ruhige Musik erklingt)
+(quiet music sounds)
+
+395
+00:19:35,716 --> 00:19:37,718
+(Musik wird lauter)
+(Music gets louder)
+
+396
+00:19:54,526 --> 00:19:55,611
+Nana.
+Nana.
+
+397
+00:19:55,777 --> 00:19:57,446
+Nana, hörst du mich?
+Nana do you hear me
+
+398
+00:19:58,363 --> 00:20:00,991
+- Nana.
+- Das ist nicht dein Ernst.
+- Nana.
+- You are kidding me.
+
+399
+00:20:03,368 --> 00:20:05,704
+Ich nehme den Mantel. Ich bin fertig.
+I take the coat. I'm done.
+
+400
+00:20:05,871 --> 00:20:07,372
+Und du?
+And you?
+
+401
+00:20:08,957 --> 00:20:10,542
+Das ist deine erste Sache?
+Is this your first thing?
+
+402
+00:20:14,004 --> 00:20:16,548
+- Ja.
+- Aha. Rollst du nach Hause?
+- Yes.
+- Aha. Are you rolling home
+
+403
+00:20:24,181 --> 00:20:25,265
+Scheiße.
+Crap.
+
+404
+00:20:25,432 --> 00:20:27,100
+Das ist leider gut.
+Unfortunately that is good.
+
+405
+00:20:28,602 --> 00:20:30,812
+- Mach mal den Mantel auf.
+- Wieso?
+- Open your coat.
+- How so?
+
+406
+00:20:33,273 --> 00:20:34,858
+- Zeig mal.
+- Nein.
+- Show me.
+- no
+
+407
+00:20:38,070 --> 00:20:40,113
+-Alter!
+- Beides Beckham, also eins.
+-Age!
+- Both Beckham, so one.
+
+408
+00:20:40,364 --> 00:20:41,406
+Zieh aus.
+Move out.
+
+409
+00:20:41,573 --> 00:20:44,534
+Der Mantel ist zu dünn
+und der Pulli zu kurz.
+The coat is too thin
+and the sweater too short.
+
+410
+00:20:44,785 --> 00:20:48,080
+Ich habe halt keine
+Patagonia-Survival-Ausrüstung.
+I don't have any
+Patagonia survival gear.
+
+411
+00:20:48,247 --> 00:20:50,082
+Hose oder Pulli?
+Pants or sweater?
+
+412
+00:20:50,249 --> 00:20:51,833
+Hose. Pulli!
+Trousers. Sweater!
+
+413
+00:20:52,084 --> 00:20:53,961
+Nein, ich kann das nicht!
+No I can not do this!
+
+414
+00:20:54,211 --> 00:20:55,712
+Hör auf. Nein.
+Stop it. No.
+
+415
+00:20:55,963 --> 00:20:57,506
+(Rattern)
+(Rattern)
+
+416
+00:20:59,549 --> 00:21:01,551
+(coole Rockmusik)
+(cool rock music)
+
+417
+00:21:07,224 --> 00:21:09,393
+Hi, ich will gar nicht stören.
+Hi, I don't want to bother you at all.
+
+418
+00:21:09,559 --> 00:21:11,061
+Darf ich mal kurz?
+May I take a moment?
+
+419
+00:21:17,276 --> 00:21:18,902
+- Ähm...
+- Pst.
+- Um ...
+- Pst.
+
+420
+00:21:19,820 --> 00:21:21,905
+(Klingeln)
+Oh, Gott sei Dank.
+(Ringing)
+Oh thank god.
+
+421
+00:21:22,072 --> 00:21:23,198
+Danke dir.
+Thank you.
+
+422
+00:21:25,409 --> 00:21:27,661
+Du kannst auflegen, ich hab's.
+You can hang up, I've got it.
+
+423
+00:21:27,911 --> 00:21:29,955
+Ach so. Ich bin für den Mantel.
+I see. I am for the coat.
+
+424
+00:21:30,122 --> 00:21:31,873
+Der Pulli ist etwas kurz.
+The sweater is a bit short.
+
+425
+00:21:33,750 --> 00:21:34,793
+Fuck.
+Fuck.
+
+426
+00:21:36,295 --> 00:21:38,547
+(schwungvoller Swing)
+(lively swing)
+
+427
+00:21:41,091 --> 00:21:43,135
+Wer zuerst zu Hause ist, darf Baden.
+Whoever gets home first is allowed to swim.
+
+428
+00:21:43,302 --> 00:21:45,637
+Hä? Nee, das ist meine Badewanne.
+Huh? Nah, that's my bathtub.
+
+429
+00:21:51,351 --> 00:21:52,394
+Ah!
+Ah!
+
+430
+00:21:52,561 --> 00:21:55,105
+Boah, deine Schultern sind nicht normal.
+Wow, your shoulders are not normal.
+
+431
+00:21:55,272 --> 00:21:57,024
+Du nimmst zu viel Eiweiß.
+You are consuming too much protein.
+
+432
+00:21:58,900 --> 00:22:00,485
+(Musik läuft weiter)
+(Music continues)
+
+433
+00:22:16,501 --> 00:22:18,211
+Und jetzt?
+And now?
+
+434
+00:22:28,847 --> 00:22:31,308
+(Lied: "All The Time" von Bahamas)
+(Lied: "All The Time" von Bahamas)
+
+435
+00:22:32,100 --> 00:22:34,144
+(ruhiger Alternative-Rock)
+(quiet alternative rock)
+
+436
+00:22:52,329 --> 00:22:53,580
+Hm.
+Hm.
+
+437
+00:23:05,342 --> 00:23:07,344
+(Klingeln)
+(Ring)
+
+438
+00:23:08,261 --> 00:23:09,930
+Ich halt's nicht mehr aus.
+I can't take it anymore.
+
+439
+00:23:10,097 --> 00:23:11,765
+Als hätte man auf Pause gedrückt.
+As if you had pressed pause.
+
+440
+00:23:12,015 --> 00:23:14,267
+Keine Musik, ich höre nur meine Gedanken.
+No music, I just hear my thoughts.
+
+441
+00:23:14,434 --> 00:23:15,727
+Man denkt ziemlichen Scheiß.
+You think pretty shit.
+
+442
+00:23:15,894 --> 00:23:18,605
+Noch 5 Minuten,
+und ich springe aus dem Fenster.
+Another 5 minutes
+and I'll jump out the window.
+
+443
+00:23:18,772 --> 00:23:20,482
+Nimmt der Tag kein Ende?
+Does the day never end?
+
+444
+00:23:20,649 --> 00:23:23,068
+- Es ist viertel vor 9.
+- Oh Gott!
+- It's a quarter to 9.
+- Oh God!
+
+445
+00:23:24,319 --> 00:23:27,405
+- Was nimmst du als Nächstes?
+- Sag ich nicht.
+- What are you going to have next?
+- I don't say.
+
+446
+00:23:28,490 --> 00:23:29,991
+Was steht da?
+What is written there?
+
+447
+00:23:30,158 --> 00:23:32,494
+- Nicht abgucken.
+- Woher hast du Kreide?
+- Don't copy.
+- Where did you get chalk from?
+
+448
+00:23:32,744 --> 00:23:34,246
+Du bescheißt. Ich will Kreide.
+You shit. I want chalk.
+
+449
+00:23:34,496 --> 00:23:37,207
+- Mir ist langweilig.
+- Da musst du durch.
+- I'm bored.
+- You have to go through that.
+
+450
+00:23:37,290 --> 00:23:39,543
+Du kannst jederzeit aufgeben.
+You can give up anytime.
+
+451
+00:23:40,418 --> 00:23:42,462
+- Fick dich!
+- Na, hör mal.
+- Fuck you!
+- Listen.
+
+452
+00:23:42,712 --> 00:23:43,839
+Mama.
+Mama.
+
+453
+00:23:44,089 --> 00:23:46,424
+Ich wollte anrufen, dein Handy ist aus.
+I wanted to call, your cell phone is off.
+
+454
+00:23:46,675 --> 00:23:48,218
+Ich weiß!
+I know!
+
+455
+00:23:49,803 --> 00:23:51,138
+Ihr macht was?
+You doing what
+
+456
+00:23:51,388 --> 00:23:53,348
+- 100 Tage...
+- ...100 Dinge.
+- 100 days ...
+- ... 100 things.
+
+457
+00:23:53,598 --> 00:23:54,891
+Aha. Warum?
+Aha. Why?
+
+458
+00:23:56,059 --> 00:23:57,561
+- Ist doch klar.
+- Ja?
+- It is obvious.
+- Yes?
+
+459
+00:23:57,811 --> 00:23:59,729
+- Ja?
+- Eine politische Aktion.
+- Yes?
+- A political action.
+
+460
+00:24:00,355 --> 00:24:01,398
+Äh, das...
+Uh, that ...
+
+461
+00:24:01,648 --> 00:24:04,109
+Ein Zeichen gegen den ganzen Konsum.
+A sign against all consumption.
+
+462
+00:24:06,194 --> 00:24:08,822
+Ja, kann man so sagen. Ja.
+Yes, you can say so. Yes.
+
+463
+00:24:08,989 --> 00:24:12,534
+Mensch, endlich
+kommt ihr mal in die Puschen.
+Man, finally
+you come to the puschen.
+
+464
+00:24:12,784 --> 00:24:15,370
+Ich dachte, ihr habt gar kein Rückgrat.
+I thought you didn't have a backbone at all.
+
+465
+00:24:15,620 --> 00:24:18,999
+Wir wurden '89 mit Wasserwerfer
+von der Mauer geputzt.
+We were
+cleaned from the wall with water cannons in '89 .
+
+466
+00:24:19,166 --> 00:24:21,543
+Nur damit wir kaufen, kaufen, kaufen.
+Just so we can buy, buy, buy.
+
+467
+00:24:21,793 --> 00:24:23,420
+Wo bleibt da der Mensch?
+Where is the person in that?
+
+468
+00:24:23,670 --> 00:24:26,089
+- Wolfgang?
+- Geld ist nicht das Einzige.
+- Wolfgang?
+- Money isn't the only thing.
+
+469
+00:24:26,339 --> 00:24:29,426
+Wie läuft es denn eigentlich
+mit euer Dings-App?
+How's
+your thing app going ?
+
+470
+00:24:29,676 --> 00:24:31,636
+Ihr habt einen Interessenten?
+Do you have a prospect?
+
+471
+00:24:31,887 --> 00:24:33,430
+- Ja, aber das ist...
+- Ja.
+- Yeah, but that's ...
+- Yeah.
+
+472
+00:24:33,680 --> 00:24:36,808
+Was kriegt man denn für so was? 5000?
+What do you get for something like that? 5000?
+
+473
+00:24:38,059 --> 00:24:39,978
+- Nicht ganz.
+- 4?
+- Not quite.
+- 4?
+
+474
+00:24:40,228 --> 00:24:42,814
+Renate, hör doch auf. Ich bin stolz.
+Renate, stop it. I am proud.
+
+475
+00:24:42,981 --> 00:24:44,524
+Die Jugend wacht auf.
+The youth are waking up.
+
+476
+00:24:44,774 --> 00:24:46,902
+Männer, ich spendiere was zu Essen.
+Men, I'll buy something to eat.
+
+477
+00:24:47,736 --> 00:24:49,237
+- Gib mal Geld.
+- Ja.
+- Give some money.
+- Yes.
+
+478
+00:24:49,404 --> 00:24:51,281
+An der Ecke ist ein McDonald's.
+There's a McDonald's on the corner.
+
+479
+00:24:51,531 --> 00:24:52,574
+Gut.
+Gut.
+
+480
+00:24:53,325 --> 00:24:54,492
+Teufelskerle!
+Bastards!
+
+481
+00:24:58,330 --> 00:25:00,457
+89' hat er für freie Wahlen gekämpft,
+89 'he fought for free elections,
+
+482
+00:25:00,707 --> 00:25:03,376
+jetzt wählt er bald die AfD
+oder gar nicht.
+now he will soon vote for the AfD
+or not at all.
+
+483
+00:25:03,543 --> 00:25:07,297
+Es macht ihn fertig,
+dass Marx am Ende doch recht hatte.
+It makes him mad
+that Marx was right in the end.
+
+484
+00:25:08,965 --> 00:25:10,467
+Apropos Marx.
+Apropos Marx.
+
+485
+00:25:13,220 --> 00:25:14,846
+Wie geht's deiner Mutter?
+How is your mother
+
+486
+00:25:16,765 --> 00:25:18,266
+Ja, fliegt durch die Welt
+Yes, fly through the world
+
+487
+00:25:18,433 --> 00:25:21,519
+und hält Vorträge
+über das Ende des Westens.
+and lectures
+on the end of the west.
+
+488
+00:25:21,770 --> 00:25:23,897
+Manche Leute fallen immer auf die Füße.
+Some people always fall on their feet.
+
+489
+00:25:24,147 --> 00:25:26,441
+Meistens anderen Leuten, ja.
+Mostly other people, yes.
+
+490
+00:25:29,569 --> 00:25:31,071
+Müde siehst du aus.
+You look tired.
+
+491
+00:25:31,863 --> 00:25:34,324
+Isst du auch genug? Hm?
+(Paul stöhnt)
+Do you eat enough too? Hm?
+(Paul groans)
+
+492
+00:25:34,991 --> 00:25:37,160
+Dein Vater und ich fahren an die Ostsee.
+Your father and I are going to the Baltic Sea.
+
+493
+00:25:37,327 --> 00:25:38,828
+Ich habe einige Coupons.
+I have some coupons.
+
+494
+00:25:39,079 --> 00:25:41,081
+Ich brauche etwas Romantik.
+I need some romance.
+
+495
+00:25:41,248 --> 00:25:44,000
+Sonst vergesse ich,
+warum wir verheiratet sind.
+Otherwise I'll forget
+why we're married.
+
+496
+00:25:44,125 --> 00:25:46,086
+Paul, du guckst nach Oma.
+Paul, you're checking on Grandma.
+
+497
+00:25:46,336 --> 00:25:48,004
+Die putzt sonst die Fenster.
+Otherwise she cleans the windows.
+
+498
+00:25:48,255 --> 00:25:49,422
+Och nee, Mama.
+Oh no, Mama.
+
+499
+00:25:50,173 --> 00:25:51,758
+Anton, grins nicht so.
+Anton, don't grin like that.
+
+500
+00:25:52,008 --> 00:25:53,468
+Du gehst mit.
+You go with
+
+501
+00:25:54,594 --> 00:25:56,179
+Und zieht euch was an.
+And get dressed.
+
+502
+00:25:58,515 --> 00:26:01,768
+(Lied: "Schüttel deinen Speck"
+von Peter Fox)
+(Song: "Shake Your Bacon"
+by Peter Fox)
+
+503
+00:26:02,978 --> 00:26:05,188
+(Jubel)
+(Cheers)
+
+504
+00:26:05,814 --> 00:26:07,649
+(Belegschaft) Go! Go! Go!
+(Workforce) Go! Go! Go!
+
+505
+00:26:09,025 --> 00:26:11,069
+(flotter Hip-Hop)
+(great Hip-Hop)
+
+506
+00:26:39,639 --> 00:26:42,100
+(Aufseufzen)
+(Sigh)
+
+507
+00:26:42,350 --> 00:26:44,769
+- Hallo, Nana.
+<i>- Ich habe dich vermisst.</i>
+- Hello, Nana.
+<i>- I missed you.</i>
+
+508
+00:26:44,936 --> 00:26:46,062
+Ich dich auch.
+I also you.
+
+509
+00:26:46,313 --> 00:26:48,231
+(Kusslaute)
+(Kissing sounds)
+
+510
+00:26:48,481 --> 00:26:50,066
+Keine Witze, zeig es.
+No kidding, show it.
+
+511
+00:26:50,233 --> 00:26:52,736
+<i>Wie soll ich das zeigen?</i>
+<i>Du machst doch Witz...</i>
+<i>How am I supposed to show that? </i>
+<i>You're kidding ...</i>
+
+512
+00:26:53,987 --> 00:26:55,030
+Nana?
+Nana?
+
+513
+00:26:59,951 --> 00:27:01,036
+(Schnarchen)
+(Snoring)
+
+514
+00:27:03,163 --> 00:27:04,664
+Fuck.
+Fuck.
+
+515
+00:27:09,377 --> 00:27:11,379
+(lässige Musik)
+(casual music)
+
+516
+00:27:20,930 --> 00:27:22,307
+Ist das nicht Betrug?
+Isn't that a fraud?
+
+517
+00:27:24,392 --> 00:27:27,395
+Ich schlief 0,02 Stunden,
+habe Rücken und Hals.
+I slept for 0.02 hours,
+my back and my neck.
+
+518
+00:27:27,645 --> 00:27:31,316
+Ich kacke nicht, weil ihr uns
+Müsliriegel und Bananen gebt.
+I don't poop because you give us
+granola bars and bananas.
+
+519
+00:27:31,483 --> 00:27:34,069
+Ein Wort, und ich schiebe dir
+R2D2 in den Arsch.
+One word and I'll shove
+R2D2 up your ass.
+
+520
+00:27:34,694 --> 00:27:35,779
+Alles klar.
+All right.
+
+521
+00:27:35,862 --> 00:27:37,489
+- Ok.
+- Super.
+- Approx.
+- Cool.
+
+522
+00:27:37,739 --> 00:27:39,783
+- (Toni) Paul?
+- Komme.
+- (Toni) Paul?
+- Come on.
+
+523
+00:27:41,409 --> 00:27:42,577
+Betty?
+Betty?
+
+524
+00:27:42,744 --> 00:27:44,746
+- Hm?
+- Ich schwenke um.
+- huh?
+- I turn around.
+
+525
+00:27:44,996 --> 00:27:47,832
+- 500 auf Toni.
+- Dann setzt niemand auf Paul.
+- 500 on Toni.
+- Then nobody is betting on Paul.
+
+526
+00:27:48,083 --> 00:27:49,542
+Gegen wen wetten wir dann?
+Then who are we betting against?
+
+527
+00:27:50,126 --> 00:27:53,213
+<i>Zuckerman freut sich</i>
+<i>immens auf das Treffen.</i>
+<i>Zuckerman is really looking forward </i>
+<i>to the meeting.</i>
+
+528
+00:27:53,463 --> 00:27:56,508
+<i>Sie haben einen</i>
+<i>Sicherheitsleitfaden erhalten.</i>
+<i>You have received a </i>
+<i>safety guide.</i>
+
+529
+00:27:56,758 --> 00:27:58,259
+<i>Der Mann ist mehr Wert</i>
+<i>The man is worth more</i>
+
+530
+00:27:58,426 --> 00:28:01,179
+<i>als das Bruttoinlandsprodukt Österreichs.</i>
+<i>than the gross domestic product of Austria.</i>
+
+531
+00:28:03,598 --> 00:28:06,810
+<i>Humor. Das mit Österreich.</i>
+<i>Er ist dreimal so viel Wert.</i>
+<i>Humor. That with Austria. </i>
+<i>It's worth three times as much.</i>
+
+532
+00:28:07,060 --> 00:28:08,228
+(Knall)
+(Knall)
+
+533
+00:28:08,478 --> 00:28:10,980
+Die Sicherheitsbestimmungen. Die Hälfte.
+The safety regulations. The half.
+
+534
+00:28:11,147 --> 00:28:12,941
+Das Papier ist ausgegangen.
+The paper ran out.
+
+535
+00:28:13,108 --> 00:28:15,693
+- Paul, deine Mutter rief an...
+- Fuck!
+- Paul, your mother called ...
+- Fuck!
+
+536
+00:28:17,320 --> 00:28:18,822
+Oma?
+Oma?
+
+537
+00:28:20,031 --> 00:28:22,283
+Schau, wen ich mitgebracht habe.
+Look who I brought with me.
+
+538
+00:28:24,702 --> 00:28:26,204
+Oma?
+Oma?
+
+539
+00:28:27,831 --> 00:28:30,125
+- Ah!
+- Ah! Oma!
+- Ah!
+- Ah! Oma!
+
+540
+00:28:31,251 --> 00:28:32,460
+Aus Protest?
+Out of protest?
+
+541
+00:28:32,710 --> 00:28:35,755
+- Wir haben alles weggeräumt.
+- Aber Paul verliert.
+- We put everything away.
+- But Paul is losing.
+
+542
+00:28:36,548 --> 00:28:38,299
+Wer ist das?
+Who is this?
+
+543
+00:28:39,592 --> 00:28:42,387
+- Ich bin's, Toni.
+- Anton Katz, Oma.
+- It's me, Toni.
+- Anton Katz, grandma.
+
+544
+00:28:42,637 --> 00:28:45,306
+- Der bei uns gewohnt hat.
+- Weiß ich doch.
+- Who lived with us.
+- I know.
+
+545
+00:28:46,558 --> 00:28:48,643
+- Wer?
+- (beide) Toni.
+- Who?
+- (both) Toni.
+
+546
+00:28:48,810 --> 00:28:49,936
+Toni.
+Toni.
+
+547
+00:28:50,645 --> 00:28:52,021
+Der hübsche Toni?
+Pretty Toni?
+
+548
+00:28:52,272 --> 00:28:53,648
+- Oh, ey.
+- Genau.
+- Oh, ey.
+- I agree.
+
+549
+00:28:53,815 --> 00:28:57,736
+Du hast mein Räuchermännchen
+runtergeschubst.
+You pushed my smoker
+down.
+
+550
+00:28:57,902 --> 00:28:59,154
+Fehlt jetzt ein Arm.
+Now an arm is missing.
+
+551
+00:28:59,404 --> 00:29:02,323
+- Nee, das war Paul.
+- Wie bitte? Na, hör mal.
+- Nah, that was Paul.
+- I beg your pardon? Listen.
+
+552
+00:29:02,490 --> 00:29:04,325
+Du hast es mir weggezogen.
+You pulled it away from me.
+
+553
+00:29:04,492 --> 00:29:06,703
+Da durftest du einmal was nicht haben.
+You weren't allowed to have something there.
+
+554
+00:29:06,870 --> 00:29:08,204
+Meine Oma, mein Männchen.
+My grandma, my male.
+
+555
+00:29:08,455 --> 00:29:10,123
+Du bist so kleinherzig.
+You are so petty.
+
+556
+00:29:10,290 --> 00:29:12,417
+Mama hat dir den Intershop leergekauft.
+Mama bought you the Intershop empty.
+
+557
+00:29:12,584 --> 00:29:14,335
+Ich hatte Kackjeans, du Lego.
+I had crap jeans, you Lego.
+
+558
+00:29:14,502 --> 00:29:16,546
+Habt ihr keine Frauen?
+Don't you have women?
+
+559
+00:29:16,713 --> 00:29:19,591
+Äh, nee, Oma. Wir haben keine Zeit.
+Uh, no, grandma. We have no time.
+
+560
+00:29:20,925 --> 00:29:23,970
+Seit Anna Kloske
+war er nicht mehr verliebt.
+He hasn't been in love since Anna Kloske .
+
+561
+00:29:24,220 --> 00:29:26,055
+Was ist mit der passiert?
+What happened to her?
+
+562
+00:29:26,765 --> 00:29:28,850
+Die hat mich für 'n anderen verlassen.
+She left me for someone else.
+
+563
+00:29:29,100 --> 00:29:30,477
+Für wen?
+For whom?
+
+564
+00:29:31,519 --> 00:29:32,562
+Hm.
+Hm.
+
+565
+00:29:34,272 --> 00:29:35,857
+- Ey, bitte.
+- Nicht, oder?
+- Hey, please.
+- Not or?
+
+566
+00:29:36,107 --> 00:29:38,610
+Das war 12. Klasse. Komm drüber hinweg.
+That was 12th grade. Get over it.
+
+567
+00:29:38,860 --> 00:29:41,029
+- Ich hatte schöne, lange...
+- Lange?
+- I had beautiful, long ...
+- Long?
+
+568
+00:29:41,279 --> 00:29:42,614
+- ...Beziehungen.
+- Schön?
+- ...Relationships.
+- Nice?
+
+569
+00:29:42,864 --> 00:29:45,784
+Dir muss jede Nacht
+'ne andere sagen, du seist geil.
+Every night
+someone else has to tell you that you are horny.
+
+570
+00:29:45,950 --> 00:29:47,076
+Zicken waren das.
+They were bitches.
+
+571
+00:29:47,243 --> 00:29:49,662
+Besser als Bumsnudeln
+mit gemachten Titten.
+Better than noodles
+with boobs made.
+
+572
+00:29:49,913 --> 00:29:51,748
+Eine mit Charakter kriegst du nicht.
+You don't get one with character.
+
+573
+00:29:51,998 --> 00:29:54,375
+Die riecht, dass mit dir was nicht stimmt.
+It smells that something is wrong with you.
+
+574
+00:29:57,295 --> 00:29:59,631
+Ich suche mal das Räuchermännchen.
+I'm looking for the smoker.
+
+575
+00:29:59,798 --> 00:30:01,841
+Soll 'ne Friedenspfeife rauchen.
+Should smoke a peace pipe.
+
+576
+00:30:07,388 --> 00:30:09,891
+<i>Nana, guck mal. Der hier?</i>
+<i>Nana, look. This here?</i>
+
+577
+00:30:10,058 --> 00:30:11,851
+<i>- Der ist schön.</i>
+<i>- Oder...</i>
+<i>- It's nice. </i>
+<i>- Or ...</i>
+
+578
+00:30:12,101 --> 00:30:13,144
+Oder der?
+Or the?
+
+579
+00:30:13,311 --> 00:30:14,896
+Zu den Sneaker...
+To the sneakers ...
+
+580
+00:30:15,063 --> 00:30:17,106
+ganz klar Óscar de la Renta.
+ganz klar Oscar de la Renta.
+
+581
+00:30:18,358 --> 00:30:20,235
+(sie stöhnt)
+(She moans)
+
+582
+00:30:20,401 --> 00:30:22,111
+Oh.
+Oh.
+
+583
+00:30:22,278 --> 00:30:23,488
+Hallo.
+Hi there.
+
+584
+00:30:24,823 --> 00:30:27,200
+Das Rauchen klappt noch nicht so gut?
+Smoking not working so well yet?
+
+585
+00:30:27,367 --> 00:30:30,370
+Die ist vom Wachmann. Gehört zum Outfit.
+It's from the security guard. Belongs to the outfit.
+
+586
+00:30:30,620 --> 00:30:32,121
+Machst du mal ein Bild?
+Will you take a picture
+
+587
+00:30:32,747 --> 00:30:33,998
+Klar.
+Clear.
+
+588
+00:30:37,502 --> 00:30:39,504
+(entferntes Gelächter)
+(distant laughter)
+
+589
+00:30:39,671 --> 00:30:42,757
+- (Nana) <i>Gut, oder?</i>
+- (Frau) Jetzt was anderes.
+- (Nana) <i>Good, right? </i>
+- (woman) Now something else.
+
+590
+00:30:43,007 --> 00:30:44,509
+(Paul) Ok, pass auf.
+(Paul) Ok, watch out.
+
+591
+00:30:44,759 --> 00:30:46,845
+Nana, hörst du mich?
+Nana do you hear me
+
+592
+00:30:47,011 --> 00:30:49,973
+<i>Tut mir leid,</i>
+<i>dein Datenvolumen ist aufgebraucht.</i>
+<i>I'm sorry, </i>
+<i>your data volume has been used up.</i>
+
+593
+00:30:50,223 --> 00:30:51,933
+Was? Das kann nicht sein.
+What? That can not be.
+
+594
+00:30:52,100 --> 00:30:55,144
+Was macht ihr eigentlich hier?
+Ein Kunstprojekt?
+What are you doing here?
+An art project?
+
+595
+00:30:55,311 --> 00:30:56,729
+Das ist 'ne Wette.
+It's a bet.
+
+596
+00:30:57,981 --> 00:31:00,567
+- 'ne Wette?
+- 100 Tage ohne Konsum.
+- a bet?
+- 100 days without consumption.
+
+597
+00:31:00,817 --> 00:31:03,319
+- Seid ihr Ökostreusel?
+- Nicht wirklich.
+- Are you eco sprinkles?
+- Not really.
+
+598
+00:31:03,486 --> 00:31:05,029
+- Warum dann?
+- Einfach so.
+- Why then?
+- Just because.
+
+599
+00:31:05,280 --> 00:31:06,573
+Bescheuert.
+Stupid.
+
+600
+00:31:06,823 --> 00:31:09,033
+Du trägst BH überm Kleid und lebst hier.
+You wear a bra over your dress and you live here.
+
+601
+00:31:09,284 --> 00:31:12,829
+- Das ist Fashion und nein.
+- Willst du ein Date mit mir?
+- This is fashion and no.
+- Do you want a date with me?
+
+602
+00:31:13,913 --> 00:31:16,040
+Ich hab die Abbiegung verpasst.
+I missed the turn.
+
+603
+00:31:16,207 --> 00:31:17,333
+- Was?
+- Was?
+- What?
+- What?
+
+604
+00:31:18,459 --> 00:31:20,795
+Ja, ein... Date.
+Yes, a ... date.
+
+605
+00:31:25,425 --> 00:31:27,135
+Ein Date?
+A date?
+
+606
+00:31:27,385 --> 00:31:30,179
+Fuck, ich habe nichts anzuziehen.
+Fuck, I have nothing to wear.
+
+607
+00:31:30,430 --> 00:31:32,682
+Du kochst keinen vegetarischen Scheiß.
+You don't cook vegetarian shit.
+
+608
+00:31:36,436 --> 00:31:37,854
+Was sagst du jetzt?
+What are you saying now
+
+609
+00:31:38,479 --> 00:31:40,523
+Ich kriege keine mit Charakter?
+I don't get one with character?
+
+610
+00:31:42,108 --> 00:31:44,193
+(Frau) <i>Haben Sie Internetprobleme?</i>
+(Woman) <i>Do you have internet problems?</i>
+
+611
+00:31:44,360 --> 00:31:46,529
+<i>- Sagen Sie 4.</i>
+- (Paul) 4.
+<i>- Say 4th</i>
+- (Paul) 4th
+
+612
+00:31:46,779 --> 00:31:49,115
+<i>Aufgrund erhöhter Anrufzahlen,</i>
+<i>Due to the increased number of calls,</i>
+
+613
+00:31:49,282 --> 00:31:51,743
+<i>kann sich die Annahmezeit verzögern.</i>
+<i>the acceptance time may be delayed.</i>
+
+614
+00:31:51,993 --> 00:31:55,955
+<i>Die weitere Wartezeit beträgt 27 Minuten.</i>
+<i>The further waiting time is 27 minutes.</i>
+
+615
+00:31:56,873 --> 00:31:58,791
+<i>...31 Minuten.</i>
+<i>... 31 minutes.</i>
+
+616
+00:31:59,042 --> 00:32:01,419
+<i>...45 Minuten.</i>
+<i>...45 minutes.</i>
+
+617
+00:32:02,295 --> 00:32:05,381
+<i>Haben Sie im Internet geschaut?</i>
+<i>Unter www...</i>
+<i>Have you looked on the internet? </i>
+<i>At www ...</i>
+
+618
+00:32:05,548 --> 00:32:06,591
+(Knacken)
+(Crack)
+
+619
+00:32:06,758 --> 00:32:09,844
+<i>Customer Service,</i>
+<i>Meike Schmid, was kann ich tun?</i>
+<i>Customer Service, </i>
+<i>Meike Schmid, what can I do?</i>
+
+620
+00:32:10,011 --> 00:32:11,846
+(Spülung gluckert)
+(Flush gurgles)
+
+621
+00:32:12,013 --> 00:32:13,514
+<i>Hallo?</i>
+<i>Hi there?</i>
+
+622
+00:32:14,182 --> 00:32:16,392
+- Nein, nein, nein.
+<i>- Hallo?</i>
+- No no no.
+<i>- Hi there?</i>
+
+623
+00:32:16,643 --> 00:32:17,936
+Nein, nein, nein.
+No no no.
+
+624
+00:32:18,102 --> 00:32:20,104
+(Gassenbesetzton)
+(Busy tone)
+
+625
+00:32:21,481 --> 00:32:26,402
+<i>Ihre momentane Wartezeit</i>
+<i>beträgt 1300 Minuten.</i>
+<i>Your current waiting time </i>
+<i>is 1300 minutes.</i>
+
+626
+00:32:26,569 --> 00:32:29,530
+<i>Der nächste Mitarbeiter</i>
+<i>ist für Sie reserviert.</i>
+<i>The next employee </i>
+<i>is reserved for you.</i>
+
+627
+00:32:29,697 --> 00:32:31,699
+(Klingeln)
+(Ring)
+
+628
+00:32:34,452 --> 00:32:35,578
+Rette mich.
+Save me.
+
+629
+00:32:36,287 --> 00:32:37,705
+Was ist los?
+What's happening?
+
+630
+00:32:37,956 --> 00:32:39,958
+Ich komme nicht aus der Zeitschleife.
+I am not getting out of the time warp.
+
+631
+00:32:40,166 --> 00:32:42,585
+Ich kann nicht online,
+weil ich nicht zahlen kann
+I can't go online
+because I can't pay
+
+632
+00:32:42,752 --> 00:32:45,004
+und nicht zahlen,
+weil ich nicht online kann.
+and don't pay
+because I can't go online.
+
+633
+00:32:45,254 --> 00:32:48,132
+- Oh Gott.
+- Ich habe die Hölle gesehen.
+- Oh God.
+- I've seen hell.
+
+634
+00:32:48,299 --> 00:32:51,052
+So wird die Welt enden. In einer Hotline.
+This is how the world will end. In a hotline.
+
+635
+00:32:52,428 --> 00:32:55,014
+Komm, ich mache dir Leitungswasser.
+Come on, I'll make you tap water.
+
+636
+00:32:56,683 --> 00:32:59,185
+Erzähl was Schreckliches aus deinem Leben,
+Tell something terrible about your life
+
+637
+00:32:59,352 --> 00:33:01,604
+an dem ich mich aufrichten kann.
+where I can stand up.
+
+638
+00:33:02,563 --> 00:33:04,899
+Wie läuft's bei dir?
+How are you doing
+
+639
+00:33:05,066 --> 00:33:07,402
+- Womit?
+- Mit dem Date.
+- By which?
+- With the date.
+
+640
+00:33:07,568 --> 00:33:08,695
+Was ist damit?
+What about it?
+
+641
+00:33:10,238 --> 00:33:12,073
+Läuft's schrecklich?
+Is it going awful?
+
+642
+00:33:13,574 --> 00:33:14,742
+Nee. Wieso?
+No How so?
+
+643
+00:33:15,618 --> 00:33:18,329
+Weil du nichts hast, um sie zu bewirten,
+Because you have nothing to host them
+
+644
+00:33:18,496 --> 00:33:21,207
+weil du schmal geworden bist ohne Eiweiß,
+because you have become slim without protein,
+
+645
+00:33:21,332 --> 00:33:23,960
+weil dir die Haare ausgehen ohne Pillen.
+Because your hair is going out without pills.
+
+646
+00:33:24,210 --> 00:33:25,586
+Was?
+Was?
+
+647
+00:33:26,879 --> 00:33:29,132
+- Wo?
+- Hinten, kannst du nicht sehen.
+- Where?
+- In the back, you can't see.
+
+648
+00:33:29,257 --> 00:33:30,341
+Fällt kaum auf.
+Hardly noticeable.
+
+649
+00:33:30,591 --> 00:33:33,386
+Scheiße, ey! Mach ein Foto von hinten.
+Shit, ey! Take a photo from behind.
+
+650
+00:33:33,636 --> 00:33:35,930
+- Hast du trockene Augen?
+- Was willst du?
+- Do you have dry eyes?
+- What do you want?
+
+651
+00:33:36,180 --> 00:33:37,890
+4 Stunden war ich am Telefon.
+I was on the phone for 4 hours.
+
+652
+00:33:38,057 --> 00:33:40,143
+Lebenszeit, die nie zurückkommt.
+Lifetime that never comes back.
+
+653
+00:33:40,309 --> 00:33:43,021
+- Mein Handy soll Zeit sparen.
+- Leg's weg.
+- I want my cell phone to save time.
+- Put it away.
+
+654
+00:33:45,189 --> 00:33:47,316
+- Bitte?
+- Leg es einfach weg.
+- You're welcome?
+- Just put it away.
+
+655
+00:33:47,567 --> 00:33:50,069
+- Bist du bescheuert?
+- Siehst du?
+- Are you stupid?
+- Do you see?
+
+656
+00:33:50,319 --> 00:33:52,321
+Du kannst nicht allein sein.
+You can't be alone
+
+657
+00:33:52,488 --> 00:33:54,657
+Du brauchst immer irgendwas.
+You always need something.
+
+658
+00:33:54,824 --> 00:33:56,701
+Deine Dinge besitzen dich.
+Your things own you.
+
+659
+00:33:58,244 --> 00:33:59,454
+Blödsinn.
+Nonsense.
+
+660
+00:33:59,620 --> 00:34:03,374
+Hast du mal überlegt,
+warum du all das Zeug bestellt hast?
+Have you ever wondered
+why you ordered all that stuff?
+
+661
+00:34:03,541 --> 00:34:05,793
+- Blödsinn!
+- Ha! Ja...
+- nonsense!
+- Ha! Yes...
+
+662
+00:34:06,461 --> 00:34:08,004
+(Schrecklaut)
+(Startling sound)
+
+663
+00:34:09,088 --> 00:34:10,298
+Shit, Shit, Shit.
+Shit, Shit, Shit.
+
+664
+00:34:21,559 --> 00:34:25,605
+Nana, wie viele Dinge habe ich gekauft,
+seit wir uns kennen?
+Nana, how many things have I bought
+since we met?
+
+665
+00:34:25,772 --> 00:34:27,315
+<i>151.</i>
+<i>151.</i>
+
+666
+00:34:27,940 --> 00:34:28,983
+Aha.
+Aha.
+
+667
+00:34:29,567 --> 00:34:31,360
+Wie viele davon hatte ich schon?
+How many of these have I already had?
+
+668
+00:34:31,611 --> 00:34:33,571
+<i>24.</i>
+<i>24.</i>
+
+669
+00:34:34,864 --> 00:34:38,159
+Die Amis wollen die Testversion
+vom Programm haben.
+The Americans want the trial version of
+the program.
+
+670
+00:34:38,326 --> 00:34:40,078
+- Schick rüber.
+- Ja, aber...
+- Send over.
+- Yes but...
+
+671
+00:34:40,328 --> 00:34:41,454
+Äh, hallo.
+Uh, hello.
+
+672
+00:34:41,704 --> 00:34:44,123
+Das ist 'ne private Unterhaltung.
+This is a private conversation.
+
+673
+00:34:46,042 --> 00:34:50,296
+(leise) Aber warum bestelle ich Dinge,
+die ich nicht brauche?
+(quietly) But why do I order things that
+I don't need?
+
+674
+00:34:50,463 --> 00:34:53,674
+(leise) <i>Weil kaufen dich glücklich macht.</i>
+(quietly) <i>Because buying makes you happy.</i>
+
+675
+00:34:58,429 --> 00:35:00,098
+Was ist Glück, Nana?
+What is happiness, nana?
+
+676
+00:35:02,558 --> 00:35:05,103
+- Nana?
+<i>- Ich kann "Glück" googeln.</i>
+- Nana?
+<i>- I can google "happiness".</i>
+
+677
+00:35:07,355 --> 00:35:09,357
+(Plätschern)
+(Lapping)
+
+678
+00:35:10,108 --> 00:35:11,150
+Pst.
+Pst.
+
+679
+00:35:11,859 --> 00:35:12,902
+(Toni) Betty.
+(Toni) Betty.
+
+680
+00:35:15,780 --> 00:35:20,243
+Pass auf. Was jetzt kommt,
+bleibt unser Geheimnis.
+Watch out. What comes
+next remains our secret.
+
+681
+00:35:20,493 --> 00:35:21,786
+Niemand darf es erfahren.
+Nobody is allowed to know.
+
+682
+00:35:22,036 --> 00:35:23,663
+Oh Gott.
+Oh God.
+
+683
+00:35:23,913 --> 00:35:25,248
+Was hat Gott damit zu tun?
+What does God have to do with it?
+
+684
+00:35:25,414 --> 00:35:27,500
+Ich wusste, irgendwann ist es so weit.
+I knew at some point it would happen.
+
+685
+00:35:27,667 --> 00:35:29,335
+Du bist Grey, ich Steele.
+You're Gray, I'm Steele.
+
+686
+00:35:29,585 --> 00:35:30,962
+Was?
+Was?
+
+687
+00:35:31,212 --> 00:35:34,465
+Gut aussehender Chef
+und schüchterne Praktikantin,
+Handsome boss
+and shy intern,
+
+688
+00:35:34,632 --> 00:35:37,343
+die über die Folterkammer
+in dein Herz gelangt.
+that gets
+into your heart through the torture chamber .
+
+689
+00:35:37,510 --> 00:35:38,636
+Was redest du da?
+What are you talking about?
+
+690
+00:35:38,886 --> 00:35:40,930
+Äh, "Fifty Shades of Grey"?
+Äh, "Fifty Shades of Grey"?
+
+691
+00:35:41,597 --> 00:35:43,432
+Habe ich nicht gelesen.
+I haven't read.
+
+692
+00:35:45,309 --> 00:35:46,894
+Vergiss es.
+Forget it.
+
+693
+00:35:47,061 --> 00:35:48,813
+Ich brauche deine Hilfe.
+I need your help.
+
+694
+00:35:48,938 --> 00:35:51,440
+Ich habe ein Date, ich muss was kochen.
+I have a date, I have to cook something.
+
+695
+00:35:51,607 --> 00:35:54,861
+- Ein Date. Aha.
+- Ich weiß noch nicht, was.
+- A date. Aha.
+- I don't know what yet.
+
+696
+00:35:55,111 --> 00:35:57,905
+Jemand muss mir Sachen
+aus dem Supermarkt holen.
+Somebody has to get me things
+from the supermarket.
+
+697
+00:35:58,072 --> 00:36:01,367
+- Wäre das nicht Betrug?
+- Ich würde ja nichts kaufen...
+- Wouldn't that be a fraud?
+- I wouldn't buy anything ...
+
+698
+00:36:01,534 --> 00:36:04,829
+Die Sachen wären zufällig
+im Bürokühlschrank.
+The things happened to be
+in the office refrigerator.
+
+699
+00:36:05,079 --> 00:36:06,747
+- Auch für dich...
+- 2,5 netto.
+- For you too ...
+- 2.5 net.
+
+700
+00:36:06,998 --> 00:36:09,917
+14 Gehälter, 12 Wochen Urlaub, bezahlt.
+14 salaries, 12 weeks vacation, paid.
+
+701
+00:36:11,085 --> 00:36:13,713
+- Diese undankbare...
+- Wir haben den Amis...
+- This ungrateful ...
+- We have the Americans ...
+
+702
+00:36:14,380 --> 00:36:17,341
+Äh, solltest du nicht mal
+deine Linsen wechseln?
+Uh, shouldn't you even change
+your lenses?
+
+703
+00:36:17,592 --> 00:36:20,303
+Wochenlinsen kann man länger drin lassen.
+Weekly lenses can be left in there longer.
+
+704
+00:36:20,469 --> 00:36:21,637
+Ok.
+Ok.
+
+705
+00:36:21,804 --> 00:36:24,765
+- Es ist Zeit für neue.
+- Ich kann keine kaufen.
+- It's time for new ones.
+- I can't buy one.
+
+706
+00:36:25,016 --> 00:36:27,059
+- Ohne sehe ich nichts.
+- Die Brille?
+- I can't see anything without it.
+- The glasses?
+
+707
+00:36:27,310 --> 00:36:28,352
+Die Brille...
+The glasses...
+
+708
+00:36:28,519 --> 00:36:30,813
+Hey, ich stinke wie der Ochs am Arsch,
+Hey, I stink like an ox in my ass
+
+709
+00:36:31,063 --> 00:36:34,317
+ich kriege Pickel,
+weil ich mich mit Butter eincreme.
+I get pimples
+because I put butter on myself.
+
+710
+00:36:34,483 --> 00:36:37,028
+- Schau in den Spiegel.
+- Dazu die Brille? Klar.
+- Look in the mirror.
+- What about the glasses? Clear.
+
+711
+00:36:37,195 --> 00:36:40,281
+Da sehe ich aus wie 15. Ich hab ein Date!
+I look like 15. I'm on a date!
+
+712
+00:36:42,950 --> 00:36:44,577
+Ihr wollt, dass ich aussehe...
+You want me to look ...
+
+713
+00:36:46,913 --> 00:36:48,039
+Oh Gott.
+Oh God.
+
+714
+00:36:48,289 --> 00:36:49,373
+(Klingeln)
+(Ring)
+
+715
+00:36:50,666 --> 00:36:51,918
+Hallo.
+Hi there.
+
+716
+00:36:53,044 --> 00:36:55,880
+Äh, ich hatte in letzter Zeit
+nicht viele Dates.
+Uh, I have
+n't had a lot of dates lately .
+
+717
+00:36:56,130 --> 00:36:58,925
+Ich kenne mich nicht aus,
+aber ich würde ungern
+I don't know my way around,
+but I wouldn't like
+
+718
+00:36:59,091 --> 00:37:02,428
+das Stadium überspringen,
+wo du eine Hose trägst.
+skip the stage
+where you are wearing pants.
+
+719
+00:37:04,555 --> 00:37:06,891
+Musste ich eintauschen gegen die Brille.
+I had to exchange it for the glasses.
+
+720
+00:37:07,141 --> 00:37:09,852
+Ist besser so, glaub mir.
+(er kichert)
+It's better that way, believe me.
+(he chuckles)
+
+721
+00:37:10,019 --> 00:37:11,562
+Ja...
+And...
+
+722
+00:37:11,812 --> 00:37:13,022
+Komm doch rein.
+Come on in.
+
+723
+00:37:13,940 --> 00:37:14,982
+Ok.
+Ok.
+
+724
+00:37:16,984 --> 00:37:20,196
+(ruhige Gitarrenmusik aus Lautsprechern)
+(quiet guitar music from speakers)
+
+725
+00:37:25,576 --> 00:37:27,203
+(Knirschen)
+(Crunch)
+
+726
+00:37:32,917 --> 00:37:35,294
+- Schmeckt's?
+- Mhm.
+- does it taste good?
+- Mmm.
+
+727
+00:37:39,173 --> 00:37:41,300
+Ich habe keinen Pfeffer.
+I don't have any pepper.
+
+728
+00:37:41,467 --> 00:37:43,844
+Und kein Salz. Ich kann nicht kochen.
+And no salt. I can not cook.
+
+729
+00:37:45,805 --> 00:37:47,223
+Ich habe Wein.
+I have wine.
+
+730
+00:37:47,473 --> 00:37:49,016
+Sehr gerne, bitte.
+With pleasure, please.
+
+731
+00:37:52,186 --> 00:37:53,229
+Darf ich?
+May I?
+
+732
+00:37:53,396 --> 00:37:54,689
+Ach so.
+I see.
+
+733
+00:38:09,036 --> 00:38:10,204
+So.
+So.
+
+734
+00:38:18,629 --> 00:38:20,131
+- Prost.
+- Prost.
+- Dumbass.
+- Dumbass.
+
+735
+00:38:28,597 --> 00:38:30,308
+Ok, Lucy.
+Ok, Lucy.
+
+736
+00:38:30,474 --> 00:38:33,686
+Was machst du,
+wenn du nicht in Garagen rumhängst?
+What do you do
+when you're not hanging out in garages?
+
+737
+00:38:33,936 --> 00:38:37,189
+Nein, bitte. Fangen wir nicht an
+mit "Was machst du so?"
+No Please. Let's not start
+with "What are you doing?"
+
+738
+00:38:37,440 --> 00:38:40,318
+Ich habe keine Ahnung, wer du bist.
+I have no idea who you are
+
+739
+00:38:40,484 --> 00:38:42,945
+Du hast keine Ahnung, wer ich bin.
+You have no idea who I am
+
+740
+00:38:43,112 --> 00:38:45,406
+Wir können sein, wer wir wollen.
+We can be who we want.
+
+741
+00:38:46,073 --> 00:38:47,616
+Also, denk dir was aus.
+So come up with something.
+
+742
+00:38:48,242 --> 00:38:50,244
+- Irgendwas?
+- Ja, spontan.
+- Anything?
+- Yes, spontaneously.
+
+743
+00:38:51,203 --> 00:38:53,789
+- Äh...
+- Spontan, nicht nachdenken.
+- Uh ...
+- Spontaneous, don't think.
+
+744
+00:38:54,040 --> 00:38:56,042
+3, 2, 1.
+3, 2, 1.
+
+745
+00:38:56,208 --> 00:38:57,710
+Ich bin Millionär.
+I am a millionaire.
+
+746
+00:38:58,377 --> 00:39:00,129
+Millionär?
+Millionaire?
+
+747
+00:39:00,296 --> 00:39:01,797
+Woher denn?
+Where from?
+
+748
+00:39:02,548 --> 00:39:04,342
+Ich habe eine App verkauft.
+I sold an app.
+
+749
+00:39:05,217 --> 00:39:06,344
+Hm.
+Hm.
+
+750
+00:39:06,969 --> 00:39:08,554
+Eine App?
+An app?
+
+751
+00:39:09,513 --> 00:39:12,641
+Ein Millionär...
+In 'ner komplett leeren Wohnung.
+A millionaire ...
+In a completely empty apartment.
+
+752
+00:39:13,267 --> 00:39:17,229
+Ich kann niemandem mehr trauen,
+deswegen spiele ich arm.
+I can't trust anyone anymore, that's
+why I play poor.
+
+753
+00:39:18,606 --> 00:39:21,400
+Du spielst arm,
+weil du die wahre Liebe suchst.
+You play poor
+because you are looking for true love.
+
+754
+00:39:22,276 --> 00:39:24,320
+- Wie alle.
+- Eine, die mich liebt.
+- Like all.
+- One who loves me.
+
+755
+00:39:25,112 --> 00:39:26,822
+Oder deine Geheimnisse.
+Or your secrets.
+
+756
+00:39:29,283 --> 00:39:31,410
+Aber wer kann diese Frau sein?
+But who can this woman be?
+
+757
+00:39:32,453 --> 00:39:34,955
+Hm. Gute Frage.
+Good question.
+
+758
+00:39:36,457 --> 00:39:39,502
+Auf der Straße
+fiele sie dem Millionär nicht auf.
+The
+millionaire wouldn't notice her on the street .
+
+759
+00:39:39,752 --> 00:39:41,962
+Sie ist durchschnittlich attraktiv,
+She is average attractive
+
+760
+00:39:42,129 --> 00:39:45,674
+aber sie hat
+einen exzellenten Modegeschmack.
+but she has
+excellent taste in fashion.
+
+761
+00:39:46,967 --> 00:39:48,803
+Durchschnittlich attraktiv.
+Average attractive.
+
+762
+00:39:49,053 --> 00:39:51,055
+Der Millionär aber testet sie.
+But the millionaire tests it.
+
+763
+00:39:51,305 --> 00:39:53,432
+Er hat alles getan, um sie abzuschrecken.
+He did everything he could to scare them off.
+
+764
+00:39:53,682 --> 00:39:56,143
+- Hat keine Hose an.
+- Kochte fürchterlich.
+- Has no pants on.
+- Cooked terribly.
+
+765
+00:39:56,394 --> 00:39:59,271
+- Ohne Salz.
+- Er macht es möglichst schwer.
+- Without salt.
+- He's making it as difficult as possible.
+
+766
+00:39:59,438 --> 00:40:02,650
+Aber, die Frau lässt sich nicht täuschen.
+But, the woman cannot be fooled.
+
+767
+00:40:05,903 --> 00:40:09,490
+Also, ich finde,
+du siehst toll aus heute Abend.
+So I think
+you look great tonight
+
+768
+00:40:10,074 --> 00:40:12,118
+Weit über Durchschnitt.
+Far above average.
+
+769
+00:40:17,164 --> 00:40:19,250
+Da läuft was aus deinem Auge.
+Something is running out of your eye.
+
+770
+00:40:19,417 --> 00:40:21,627
+Irgendwas Gelbes. Nicht reiben.
+Something yellow. Don't rub.
+
+771
+00:40:21,794 --> 00:40:22,837
+Oh Gott.
+Oh God.
+
+772
+00:40:23,003 --> 00:40:25,881
+Die sind etwas rot,
+aber das ist von den Linsen.
+They're a little red,
+but that's from the lenses.
+
+773
+00:40:26,132 --> 00:40:27,591
+Oh Gott!
+Oh God!
+
+774
+00:40:28,342 --> 00:40:29,510
+- Oh Gott.
+- Alles gut.
+- Oh God.
+- All good.
+
+775
+00:40:29,677 --> 00:40:31,303
+Kannst du das bitte halten?
+Can you please hold this
+
+776
+00:40:31,470 --> 00:40:32,763
+Was machst du da?
+What are you doing there?
+
+777
+00:40:32,930 --> 00:40:34,598
+Kamillentee.
+Kamillentee.
+
+778
+00:40:34,765 --> 00:40:36,600
+- Ist das gut?
+- Gab's an der Tanke.
+- Is it good?
+- Got it at the gas station.
+
+779
+00:40:36,851 --> 00:40:38,894
+Das muss erst mal reichen.
+That has to be enough first.
+
+780
+00:40:39,061 --> 00:40:42,106
+- Ah! Das ist kochend heiß.
+- Was? Gar nicht.
+- Ah! It's piping hot.
+- What? Not at all.
+
+781
+00:40:44,150 --> 00:40:47,403
+Das ist keine Kamille,
+das ist Pfefferminz.
+This is not chamomile,
+this is peppermint.
+
+782
+00:40:47,653 --> 00:40:49,280
+- Was?
+- Riech mal.
+- What?
+- Smell it.
+
+783
+00:40:55,161 --> 00:40:56,412
+Sorry.
+Sorry.
+
+784
+00:40:57,079 --> 00:40:58,539
+Hoppla.
+Oops.
+
+785
+00:40:58,706 --> 00:41:02,543
+Ich konnte nicht widerstehen,
+Krankenschwestern sind sexy.
+I couldn't resist,
+nurses are sexy.
+
+786
+00:41:03,085 --> 00:41:04,378
+Ah ja?
+Ah yes?
+
+787
+00:41:05,629 --> 00:41:07,214
+Darf ich meine Augen aufmachen?
+Can i open my eyes?
+
+788
+00:41:07,465 --> 00:41:09,341
+Auf gar keinen Fall.
+Absolutely no way.
+
+789
+00:41:11,677 --> 00:41:13,179
+Stillhalten.
+Stop.
+
+790
+00:41:15,890 --> 00:41:18,267
+Ah, mir ist ein bisschen heiß.
+Ah, I'm a little hot.
+
+791
+00:41:18,434 --> 00:41:20,186
+Ich ziehe mir mal was aus.
+I'll take something off.
+
+792
+00:41:23,898 --> 00:41:26,734
+Das ist jetzt etwas unprofessionell.
+Now that's a little unprofessional.
+
+793
+00:41:27,526 --> 00:41:28,903
+Aber...
+But...
+
+794
+00:41:29,153 --> 00:41:33,115
+ich bin nicht ohne Grund
+von der Schwesternschule geflogen.
+I was kicked out
+of nurses' school for a reason .
+
+795
+00:41:33,365 --> 00:41:35,784
+(leise) Achtung, stillhalten.
+(quietly) Watch out, keep still.
+
+796
+00:41:39,038 --> 00:41:40,623
+(Klingeln)
+(Ring)
+
+797
+00:41:41,499 --> 00:41:44,001
+Hallo, braucht ihr vielleicht ein Des...
+Hello, do you need a Des ...
+
+798
+00:41:44,168 --> 00:41:46,462
+- Hallo.
+- Hallo.
+- Hi there.
+- Hi there.
+
+799
+00:41:46,712 --> 00:41:48,255
+- Wo ist Toni?
+- Im Bad.
+- Where's Toni?
+- In the bathroom.
+
+800
+00:41:48,422 --> 00:41:51,217
+- (Toni) Hau ab! Du störst!
+- Was macht ihr?
+- (Toni) Get out of here! You disturb!
+- What are you doing?
+
+801
+00:41:51,467 --> 00:41:54,553
+Halt still, sonst rutschen die Teebeutel.
+Hold still, otherwise the tea bags will slip.
+
+802
+00:41:55,137 --> 00:41:57,640
+- Teebeutel?
+- (lacht) Komm rein.
+- Teabag?
+- (laughs) Come in.
+
+803
+00:41:59,016 --> 00:42:01,727
+(Paul) Ich habe 151 Sachen gekauft. 151.
+(Paul) I bought 151 things. 151
+
+804
+00:42:01,977 --> 00:42:03,562
+- Warum?
+- Weil's schön ist.
+- Why?
+- Because it's nice.
+
+805
+00:42:03,812 --> 00:42:06,065
+- Noch mehr.
+- Weil's glücklich macht.
+- Even more.
+- Because it makes you happy.
+
+806
+00:42:06,232 --> 00:42:07,566
+Es macht glücklich.
+It makes you happy.
+
+807
+00:42:07,733 --> 00:42:09,944
+- Wahnsinnskleid übrigens.
+- Danke.
+- Insane dress by the way.
+- Thanks.
+
+808
+00:42:10,110 --> 00:42:12,738
+Aber wenn ich kaufe,
+um glücklich zu werden,
+But if I buy to
+be happy
+
+809
+00:42:12,905 --> 00:42:15,407
+was heißt das im Umkehrschluss?
+what does that mean in reverse?
+
+810
+00:42:16,951 --> 00:42:19,286
+Dass du nicht glücklich bist.
+That you are not happy
+
+811
+00:42:19,995 --> 00:42:21,330
+Genau.
+I agree.
+
+812
+00:42:21,580 --> 00:42:23,249
+Sonst würdest du aufhören.
+Otherwise you would stop.
+
+813
+00:42:23,499 --> 00:42:25,626
+Warum würde ich sonst mehr wollen?
+Otherwise why would I want more?
+
+814
+00:42:26,418 --> 00:42:29,255
+Das kannst du nicht selber entscheiden.
+You can't decide that yourself.
+
+815
+00:42:29,672 --> 00:42:31,382
+Dein Hirn kommt aus der Steinzeit.
+Your brain comes from the stone age.
+
+816
+00:42:31,632 --> 00:42:33,509
+Es hat ständig Angst zu verhungern.
+It is constantly afraid of starvation.
+
+817
+00:42:33,676 --> 00:42:35,511
+So ist das geeicht. Horten, Fressen.
+That's how it is calibrated. Hoarding, eating.
+
+818
+00:42:35,761 --> 00:42:37,388
+Ich habe meinen freien Willen.
+I have my free will.
+
+819
+00:42:37,638 --> 00:42:39,390
+Bullshit, den gibt es nicht.
+Bullshit doesn't exist.
+
+820
+00:42:40,349 --> 00:42:42,351
+- Nein?
+- Nimm mal dein Handy.
+- no?
+- Take your cell phone.
+
+821
+00:42:42,601 --> 00:42:45,646
+Alles hier dran
+spricht dein Steinzeithirn an.
+Everything
+about it speaks to your Stone Age brain.
+
+822
+00:42:45,896 --> 00:42:47,982
+Du sollst abhängig werden.
+You should become dependent.
+
+823
+00:42:48,232 --> 00:42:50,442
+Es geht gar nicht um Glück?
+It's not about luck at all?
+
+824
+00:42:50,693 --> 00:42:53,445
+Es geht um das Versprechen von Glück.
+It's about the promise of happiness.
+
+825
+00:42:53,612 --> 00:42:56,740
+Die Leute sollen sich bewegen,
+der Karotte nach.
+People should move, following
+the carrot.
+
+826
+00:42:56,907 --> 00:42:59,410
+Es darf also niemand glücklich sein,
+So nobody should be happy
+
+827
+00:42:59,577 --> 00:43:01,662
+sonst läuft der Laden nicht.
+otherwise the shop will not work.
+
+828
+00:43:01,912 --> 00:43:03,163
+Genau.
+I agree.
+
+829
+00:43:05,916 --> 00:43:08,919
+Äh, aber... Was machst du?
+Was macht sie?
+Uh, but ... what are you doing?
+What is she doing?
+
+830
+00:43:09,169 --> 00:43:11,547
+- Keine...
+- Ich gehe zur Toilette.
+- None ...
+- I'm going to the bathroom.
+
+831
+00:43:16,677 --> 00:43:18,596
+Shit, ey. Siehst du.
+Shit, ey. Do you see.
+
+832
+00:43:18,762 --> 00:43:20,222
+Ich bin hier drüben.
+I'm over here.
+
+833
+00:43:21,140 --> 00:43:22,641
+Du hast sie vergrault.
+You pissed them off.
+
+834
+00:43:22,891 --> 00:43:24,810
+- Was?
+- Ich war kurz vorm Elfmeter.
+- What?
+- I was close to the penalty.
+
+835
+00:43:25,060 --> 00:43:27,438
+Und das, obwohl ich so aussehe.
+Even though I look like that.
+
+836
+00:43:27,605 --> 00:43:30,107
+Da hältst du 'nen ökumenischen Kirchentag.
+You're holding an ecumenical church convention.
+
+837
+00:43:30,357 --> 00:43:33,569
+- Du quatschst durchweg.
+- Das ist wegen Anna Kloske.
+- You chat all the time.
+- It's because of Anna Kloske.
+
+838
+00:43:33,819 --> 00:43:36,280
+- Was?
+- Du bist so nachtragend.
+- What?
+- You are so resentful.
+
+839
+00:43:36,530 --> 00:43:39,575
+"Komm, lass uns mal über Glück reden..."
+"Come on, let's talk about happiness ..."
+
+840
+00:43:41,160 --> 00:43:42,911
+Ich weiß, was du spielst.
+I know what you are playing
+
+841
+00:43:43,162 --> 00:43:44,413
+Ich mache die heute klar,
+I make it clear today
+
+842
+00:43:44,580 --> 00:43:46,790
+da kannst du dich auf den Kopf stellen.
+you can stand on your head there.
+
+843
+00:43:47,041 --> 00:43:49,043
+Ich dachte, es interessiert dich...
+I thought you care ...
+
+844
+00:43:49,293 --> 00:43:50,836
+- Bring mich zur Tür.
+- Hm?
+- Take me to the door.
+- huh?
+
+845
+00:43:51,003 --> 00:43:52,171
+Los.
+The.
+
+846
+00:43:52,338 --> 00:43:54,590
+- Warum?
+- Zur Tür.
+- Why?
+- To the door.
+
+847
+00:44:02,181 --> 00:44:04,850
+Ja, äh, sorry.
+Yes, uh, sorry.
+
+848
+00:44:05,559 --> 00:44:07,061
+Paul musste ins Bett.
+Paul had to go to bed.
+
+849
+00:44:07,645 --> 00:44:09,146
+Er ist weg.
+He is gone.
+
+850
+00:44:09,730 --> 00:44:11,231
+Ich hab's gehört.
+I heard it.
+
+851
+00:44:23,952 --> 00:44:26,121
+Du willst mich klarmachen.
+You want to make me understand.
+
+852
+00:44:26,705 --> 00:44:27,915
+Bitte?
+Sorry?
+
+853
+00:44:28,999 --> 00:44:31,877
+Du warst so kurz vorm Elfmeter.
+You were so close to the penalty kick.
+
+854
+00:44:33,629 --> 00:44:35,464
+Das ist ein Missverständnis.
+This is a misunderstanding.
+
+855
+00:44:35,714 --> 00:44:37,633
+Ja, das glaube ich auch.
+Yes I believe that too.
+
+856
+00:44:40,135 --> 00:44:43,138
+(Lied: "Don't You Want Me" von Bahamas)
+(Lied: "Don't You Want Me" von Bahamas)
+
+857
+00:44:46,308 --> 00:44:48,143
+(ruhige Gitarrenmusik)
+(quiet guitar music)
+
+858
+00:44:55,234 --> 00:44:57,236
+(er atmet heftig)
+(he breathes heavily)
+
+859
+00:45:00,280 --> 00:45:02,282
+(sie stöhnt)
+(She moans)
+
+860
+00:45:07,663 --> 00:45:09,581
+- Stopp, stopp. Vorsicht.
+- Nee.
+- stop, stop. Attention.
+- Nope.
+
+861
+00:45:09,832 --> 00:45:11,500
+Stopp, stopp, stopp.
+Stop, stop, stop.
+
+862
+00:45:12,418 --> 00:45:13,502
+Oh.
+Oh.
+
+863
+00:45:14,461 --> 00:45:15,879
+Fuck, sorry.
+Fuck, sorry.
+
+864
+00:45:17,089 --> 00:45:18,382
+Oh nein.
+Oh no.
+
+865
+00:45:21,510 --> 00:45:23,512
+(Lied klingt aus)
+(Song ends)
+
+866
+00:45:23,679 --> 00:45:25,681
+(metallenes Krachen)
+(metallic crash)
+
+867
+00:45:30,811 --> 00:45:32,396
+(er seufzt)
+(he sighs)
+
+868
+00:45:36,233 --> 00:45:37,276
+Oma?
+Oma?
+
+869
+00:45:38,068 --> 00:45:39,611
+Ich mache dir Essen.
+I'll make you food.
+
+870
+00:45:39,862 --> 00:45:41,530
+- Oma?
+- Ist das schwer.
+- grandma?
+- Is that difficult.
+
+871
+00:45:41,697 --> 00:45:42,573
+Ah!
+Ah!
+
+872
+00:45:42,823 --> 00:45:44,450
+Oma, um Gottes willen!
+Grandma, for God's sake!
+
+873
+00:45:44,700 --> 00:45:46,785
+Oma, so was darfst du nicht machen.
+Grandma, you can't do that.
+
+874
+00:45:46,952 --> 00:45:49,496
+- Wer macht es sonst?
+- Was willst du mit dem Ding?
+- Who else is doing it?
+- What do you want with that thing?
+
+875
+00:45:49,746 --> 00:45:52,124
+Neulich waren 2 Jungs hier.
+There were 2 guys here the other day.
+
+876
+00:45:52,374 --> 00:45:54,835
+- Ja, das waren wir.
+- Weiß ich doch.
+- Yes, we did.
+- I know.
+
+877
+00:45:55,002 --> 00:45:56,253
+Ich und Toni.
+Me and Toni.
+
+878
+00:45:57,004 --> 00:45:58,714
+Der hübsche Toni?
+Pretty Toni?
+
+879
+00:45:58,881 --> 00:46:00,591
+(seufzend) Genau der.
+(sighing) Exactly that one.
+
+880
+00:46:01,300 --> 00:46:03,552
+Was hat das mit dem Koffer zu tun?
+What does that have to do with the suitcase?
+
+881
+00:46:04,344 --> 00:46:06,305
+Weiß ich auch nicht mehr.
+I don't know anymore either.
+
+882
+00:46:06,555 --> 00:46:08,474
+Den habe ich übers Haff gerettet.
+I saved him over the lagoon.
+
+883
+00:46:08,724 --> 00:46:10,684
+Mehr durften wir nicht mitnehmen.
+We weren't allowed to take more with us.
+
+884
+00:46:11,435 --> 00:46:13,437
+- Darf ich?
+- Nur zu.
+- May I?
+- Go ahead.
+
+885
+00:46:18,317 --> 00:46:22,070
+Wie? Und alles, was du hattest,
+hat da reingepasst?
+As? And everything you had
+fit in there?
+
+886
+00:46:23,363 --> 00:46:25,324
+Wir waren 6 in einer Kammer.
+We were 6 in a chamber.
+
+887
+00:46:25,491 --> 00:46:26,909
+Im Auffanglager.
+In the reception center.
+
+888
+00:46:27,159 --> 00:46:28,911
+Keiner wollte uns haben.
+Nobody wanted us.
+
+889
+00:46:29,077 --> 00:46:30,787
+Tja, ist fast wie heute.
+Well, it's almost like today.
+
+890
+00:46:31,663 --> 00:46:32,956
+Ja.
+And.
+
+891
+00:46:33,582 --> 00:46:35,083
+Die Leute vergessen.
+People forget.
+
+892
+00:46:37,294 --> 00:46:38,879
+Ist das Opa?
+Is that grandpa?
+
+893
+00:46:39,046 --> 00:46:40,797
+Zeig mal.
+Show me.
+
+894
+00:46:43,300 --> 00:46:45,010
+Sieht das aus wie Opa?
+Does that look like grandpa?
+
+895
+00:46:45,719 --> 00:46:47,054
+Wer ist es dann?
+Then who is it?
+
+896
+00:46:50,891 --> 00:46:53,894
+Das Kleid habe ich
+aus guten Tischtüchern genäht.
+I
+sewed the dress from good tablecloths.
+
+897
+00:46:54,937 --> 00:46:57,564
+Brauchten wir sowieso nicht mehr.
+We didn't need any more anyway.
+
+898
+00:46:58,357 --> 00:47:00,817
+- Wie du lächelst...
+- Das kann nicht sein.
+- The way you smile ...
+- It can't be.
+
+899
+00:47:00,984 --> 00:47:03,946
+Doch, guck mal.
+Du siehst megaglücklich aus.
+Yes, look.
+You look super happy.
+
+900
+00:47:05,197 --> 00:47:06,448
+Na ja.
+On me.
+
+901
+00:47:07,074 --> 00:47:09,535
+Wir waren jung, wir haben überlebt.
+We were young, we survived.
+
+902
+00:47:10,369 --> 00:47:12,287
+Das war schon ziemlich viel.
+That was quite a lot.
+
+903
+00:47:15,249 --> 00:47:17,251
+(Paul schnieft)
+(Paul sneezes)
+
+904
+00:47:18,335 --> 00:47:20,045
+Was ist denn, Pauli?
+What is it, Pauli?
+
+905
+00:47:20,212 --> 00:47:22,381
+Nichts, Oma. Das ist der Rauch.
+Nothing, grandma. That's the smoke.
+
+906
+00:47:24,216 --> 00:47:25,676
+Komm her.
+Come here.
+
+907
+00:47:25,842 --> 00:47:27,094
+Hm? Komm her.
+Hm? Come here.
+
+908
+00:47:27,928 --> 00:47:29,680
+So wie früher.
+As before.
+
+909
+00:47:30,722 --> 00:47:32,349
+Oma, ich bin fast 37.
+Grandma, I'm almost 37.
+
+910
+00:47:36,395 --> 00:47:38,647
+Bei euch war alles einfach, Oma.
+Everything was easy with you, Grandma.
+
+911
+00:47:39,398 --> 00:47:42,943
+Ihr hattet nichts
+und wart trotzdem glücklich.
+You had nothing
+and were happy anyway.
+
+912
+00:47:43,735 --> 00:47:45,320
+Wir haben alles.
+We have everything.
+
+913
+00:47:47,155 --> 00:47:50,075
+Wir können essen, wann und was wir wollen.
+We can eat when and what we want.
+
+914
+00:47:50,867 --> 00:47:53,954
+Keiner schießt auf uns,
+keiner sperrt uns ein.
+Nobody shoots us,
+nobody locks us up.
+
+915
+00:47:54,871 --> 00:47:57,416
+Es gibt keinen Grund, unglücklich zu sein.
+There is no reason to be unhappy.
+
+916
+00:47:58,166 --> 00:48:00,210
+Ihr hattet wenigstens den Krieg.
+At least you had the war.
+
+917
+00:48:00,377 --> 00:48:01,503
+Du Armer.
+You Armer.
+
+918
+00:48:02,629 --> 00:48:04,756
+Warum ist man nie lange glücklich?
+Why are you never happy for long?
+
+919
+00:48:05,632 --> 00:48:07,426
+(sie seufzt)
+(she sighs)
+
+920
+00:48:07,593 --> 00:48:09,469
+Glück ist wie Wasser, Pauli.
+Happiness is like water, Pauli.
+
+921
+00:48:09,636 --> 00:48:11,430
+Wenn du es festhalten willst,
+If you want to hold on
+
+922
+00:48:11,597 --> 00:48:15,017
+dann läufst du mit
+geballten Fäusten durchs Leben.
+then you run
+through life with clenched fists.
+
+923
+00:48:20,272 --> 00:48:21,607
+(Toni) Schwester?
+(Toni) sister?
+
+924
+00:48:23,191 --> 00:48:25,027
+Ich brauche Ihre Hilfe.
+I need your help.
+
+925
+00:48:25,777 --> 00:48:27,738
+Ich kriege die Tropfen nicht rein.
+I can't get the drops in.
+
+926
+00:48:30,365 --> 00:48:32,200
+Hey, nicht gucken.
+Hey, don't look.
+
+927
+00:48:35,621 --> 00:48:38,498
+Stillhalten. Die laufen sonst raus.
+Keep still. Otherwise they'll run out.
+
+928
+00:48:38,749 --> 00:48:40,542
+Ja, ist gut.
+Yes it’s good.
+
+929
+00:48:43,003 --> 00:48:45,380
+Was machst du überhaupt hier?
+What are you doing here anyway?
+
+930
+00:48:45,547 --> 00:48:47,299
+Es ist noch nicht Mitternacht.
+It is not yet midnight.
+
+931
+00:48:47,466 --> 00:48:49,801
+Ich wollte sehen, wie du ankommst.
+I wanted to see you get there.
+
+932
+00:48:49,968 --> 00:48:51,637
+Ich bin noch nicht angezogen.
+I'm not dressed yet.
+
+933
+00:48:51,887 --> 00:48:53,388
+Ich helfe dir.
+I'll help you.
+
+934
+00:48:57,017 --> 00:48:59,019
+(ruhige Gitarrenmusik)
+(quiet guitar music)
+
+935
+00:49:17,496 --> 00:49:19,831
+Wow. Warum hast du das alles hier?
+Wow. Why do you have all this here?
+
+936
+00:49:21,333 --> 00:49:23,001
+Das ist nicht alles.
+That's not all.
+
+937
+00:49:27,422 --> 00:49:28,674
+Wow.
+Wow.
+
+938
+00:49:29,716 --> 00:49:31,718
+(verträumte Klaviermusik)
+(dreamy piano music)
+
+939
+00:49:36,973 --> 00:49:38,558
+Wow, das ist crazy.
+Wow, that's crazy.
+
+940
+00:49:38,725 --> 00:49:39,851
+Ja.
+And.
+
+941
+00:49:40,894 --> 00:49:42,104
+Das ist crazy.
+This is crazy.
+
+942
+00:49:45,357 --> 00:49:46,400
+Warte.
+Worth.
+
+943
+00:49:51,697 --> 00:49:54,116
+(Lied: "Waiting" von Alice Boman)
+(Lied: "Waiting" von Alice Boman)
+
+944
+00:49:55,742 --> 00:49:57,744
+(ruhiger Neofolk)
+(quiet Neofolk)
+
+945
+00:50:37,909 --> 00:50:39,911
+(Lied läuft weiter)
+(Song continues)
+
+946
+00:50:55,552 --> 00:50:58,013
+Ich würde dich gerne öfter sehen.
+I would like to see you more often.
+
+947
+00:51:00,056 --> 00:51:01,725
+Ja.
+And.
+
+948
+00:51:03,435 --> 00:51:05,520
+Unter einer Bedingung.
+Under one condition.
+
+949
+00:51:05,687 --> 00:51:07,147
+Was?
+Was?
+
+950
+00:51:07,397 --> 00:51:09,900
+Was hier drin ist, bleibt hier drin.
+What's in here stays in here.
+
+951
+00:51:12,152 --> 00:51:13,278
+Ok.
+Ok.
+
+952
+00:51:13,528 --> 00:51:15,363
+Du gehst mir nicht nach.
+You don't follow me
+
+953
+00:51:16,615 --> 00:51:18,116
+Ok.
+Ok.
+
+954
+00:51:22,412 --> 00:51:24,414
+(beschwingte Musik)
+(lively music)
+
+955
+00:51:27,542 --> 00:51:29,377
+(er pfeift)
+(he whistles)
+
+956
+00:51:30,212 --> 00:51:32,881
+(Lied: "Home From Home" von Roo Panes)
+(Lied: "Home From Home" von Roo Panes)
+
+957
+00:52:15,257 --> 00:52:16,883
+(metallenes Krachen)
+(metallic crash)
+
+958
+00:52:19,803 --> 00:52:21,638
+- Hey. Na?
+- Hey.
+- Hey. And?
+- Hey.
+
+959
+00:52:22,389 --> 00:52:23,765
+- Big day, hm?
+- Ja.
+- Big day, hm?
+- Yes.
+
+960
+00:52:23,932 --> 00:52:25,559
+- Bist du nervös?
+- Nee.
+- Are you nervous?
+- Nope.
+
+961
+00:52:27,727 --> 00:52:29,855
+- In 10 Minuten?
+- Jo.
+- In 10 minutes?
+- Yes.
+
+962
+00:52:30,564 --> 00:52:33,859
+So gehst du nicht, oder?
+Hast du deinen Anzug geholt?
+You don't go like that, do you?
+Did you get your suit
+
+963
+00:52:34,025 --> 00:52:35,986
+Anzug oder Tee.
+Suit or tee.
+
+964
+00:52:37,195 --> 00:52:39,364
+(Betty) Oh Gott, sie kommen!
+(Betty) Oh god, they're coming!
+
+965
+00:52:42,993 --> 00:52:44,578
+(Toni) Was machen sie?
+(Toni) What are you doing?
+
+966
+00:52:44,828 --> 00:52:47,956
+- Hol doch die Brille.
+- Das würde dir so passen.
+- Get the glasses.
+- That would suit you.
+
+967
+00:52:48,123 --> 00:52:51,001
+Steht nicht blöd am Fenster.
+Macht was Cooles.
+Don't stand stupid at the window.
+Do something cool.
+
+968
+00:52:51,251 --> 00:52:52,419
+Kaffeetrinken?
+Drink coffee?
+
+969
+00:52:52,669 --> 00:52:54,170
+Haut ab, jetzt!
+Get rid of it now!
+
+970
+00:52:56,214 --> 00:52:58,967
+- Was machen sie?
+- Ja, nichts, was...
+- What do you do?
+- Yeah, nothing ...
+
+971
+00:53:02,929 --> 00:53:05,015
+Natürlich fährt er mit Strom.
+Of course it runs on electricity.
+
+972
+00:53:07,934 --> 00:53:10,145
+Sie haben das Protokoll gelesen?
+Have you read the protocol?
+
+973
+00:53:10,395 --> 00:53:13,523
+- Ich habe aufgegeben.
+- Seine Augen waren entzündet.
+- I gave up.
+- His eyes were inflamed.
+
+974
+00:53:13,690 --> 00:53:16,109
+Köstlich. Dröger, notieren Sie den bitte?
+Delicious. Dröger, would you write that down, please?
+
+975
+00:53:16,359 --> 00:53:18,862
+Benehmen Sie sich daneben,
+verlier ich den Job.
+Behave next,
+lose I do the job.
+
+976
+00:53:19,029 --> 00:53:22,240
+Ich kann meine Nanny
+nicht zahlen, sie nicht ihre.
+I ca
+n't pay my nanny , she can't pay hers.
+
+977
+00:53:22,407 --> 00:53:25,118
+Am Ende
+dieser wirtschaftlichen Kettenreaktion
+At the end of
+this economic chain reaction
+
+978
+00:53:25,243 --> 00:53:26,995
+stellt die AfD den Kanzler.
+the AfD provides the chancellor.
+
+979
+00:53:27,245 --> 00:53:28,997
+Haben Sie verstanden?
+Did you understand?
+
+980
+00:53:29,164 --> 00:53:31,666
+Herr Becht, das Executive Summary.
+Mr. Becht, the executive summary.
+
+981
+00:53:31,833 --> 00:53:34,044
+Sie reden nur, wenn man Sie anspricht.
+You only talk when someone speaks to you.
+
+982
+00:53:34,210 --> 00:53:36,212
+Seien Sie freundlich undeutsch.
+Be friendly and un-German.
+
+983
+00:53:36,463 --> 00:53:40,467
+Bei Scherzen lachen, Humor unterlassen.
+Laugh at jokes, refrain from humor.
+
+984
+00:53:40,634 --> 00:53:42,177
+{\an8}(spricht Englisch)
+{\ an8} (speaks English)
+
+985
+00:53:51,811 --> 00:53:52,854
+Hi.
+Hi.
+
+986
+00:54:05,116 --> 00:54:06,159
+(Paul) Hi.
+(Paul) Hi.
+
+987
+00:54:09,245 --> 00:54:10,288
+{\an8}Hi.
+{\an8}Hi.
+
+988
+00:54:24,511 --> 00:54:27,180
+(männliche Stimme spricht finnisch)
+(male voice speaks Finnish)
+
+989
+00:54:40,735 --> 00:54:43,154
+(Stimme spricht finnisch)
+(Voice speaks Finnish)
+
+990
+00:54:46,783 --> 00:54:49,911
+(Stimme spricht finnisch)
+(Voice speaks Finnish)
+
+991
+00:54:50,161 --> 00:54:52,956
+Äh, sollte man ihm sagen,
+dass er finnisch spricht?
+Uh, should you tell him
+he speaks Finnish?
+
+992
+00:54:56,001 --> 00:54:57,210
+(Finnisch)
+(Finnish)
+
+993
+00:55:00,463 --> 00:55:02,465
+(Stimme spricht finnisch)
+(Voice speaks Finnish)
+
+994
+00:55:03,925 --> 00:55:05,468
+Jetzt? Darf ich?
+Now? May I?
+
+995
+00:55:06,302 --> 00:55:07,345
+Ja, natürlich.
+Yes of course.
+
+996
+00:55:10,598 --> 00:55:11,474
+- Yes.
+- No.
+- Yes.
+- No.
+
+997
+00:55:11,641 --> 00:55:12,475
+- Was?
+- Bitte?
+- What?
+- You're welcome?
+
+998
+00:55:12,642 --> 00:55:14,060
+- Pardon?
+- (Finnisch)
+- Sorry?
+- (Finnish)
+
+999
+00:55:14,269 --> 00:55:15,353
+- Yes.
+- No.
+- Yes.
+- No.
+
+1000
+00:55:15,520 --> 00:55:16,563
+- Bitte?
+- Pardon?
+- You're welcome?
+- Sorry?
+
+1001
+00:55:20,775 --> 00:55:21,901
+- Yes.
+- No.
+- Yes.
+- No.
+
+1002
+00:55:22,152 --> 00:55:24,279
+- Spinnst du?
+- Warte doch mal.
+- Are you crazy?
+- Wait a moment.
+
+1003
+00:55:40,378 --> 00:55:41,629
+(leise) Äh, was?
+(quietly) Uh, what?
+
+1004
+00:55:51,556 --> 00:55:52,599
+(Paul) Was?
+(Paul) Was?
+
+1005
+00:56:07,530 --> 00:56:09,324
+Was? Entschuldigung.
+What? Sorry.
+
+1006
+00:56:15,538 --> 00:56:16,664
+Was?
+Was?
+
+1007
+00:56:27,759 --> 00:56:29,511
+(Paul) Hast du den Arsch offen?
+(Paul) Do you have your ass open?
+
+1008
+00:56:29,761 --> 00:56:31,679
+(singt) <i>14 Millionen</i>
+(sings) <i>14 million</i>
+
+1009
+00:56:31,846 --> 00:56:34,682
+Hat dir irgendjemand ins Hirn gekackt?
+Has anyone pooped your brain?
+
+1010
+00:56:34,933 --> 00:56:37,977
+- 14 Millionen!
+- Hörst du, was ich sage?
+- 14 million!
+- Do you hear what I am saying?
+
+1011
+00:56:38,144 --> 00:56:39,687
+Hörst du, was ich sage?
+Do you hear what i'm saying
+
+1012
+00:56:39,854 --> 00:56:43,525
+14 Millionen Euro, Paul. So, und jetzt du.
+14 million euros, Paul. So, now you.
+
+1013
+00:56:43,775 --> 00:56:46,694
+Du machst krasse Deals
+hinter meinem Rücken.
+You make big deals
+behind my back.
+
+1014
+00:56:46,861 --> 00:56:48,196
+Warum sagst du nichts?
+Why do you say nothing?
+
+1015
+00:56:48,446 --> 00:56:50,073
+- Es gibt keinen Deal.
+- Was?
+- There's no deal.
+- What?
+
+1016
+00:56:50,240 --> 00:56:51,658
+Das war ein Bluff.
+That was a bluff.
+
+1017
+00:56:51,825 --> 00:56:52,909
+Was?
+Was?
+
+1018
+00:56:53,159 --> 00:56:55,036
+Der weiß das, der ist nicht blöd!
+He knows that, he's not stupid!
+
+1019
+00:56:55,203 --> 00:56:57,455
+Er kann trotzdem nicht Nein sagen.
+He still can't say no.
+
+1020
+00:56:57,705 --> 00:56:59,499
+- Warum?
+- Er will die Daten.
+- Why?
+- He wants the data.
+
+1021
+00:56:59,749 --> 00:57:02,293
+Er scheißt auf unsere niedliche App.
+He doesn't give a shit about our cute app.
+
+1022
+00:57:02,544 --> 00:57:04,337
+Seine Währung sind Daten.
+Its currency is data.
+
+1023
+00:57:04,587 --> 00:57:07,006
+Es ist meine App! Ich habe sie erfunden.
+It's my app! I made it up.
+
+1024
+00:57:07,173 --> 00:57:10,301
+Und wegen mir ist die jetzt
+14 Millionen Euro wert.
+And because of me, it's now
+worth 14 million euros.
+
+1025
+00:57:10,468 --> 00:57:14,264
+Es ging nicht ums Geld.
+Wir wollten Menschen was Gutes tun.
+It wasn't about the money.
+We wanted to do good to people.
+
+1026
+00:57:14,514 --> 00:57:16,349
+Paul, bitte, hör auf zu heulen.
+Paul, please stop crying.
+
+1027
+00:57:16,516 --> 00:57:19,436
+Die Menschen wissen nicht,
+was gut für sie ist.
+People don't know
+what's good for them.
+
+1028
+00:57:19,602 --> 00:57:21,563
+Die wollen eins und tun das andere.
+They want one thing and do the other.
+
+1029
+00:57:21,729 --> 00:57:24,023
+Es gibt nur Instinkte und Disziplin.
+There are only instincts and discipline.
+
+1030
+00:57:24,190 --> 00:57:27,777
+- Die, die das wissen, gewinnen.
+- Ich scheiß auf so ein System.
+- Those who know win.
+- I give a shit about a system like that.
+
+1031
+00:57:28,027 --> 00:57:30,238
+- Darum verlierst du.
+- Tu ich nicht.
+- That's why you lose.
+- I don't.
+
+1032
+00:57:30,488 --> 00:57:33,324
+- Ich habe oft gewonnen.
+- Wer hat auf Paul gesetzt?
+- I won many times.
+- Who bet on Paul?
+
+1033
+00:57:33,575 --> 00:57:35,452
+Oh, niemand.
+Oh nobody
+
+1034
+00:57:35,702 --> 00:57:36,744
+Warum wohl, hm?
+Why do you think?
+
+1035
+00:57:36,911 --> 00:57:39,998
+Packt ihr die Knarren ein?
+Es gibt was zu feiern.
+Do you pack the guns?
+There is something to celebrate.
+
+1036
+00:57:40,248 --> 00:57:43,334
+Endlich sagt's einer.
+Bedank dich mal bei mir!
+Finally someone says it.
+Thank you to me!
+
+1037
+00:57:43,501 --> 00:57:45,712
+Kommt, wir trinken Champagner.
+Come on, let's have champagne.
+
+1038
+00:57:45,962 --> 00:57:47,922
+Ich habe uns ein Vermögen beschert.
+I made us a fortune.
+
+1039
+00:57:48,173 --> 00:57:51,759
+Ich vergeude meine Zeit
+nicht mit Schwanzvergleichen.
+I
+don't waste my time comparing cocks.
+
+1040
+00:57:52,677 --> 00:57:55,305
+Wir wissen alle, wer da verlieren würde.
+We all know who would lose.
+
+1041
+00:57:57,682 --> 00:57:58,725
+Bitte?
+Sorry?
+
+1042
+00:57:58,975 --> 00:58:01,769
+Vielleicht musst du dich
+deshalb so aufblasen.
+Maybe
+that's why you have to inflate yourself so much.
+
+1043
+00:58:03,396 --> 00:58:06,357
+- Auf das Level gehe ich nicht.
+- Würde ich auch nicht.
+- I'm not going to that level.
+- I wouldn't either.
+
+1044
+00:58:07,108 --> 00:58:10,945
+- Es kommt nicht auf Größe an.
+- In Asien wärst du der King.
+- Size doesn't matter.
+- You'd be king in Asia.
+
+1045
+00:58:11,196 --> 00:58:13,239
+- Du halbe Vorhaut.
+- Aber ich habe eine.
+- You half the foreskin.
+- But I have one.
+
+1046
+00:58:13,490 --> 00:58:16,451
+- Das ist antisemitisch.
+- Jetzt bist du wieder Jude?
+- It's anti-Semitic.
+- Are you a Jew again?
+
+1047
+00:58:16,701 --> 00:58:18,578
+Mein Schwanz ist in Ordnung!
+My cock is fine!
+
+1048
+00:58:18,745 --> 00:58:19,787
+Sagt wer?
+Says who?
+
+1049
+00:58:20,038 --> 00:58:21,581
+Bestätigten mehrere Quellen.
+Confirmed by several sources.
+
+1050
+00:58:21,831 --> 00:58:23,208
+Ah ja? Wer denn?
+Ah yes? Who then?
+
+1051
+00:58:23,333 --> 00:58:25,460
+Zum Beispiel Anna Kloske.
+For example Anna Kloske.
+
+1052
+00:58:44,020 --> 00:58:45,605
+So.
+So.
+
+1053
+00:58:45,772 --> 00:58:47,065
+Ich setze alles.
+I bet everything.
+
+1054
+00:58:47,315 --> 00:58:48,358
+Was?
+Was?
+
+1055
+00:58:48,608 --> 00:58:51,611
+Es bleiben 20 Tage.
+Mein Anteil, dass du verlierst.
+There are 20 days left.
+My part that you lose
+
+1056
+00:58:51,861 --> 00:58:52,946
+Was?
+Was?
+
+1057
+00:58:53,196 --> 00:58:54,364
+Komm, du Player.
+Come on, you player.
+
+1058
+00:58:54,531 --> 00:58:57,200
+Alles an den Gewinner,
+die Hälfte ans Team.
+Everything to the winner,
+half to the team.
+
+1059
+00:58:57,367 --> 00:59:00,537
+Ohne Bescheißen.
+Keine Bestellungen bei Betty.
+Without shitting.
+No orders from Betty.
+
+1060
+00:59:00,787 --> 00:59:02,747
+Ich weiß nicht, was du meinst.
+I do not know what you mean.
+
+1061
+00:59:02,997 --> 00:59:04,165
+Ich bin nicht bescheuert!
+I am not stupid!
+
+1062
+00:59:04,332 --> 00:59:07,126
+Scampi, Wein im Kühlschrank.
+Augentropfen!
+Scampi, wine in the fridge.
+Eye drop!
+
+1063
+00:59:07,377 --> 00:59:10,338
+- Das ist Betrug.
+- Betrug? Wer tauscht ständig?
+- That's cheating.
+- Amounted to? Who is constantly exchanging?
+
+1064
+00:59:10,588 --> 00:59:12,298
+Wer zählt viele Sachen als eine.
+Who counts many things as one.
+
+1065
+00:59:12,549 --> 00:59:13,591
+- Was?
+- Die Haarpillen.
+- What?
+- The hair pills.
+
+1066
+00:59:13,758 --> 00:59:15,843
+Die Pillen? Soll jede einzeln zählen?
+The pills? Should each count individually?
+
+1067
+00:59:16,094 --> 00:59:19,180
+Entscheidest du dich für Haare
+oder 14 Millionen Euro?
+Do you choose hair
+or 14 million euros?
+
+1068
+00:59:19,430 --> 00:59:21,891
+Ey, dein Handy,
+das sind 40 Sachen in einer!
+Ey, your cell phone,
+that's 40 things in one!
+
+1069
+00:59:22,141 --> 00:59:23,810
+Ok, so.
+Ok, so.
+
+1070
+00:59:24,060 --> 00:59:27,313
+Ab Mitternacht: kein Handy,
+kein Tauschen, alles zählt.
+From midnight: no cell phone,
+no swapping, everything counts.
+
+1071
+00:59:27,480 --> 00:59:28,815
+nichts mehr aus dem Büro.
+nothing more from the office.
+
+1072
+00:59:28,982 --> 00:59:31,234
+Wer erwischt wird, hat verloren.
+Whoever is caught has lost.
+
+1073
+00:59:34,404 --> 00:59:35,905
+Deal.
+Deal.
+
+1074
+00:59:37,699 --> 00:59:40,034
+- Hey!
+- Du hast gesagt ab Mitternacht!
+- hey!
+- You said from midnight!
+
+1075
+00:59:40,201 --> 00:59:41,703
+(alle) Schnell, schnell!
+(all) Quick, quick!
+
+1076
+00:59:45,498 --> 00:59:49,752
+(Lied: "There's Only One Love"
+von Ewert And The Two Dragons)
+(Lied: "There's Only One Love"
+von Ewert And The Two Dragons)
+
+1077
+00:59:50,795 --> 00:59:51,963
+(Paul stöhnt)
+(Paul groans)
+
+1078
+00:59:53,172 --> 00:59:55,258
+(schwungvoller Indie-Rock)
+(peppy indie rock)
+
+1079
+00:59:57,969 --> 00:59:59,178
+Sorry.
+Sorry.
+
+1080
+01:00:26,080 --> 01:00:28,333
+(Surren)
+(Whirring)
+
+1081
+01:00:39,260 --> 01:00:40,887
+(Surren)
+(Whirring)
+
+1082
+01:00:49,354 --> 01:00:51,606
+- Hast du sie noch alle?
+- (Ronnie) Wieso?
+- Do you still have them all?
+- (Ronnie) Why?
+
+1083
+01:00:51,773 --> 01:00:53,483
+Hat er dich auf mich angesetzt?
+Did he put you on me?
+
+1084
+01:00:54,108 --> 01:00:55,234
+Nein.
+No.
+
+1085
+01:00:55,485 --> 01:00:57,195
+Warum spionierst du nur mir nach?
+Why are you only spying on me?
+
+1086
+01:00:58,029 --> 01:01:00,531
+Größere Wahrscheinlichkeit des Meltdowns.
+Greater likelihood of meltdown.
+
+1087
+01:01:00,698 --> 01:01:02,075
+Schäm dich.
+Shame on you.
+
+1088
+01:01:02,241 --> 01:01:03,368
+Schämt euch alle!
+Shame on you all!
+
+1089
+01:01:03,618 --> 01:01:06,454
+14 Millionen.
+Da hört die Freundschaft auf.
+14 million.
+That is where the friendship ends.
+
+1090
+01:01:06,996 --> 01:01:08,498
+Mal beißen?
+Bite
+
+1091
+01:01:09,540 --> 01:01:12,001
+- Äh, Paul?
+- Ja, was ist denn?
+- Uh, Paul?
+- Yeah, what is it?
+
+1092
+01:01:12,168 --> 01:01:13,336
+Deine Mutter.
+Your mother.
+
+1093
+01:01:13,461 --> 01:01:15,463
+Gestern? Warum sagst du nichts?
+Yesterday? Why do you say nothing?
+
+1094
+01:01:15,713 --> 01:01:17,340
+Dein Handy war aus.
+Your cell phone was off.
+
+1095
+01:01:17,590 --> 01:01:20,301
+- Oh Shit. Stimmt.
+- Ist ja alles gut gegangen.
+- Oh shit. Right.
+- Everything went well.
+
+1096
+01:01:20,551 --> 01:01:24,013
+Sie hat einen Gips
+und ist etwas neben der Kappe.
+She has a cast
+and is something next to the cap.
+
+1097
+01:01:24,180 --> 01:01:27,350
+Aber du kannst sie besuchen.
+Sie freut sich.
+But you can visit them.
+She is happy.
+
+1098
+01:01:27,600 --> 01:01:29,477
+Alles ist fremd im Krankenhaus.
+Everything is strange in the hospital.
+
+1099
+01:01:29,644 --> 01:01:31,312
+Papa ist gerade da.
+Papa is just here.
+
+1100
+01:01:31,479 --> 01:01:34,107
+So eine Kacke.
+Was macht die auch immer?
+What a shit.
+Whatever is she doing?
+
+1101
+01:01:34,273 --> 01:01:37,360
+Es war absehbar,
+dass sie mal wo runterfällt.
+It was foreseeable
+that it would fall down somewhere.
+
+1102
+01:01:37,527 --> 01:01:39,362
+Sie lässt sich ja nichts sagen.
+She can't be told anything.
+
+1103
+01:01:39,612 --> 01:01:41,781
+Was machst du mit ihren Sachen?
+What do you do with her things
+
+1104
+01:01:41,948 --> 01:01:44,701
+Gucken, was sie mitnehmen kann ins Heim.
+See what she can take home with her.
+
+1105
+01:01:45,993 --> 01:01:48,121
+- Ins Heim?
+- (stöhnt) Pauli.
+- To the home?
+- (groans) Pauli.
+
+1106
+01:01:48,705 --> 01:01:50,581
+Es geht nicht mehr allein.
+It is no longer possible alone.
+
+1107
+01:01:50,748 --> 01:01:53,209
+Wir können nicht dauernd danebenstehen.
+We cannot stand by all the time.
+
+1108
+01:01:53,376 --> 01:01:55,336
+Da hat sie Unterhaltung.
+There she has entertainment.
+
+1109
+01:01:55,503 --> 01:01:57,880
+Da sortiert man ein halbes Leben aus?
+Do you sort out half a life?
+
+1110
+01:01:58,131 --> 01:02:00,550
+Willst du was davon haben?
+Do you want some of it?
+
+1111
+01:02:00,800 --> 01:02:02,009
+Ich?
+I?
+
+1112
+01:02:02,176 --> 01:02:04,178
+Ja, als Erinnerung.
+Yes, as a reminder.
+
+1113
+01:02:06,222 --> 01:02:07,640
+Guck mal.
+Have a look.
+
+1114
+01:02:09,934 --> 01:02:11,602
+Weißt du, wer das ist?
+You know who that is?
+
+1115
+01:02:11,769 --> 01:02:13,062
+Keine Ahnung.
+No idea.
+
+1116
+01:02:13,896 --> 01:02:15,815
+Ich glaube, ihre große Liebe.
+I think your great love.
+
+1117
+01:02:16,065 --> 01:02:18,234
+Ist das ein russischer Soldat?
+Is that a Russian soldier?
+
+1118
+01:02:18,776 --> 01:02:20,278
+Siehst du?
+Do you see?
+
+1119
+01:02:20,445 --> 01:02:22,196
+Wir wissen nichts, Mama.
+We don't know mama.
+
+1120
+01:02:22,822 --> 01:02:26,242
+Wenn wir es nicht mal wissen,
+wen interessiert es dann?
+If we don't even know who
+cares?
+
+1121
+01:02:26,409 --> 01:02:29,287
+Sitzt Oma nicht davor,
+sind das alles nur Dinge.
+If grandma isn't sitting in front of it, they
+'re all just things.
+
+1122
+01:02:29,454 --> 01:02:33,791
+Pauli, es geht nicht um ihre Erinnerungen,
+sondern um deine.
+Pauli, it's not
+about your memories, but yours.
+
+1123
+01:02:38,254 --> 01:02:40,882
+Willst du jetzt was haben oder nicht?
+Do you want something now or not?
+
+1124
+01:02:42,133 --> 01:02:43,301
+Nee.
+No.
+
+1125
+01:02:44,051 --> 01:02:45,344
+Was ist los, Paul?
+What's the matter, paul?
+
+1126
+01:02:45,595 --> 01:02:47,764
+Nichts. Ich habe keinen Platz.
+Nothing. I have no place.
+
+1127
+01:02:47,930 --> 01:02:50,016
+Samstag müsst ihr helfen, beim Umzug.
+Saturday you have to help with the move.
+
+1128
+01:02:50,266 --> 01:02:51,768
+- Sag es Toni.
+- Mache ich.
+- Tell Toni.
+- I do.
+
+1129
+01:02:52,018 --> 01:02:53,728
+- Besuch sie.
+- Ja, jetzt.
+- Visit her.
+- Yes now.
+
+1130
+01:02:53,978 --> 01:02:57,064
+- Bring ihr Kippen mit.
+- Ich habe kein Geld.
+- Bring her butts.
+- I have no money.
+
+1131
+01:02:57,315 --> 01:02:58,900
+- Warte...
+- Nein.
+- Wait ...
+- No.
+
+1132
+01:02:59,066 --> 01:03:01,235
+Das ist gegen die Regeln.
+It's against the rules.
+
+1133
+01:03:01,360 --> 01:03:03,070
+Mach's gut, Mama.
+Goodbye mom
+
+1134
+01:03:04,489 --> 01:03:06,657
+Ja, danke für die Hilfe.
+Yes, thanks for the help.
+
+1135
+01:03:37,063 --> 01:03:38,231
+Was geht?
+What's going on?
+
+1136
+01:03:38,481 --> 01:03:39,857
+Bis nächste Woche.
+Until next week.
+
+1137
+01:03:40,024 --> 01:03:42,026
+- Danke schön.
+- Alles Gute.
+- Thank you very much.
+- All the best.
+
+1138
+01:03:42,193 --> 01:03:43,694
+Hier, das Mittel.
+Here, the means.
+
+1139
+01:03:47,323 --> 01:03:49,200
+Schönen guten Tag.
+Beautiful good day.
+
+1140
+01:03:50,910 --> 01:03:53,454
+- Erklär mir mal 'n Ding.
+- Hi.
+- Explain a thing to me.
+- Hi.
+
+1141
+01:03:58,167 --> 01:03:59,544
+Nicht hier, ok?
+Not here ok?
+
+1142
+01:04:01,420 --> 01:04:03,005
+Was machen wir hier?
+What are we doing here?
+
+1143
+01:04:03,172 --> 01:04:04,674
+Halt mal bitte.
+Hold this please.
+
+1144
+01:04:12,932 --> 01:04:14,934
+Gibst du mir deine Hand?
+Will you give me your hand
+
+1145
+01:04:20,147 --> 01:04:22,275
+Hier 2500 Euro,
+Here 2500 Euro,
+
+1146
+01:04:23,150 --> 01:04:24,735
+bei Gucci 4000 Euro,
+beautiful Gucci 4000 Euro,
+
+1147
+01:04:25,570 --> 01:04:27,363
+Prada fast 6000.
+Prada fast 6000.
+
+1148
+01:04:29,866 --> 01:04:32,076
+Wie viel insgesamt?
+How much in total?
+
+1149
+01:04:32,326 --> 01:04:34,203
+68.743 Euro.
+68.743 Euro.
+
+1150
+01:04:35,371 --> 01:04:37,206
+Wie hast du das alles bezahlt?
+How did you pay for it all?
+
+1151
+01:04:38,249 --> 01:04:40,626
+Erst vom Gehalt, dann Kreditkarten.
+First on salary, then credit cards.
+
+1152
+01:04:40,793 --> 01:04:42,753
+Geld, was ich von Freunden nahm.
+Money what I took from friends.
+
+1153
+01:04:43,004 --> 01:04:44,505
+Das haben die mitgemacht?
+Did they go along with that?
+
+1154
+01:04:45,506 --> 01:04:48,676
+Sagen wir so,
+ich habe nicht mehr viele Freunde.
+Let's just
+say I don't have many friends anymore.
+
+1155
+01:04:53,222 --> 01:04:54,932
+Zeig mal.
+Show me.
+
+1156
+01:04:55,808 --> 01:04:57,476
+(Paul) Alter.
+(Paul) Dude.
+
+1157
+01:04:57,727 --> 01:05:00,187
+- Scheißübung.
+- Warum musst du das machen?
+- Fucking exercise.
+- Why do you have to do this?
+
+1158
+01:05:00,438 --> 01:05:03,816
+Damit ich sehe,
+dass ich nicht übern Berg bin.
+So that I can see
+that I'm not over the mountain.
+
+1159
+01:05:05,860 --> 01:05:08,154
+Und jetzt?
+And now?
+
+1160
+01:05:09,238 --> 01:05:12,325
+Ich muss 7 Jahre alles abgeben,
+was ich habe.
+I have to give up everything I have for 7 years
+.
+
+1161
+01:05:12,491 --> 01:05:15,912
+Ich muss in eine Selbsthilfe-WG
+und in Therapie.
+I have to go to a self-help flat share
+and to therapy.
+
+1162
+01:05:16,078 --> 01:05:18,456
+Mich den Realitäten stellen.
+Face the realities.
+
+1163
+01:05:18,706 --> 01:05:20,708
+Es läuft wohl ganz gut.
+It's going pretty well.
+
+1164
+01:05:20,875 --> 01:05:23,377
+Du versteckst alles
+und spielst Prinzessin.
+You hide everything
+and play princess.
+
+1165
+01:05:23,544 --> 01:05:25,421
+Du verstehst das nicht.
+You do not understand this.
+
+1166
+01:05:25,588 --> 01:05:28,090
+Wenn das jemand versteht, dann ich.
+If anyone understands that, I will.
+
+1167
+01:05:30,009 --> 01:05:32,261
+Wenn alle meine Sachen weg sind,
+When all of my things are gone
+
+1168
+01:05:32,929 --> 01:05:34,931
+was bleibt dann noch von mir?
+what remains of me then?
+
+1169
+01:05:37,308 --> 01:05:39,143
+Vor der Wette...
+Before the bet ...
+
+1170
+01:05:40,227 --> 01:05:42,271
+da hatte ich 10.000 Dinge.
+I had 10,000 things there.
+
+1171
+01:05:42,438 --> 01:05:43,940
+10.000.
+10.000.
+
+1172
+01:05:46,525 --> 01:05:48,444
+Letzte Woche hatte ich 77.
+Last week I had 77.
+
+1173
+01:05:49,946 --> 01:05:51,697
+Fühlst du dich besser?
+Do you feel better?
+
+1174
+01:05:51,864 --> 01:05:53,449
+Ich weiß nicht.
+I do not know.
+
+1175
+01:05:54,367 --> 01:05:56,202
+(seufzt) Man checkt...
+(sighs) You check ...
+
+1176
+01:05:57,995 --> 01:06:00,581
+wie frei man eigentlich sein könnte.
+how free one could actually be.
+
+1177
+01:06:01,248 --> 01:06:03,250
+(Magenknurren)
+(Stomach growling)
+
+1178
+01:06:04,001 --> 01:06:06,170
+In deinem Fall frei und verhungert.
+In your case, free and starved.
+
+1179
+01:06:06,337 --> 01:06:09,632
+(räuspern) Sorry,
+ich hatte nur eine halbe Banane.
+(clear throat) Sorry,
+I only had half a banana.
+
+1180
+01:06:09,882 --> 01:06:11,842
+Sag ihm bitte nichts.
+Please don't tell him anything.
+
+1181
+01:06:12,009 --> 01:06:14,387
+Ich kann 2 Stunden sein, wer ich will.
+I can be who I want for 2 hours.
+
+1182
+01:06:14,553 --> 01:06:15,972
+Nimm mir das nicht.
+Don't take this from me.
+
+1183
+01:06:17,390 --> 01:06:18,724
+Ok.
+Ok.
+
+1184
+01:06:18,975 --> 01:06:20,101
+Versprich es.
+Promise it.
+
+1185
+01:06:20,726 --> 01:06:23,229
+Versprochen. Wofür hältst du mich?
+Promised. What do you take me for
+
+1186
+01:06:24,021 --> 01:06:26,023
+(Magenknurren)
+(Stomach growling)
+
+1187
+01:06:27,942 --> 01:06:29,235
+Na, Hunger?
+Well, Hunger?
+
+1188
+01:06:30,111 --> 01:06:32,446
+Ich würde nicht so lange warten.
+I wouldn't wait that long.
+
+1189
+01:06:33,572 --> 01:06:35,408
+- Wieso?
+- Äh...
+- How so?
+- Uh ...
+
+1190
+01:06:36,158 --> 01:06:37,284
+Nichts.
+Nothing.
+
+1191
+01:06:37,451 --> 01:06:39,120
+Ich habe nichts gesagt.
+I did not say anything.
+
+1192
+01:06:39,286 --> 01:06:41,664
+Ich hab nichts zu sagen. Schönen Abend.
+I have nothing to say. Beautiful evening.
+
+1193
+01:06:50,297 --> 01:06:53,759
+- Warum soll ich nicht warten?
+- Nichts, das war nur...
+- Why shouldn't I wait?
+- Nothing, that was just ...
+
+1194
+01:06:53,926 --> 01:06:56,595
+Oh, guck mich nicht so an, ich hasse das.
+Oh, don't look at me like that, I hate that.
+
+1195
+01:06:56,846 --> 01:06:59,432
+- Wo ist mein Deo?
+- Paul, guck mich an.
+- Where's my deodorant?
+- Paul, look at me.
+
+1196
+01:07:00,349 --> 01:07:01,851
+Guck mich an.
+Look at me.
+
+1197
+01:07:04,103 --> 01:07:05,896
+Mit Augen.
+With eyes.
+
+1198
+01:07:07,732 --> 01:07:09,400
+So. Und jetzt?
+So what now?
+
+1199
+01:07:09,650 --> 01:07:12,486
+- Bis einer blinzelt.
+- Da verliere ich immer.
+- Until someone blinks.
+- I always lose there.
+
+1200
+01:07:12,737 --> 01:07:14,405
+Eben.
+Just.
+
+1201
+01:07:15,281 --> 01:07:17,908
+Ok, sie kommt heute nicht. Zufrieden?
+Ok, she's not coming today. Satisfied?
+
+1202
+01:07:19,452 --> 01:07:21,120
+Woher weißt du das?
+How do you know?
+
+1203
+01:07:21,370 --> 01:07:23,205
+Einfach so. Hör auf zu fragen.
+Just because. Stop asking.
+
+1204
+01:07:23,456 --> 01:07:26,459
+Wenn du da Scheiße baust,
+das ist kein Witz mehr.
+If you screw
+this up, it's no longer a joke.
+
+1205
+01:07:26,709 --> 01:07:28,794
+- Das ist mir wichtig!
+- Das?
+- That's important to me!
+- The?
+
+1206
+01:07:29,420 --> 01:07:30,796
+- Sie.
+- Sie.
+- She.
+- She.
+
+1207
+01:07:31,464 --> 01:07:34,633
+Aha. Ähm, wie heißt sie denn eigentlich?
+Aha. Um, what's her name actually?
+
+1208
+01:07:35,384 --> 01:07:36,844
+Mit Nachnamen?
+With last name?
+
+1209
+01:07:37,011 --> 01:07:40,014
+Wo wohnt sie,
+was macht sie, wie alt ist sie?
+Where does she live,
+what does she do, how old is she?
+
+1210
+01:07:43,768 --> 01:07:46,771
+Das ist gemein.
+Du weißt, dass ich das gerne wüsste.
+That's mean.
+You know I would like to know.
+
+1211
+01:07:47,021 --> 01:07:49,106
+- Aber?
+- Sie erzählt es nicht.
+- But?
+- She doesn't tell.
+
+1212
+01:07:49,273 --> 01:07:51,025
+Und warum nicht?
+And why not?
+
+1213
+01:07:51,275 --> 01:07:54,361
+Wenn sie dich reinlässt,
+wird sie uninteressant.
+If she lets you in,
+she becomes uninteresting.
+
+1214
+01:07:54,528 --> 01:07:55,863
+So war es immer.
+It's always been like that.
+
+1215
+01:07:56,030 --> 01:07:58,324
+Du polierst dein Ego auf
+und wirfst sie weg.
+You polish up your ego
+and throw it away.
+
+1216
+01:07:58,491 --> 01:08:00,826
+Komm jetzt nicht mit Anna Kloske.
+Don't come with Anna Kloske now.
+
+1217
+01:08:03,496 --> 01:08:04,997
+Toni,
+Toni,
+
+1218
+01:08:06,123 --> 01:08:08,000
+du brauchst niemanden.
+you don't need anyone
+
+1219
+01:08:08,876 --> 01:08:12,004
+Du weißt nicht, wie es ist,
+wenn dir jemand fehlt.
+You don't know what it's like
+when you miss someone.
+
+1220
+01:08:12,171 --> 01:08:14,715
+Weil dir nichts fehlt. Du bist perfekt.
+Because you lack nothing. You're perfect.
+
+1221
+01:08:14,965 --> 01:08:16,801
+Du ganz allein.
+You all alone.
+
+1222
+01:08:17,885 --> 01:08:19,720
+Lass sie in Ruhe, Mann.
+Leave her alone, man.
+
+1223
+01:08:20,429 --> 01:08:22,389
+Wenn du sie wirklich magst,
+If you really like her
+
+1224
+01:08:23,516 --> 01:08:25,434
+dann lass sie sein.
+then let her be.
+
+1225
+01:08:26,977 --> 01:08:28,979
+(ernste Klaviermusik)
+(serious piano music)
+
+1226
+01:08:35,361 --> 01:08:37,404
+Entschuldigung, ich bin...
+Sorry i am ...
+
+1227
+01:08:37,571 --> 01:08:38,864
+Ich hatte...
+I had...
+
+1228
+01:08:39,031 --> 01:08:40,074
+Egal.
+No matter.
+
+1229
+01:08:40,324 --> 01:08:41,826
+Hier bin ich.
+Here I am.
+
+1230
+01:08:42,368 --> 01:08:43,869
+Was?
+Was?
+
+1231
+01:08:45,287 --> 01:08:46,413
+Nichts.
+Nothing.
+
+1232
+01:08:47,748 --> 01:08:49,166
+Komm rein.
+Come in.
+
+1233
+01:09:09,270 --> 01:09:10,354
+(Englisch) Hey, Paul.
+(English) Hey Paul.
+
+1234
+01:11:38,669 --> 01:11:40,921
+(leise, spannungsvolle Musik)
+(soft, exciting music)
+
+1235
+01:12:10,868 --> 01:12:12,411
+(leise) Oh Shit.
+(leise) Oh Shit.
+
+1236
+01:12:17,750 --> 01:12:19,251
+Tut mir leid.
+I'm sorry.
+
+1237
+01:12:22,254 --> 01:12:24,089
+Warum darf ich nicht...
+Why am I not allowed...
+
+1238
+01:12:24,256 --> 01:12:25,674
+Das ist bescheuert.
+This is stupid.
+
+1239
+01:12:27,718 --> 01:12:30,846
+Ich werde dir nicht wehtun
+oder dich wegwerfen.
+I won't hurt
+you or throw you away.
+
+1240
+01:12:30,971 --> 01:12:32,890
+Hör nicht auf ihn, bitte.
+Don't listen to him, please.
+
+1241
+01:12:33,057 --> 01:12:34,808
+Er hat es dir gesagt.
+He told you.
+
+1242
+01:12:35,934 --> 01:12:37,603
+Ja... Nein.
+Yes No.
+
+1243
+01:12:38,771 --> 01:12:40,272
+Was jetzt genau?
+What now exactly?
+
+1244
+01:12:42,107 --> 01:12:43,942
+Mach's gut, Toni.
+Take care, Toni.
+
+1245
+01:12:53,118 --> 01:12:55,120
+(nachdenkliche Musik)
+(thoughtful music)
+
+1246
+01:12:56,413 --> 01:12:59,166
+(Lied: "Lost In The Light" von Bahamas)
+(Lied: "Lost In The Light" von Bahamas)
+
+1247
+01:13:01,085 --> 01:13:03,087
+(entfernte Gespräche)
+(distant conversations)
+
+1248
+01:13:11,845 --> 01:13:13,680
+Ihr macht's richtig.
+You're doing it right.
+
+1249
+01:13:14,223 --> 01:13:16,225
+Wie Diogenes in der Tonne.
+Like Diogenes in the bin.
+
+1250
+01:13:17,393 --> 01:13:19,269
+Die Welt ist ekelhaft.
+The world is disgusting.
+
+1251
+01:13:19,937 --> 01:13:21,772
+Edel ist es, arm zu sein.
+It is noble to be poor.
+
+1252
+01:13:24,817 --> 01:13:25,859
+Au.
+At.
+
+1253
+01:13:27,653 --> 01:13:29,655
+(Lied läuft weiter)
+(Song continues)
+
+1254
+01:13:33,575 --> 01:13:35,577
+(Platschen)
+(Flattening)
+
+1255
+01:13:37,788 --> 01:13:39,790
+(er stöhnt)
+(he groans)
+
+1256
+01:13:45,379 --> 01:13:48,215
+Guck mal. Der ist ganz schön abgestürzt.
+Have a look. It crashed pretty badly.
+
+1257
+01:13:48,382 --> 01:13:50,717
+Ist bestimmt 'ne Partyleiche.
+It's definitely a party corpse.
+
+1258
+01:13:52,094 --> 01:13:54,304
+- Was guckt ihr so?
+- Komm, wir gehen.
+- What are you looking at?
+- Come on, let's go.
+
+1259
+01:13:54,471 --> 01:13:58,016
+Kann man wunderbar essen,
+muss man nicht wegwerfen.
+You can eat wonderfully,
+you don't have to throw it away.
+
+1260
+01:13:58,183 --> 01:14:00,018
+Konsumarschlöcher!
+Consumer scavengers!
+
+1261
+01:14:06,984 --> 01:14:08,777
+Sie ist weg.
+She is gone.
+
+1262
+01:14:08,944 --> 01:14:10,571
+Äh, was?
+Uh what?
+
+1263
+01:14:11,947 --> 01:14:13,073
+Glückwunsch.
+Congratulation.
+
+1264
+01:14:25,043 --> 01:14:26,795
+Warum hast du das gemacht?
+Why did you do that?
+
+1265
+01:14:26,962 --> 01:14:29,256
+Wie? Warum habe ich was gemacht?
+As? Why did I do what?
+
+1266
+01:14:36,305 --> 01:14:37,890
+Ist das gepfändet?
+Is that attached?
+
+1267
+01:14:39,183 --> 01:14:41,351
+Hat sie das Zeug geklaut?
+Did she steal that stuff?
+
+1268
+01:14:45,147 --> 01:14:48,150
+Sie hat wahnsinnig viele Schulden und...
+She has an awful lot of debts and ...
+
+1269
+01:14:48,400 --> 01:14:49,818
+ein kleines Psychoding.
+a little psychoding.
+
+1270
+01:14:54,865 --> 01:14:57,576
+- Du hast sie verpfiffen?
+- Habe ich nicht.
+- You whistled on her?
+- I don't.
+
+1271
+01:14:57,743 --> 01:15:00,829
+Bist du so eifersüchtig,
+dass du mir nichts gönnst?
+Are you so jealous
+that you won't treat me?
+
+1272
+01:15:00,996 --> 01:15:03,665
+- Was?
+- Ich soll sie nie wiedersehen.
+- What?
+- I'm never supposed to see her again.
+
+1273
+01:15:03,916 --> 01:15:06,376
+Ich meinte, dass du ihr nicht guttust.
+I meant that you are not doing her any good.
+
+1274
+01:15:06,543 --> 01:15:08,795
+- Sieh sie, so viel du willst.
+- Wie denn?
+- See them as much as you want.
+- How come?
+
+1275
+01:15:09,046 --> 01:15:10,088
+Wie?
+As?
+
+1276
+01:15:10,255 --> 01:15:12,799
+Ich weiß nicht, wie sie heißt,
+wo sie wohnt!
+I don't know what her name is,
+where she lives!
+
+1277
+01:15:12,966 --> 01:15:14,718
+Das hast du selber gesagt!
+You said that yourself!
+
+1278
+01:15:14,968 --> 01:15:17,554
+Ich weiß nichts!
+Nicht mal, ob sie ein Handy hat!
+I do not know anything!
+Not even if she has a cell phone!
+
+1279
+01:15:17,804 --> 01:15:19,431
+Natürlich hat sie das!
+Of course she did!
+
+1280
+01:15:19,598 --> 01:15:22,684
+Die hat sich doch angerufen
+am ersten Abend.
+She called
+on the first evening.
+
+1281
+01:15:25,229 --> 01:15:27,147
+- Dein Handy.
+- Was?
+- Your cellphone.
+- What?
+
+1282
+01:15:27,397 --> 01:15:30,442
+- Da ist ihre Nummer drauf.
+- Das ist Blödsinn...
+- There's her number on it.
+- This is nonsense ...
+
+1283
+01:15:31,527 --> 01:15:32,569
+Stimmt.
+Right.
+
+1284
+01:15:34,279 --> 01:15:36,490
+Jetzt hast du mich am Arsch, hm?
+Now you've got my ass, huh?
+
+1285
+01:15:36,657 --> 01:15:39,785
+- Was?
+- Deswegen hast du das gemacht?
+- What?
+- Is that why you did this?
+
+1286
+01:15:40,494 --> 01:15:43,163
+- Was?
+- Damit ich dein Telefon hole.
+- What?
+- So that I can get your phone.
+
+1287
+01:15:43,330 --> 01:15:44,873
+Damit du gewinnst.
+So that you win.
+
+1288
+01:15:45,123 --> 01:15:47,793
+- Für 14 Millionen geht das.
+- Spinnst du?
+-
+That works for 14 million. - Are you crazy?
+
+1289
+01:15:48,043 --> 01:15:49,086
+So bist du.
+So you're.
+
+1290
+01:15:49,253 --> 01:15:52,965
+Alle um dich rum müssen
+so unglücklich sein wie du!
+Everyone around you must be
+as unhappy as you are!
+
+1291
+01:15:55,467 --> 01:15:56,927
+Au!
+At!
+
+1292
+01:16:11,024 --> 01:16:12,859
+Jetzt kapiere ich's.
+Now I get it.
+
+1293
+01:16:17,030 --> 01:16:19,491
+Das ist alles ein Missverständnis.
+It's all a misunderstanding.
+
+1294
+01:16:21,201 --> 01:16:23,954
+Ich freue mich, wenn du mich aufklärst.
+I am happy if you enlighten me.
+
+1295
+01:16:25,872 --> 01:16:29,001
+Wir denken die ganze Zeit,
+wir sind beste Freunde.
+We think
+we're best friends all the time .
+
+1296
+01:16:29,876 --> 01:16:31,837
+Aber wir kennen uns nur lang.
+But we've only known each other for a long time.
+
+1297
+01:16:34,464 --> 01:16:36,466
+Das ist ein Unterschied.
+That's a difference.
+
+1298
+01:16:44,766 --> 01:16:47,728
+Ich gebe auf. Du hast gewonnen.
+I give up. You won.
+
+1299
+01:16:47,894 --> 01:16:49,479
+Viel Spaß mit dem Geld.
+Have fun with the money.
+
+1300
+01:16:54,318 --> 01:16:56,320
+(Paul schnieft)
+(Paul sneezes)
+
+1301
+01:17:17,883 --> 01:17:21,511
+Sie wusste nicht, wo sie war,
+wollte nachts aus dem Bett.
+She didn't know where she was,
+wanted to get out of bed at night.
+
+1302
+01:17:22,471 --> 01:17:24,556
+Mit ihrer gebrochenen Hüfte.
+With her broken hip.
+
+1303
+01:17:25,265 --> 01:17:28,310
+Es hat gedauert,
+bis die das bemerkt haben.
+It took them
+to notice.
+
+1304
+01:17:28,935 --> 01:17:30,937
+Die 2. OP war dann zu viel.
+The second operation was then too much.
+
+1305
+01:17:33,857 --> 01:17:35,108
+Ich...
+I...
+
+1306
+01:17:45,285 --> 01:17:46,787
+Wo warst du denn?
+Where have you been?
+
+1307
+01:17:47,037 --> 01:17:49,039
+Was war denn so wichtig?
+What was so important?
+
+1308
+01:17:50,040 --> 01:17:52,501
+(melancholische Klaviermusik)
+(melancholy piano music)
+
+1309
+01:17:52,668 --> 01:17:54,294
+Ich weiß es nicht.
+I dont know.
+
+1310
+01:17:57,589 --> 01:17:59,800
+(schluchzend)
+Ich weiß es nicht.
+(sobbing)
+I don't know.
+
+1311
+01:18:08,141 --> 01:18:10,143
+(er weint)
+(he cries)
+
+1312
+01:18:16,525 --> 01:18:18,402
+Scheißwette.
+Fucking bet.
+
+1313
+01:18:22,572 --> 01:18:23,782
+Ich hasse ihn.
+I hate him.
+
+1314
+01:18:24,491 --> 01:18:26,284
+Er ist dein bester Freund.
+He is your best friend.
+
+1315
+01:18:27,619 --> 01:18:28,745
+Nein.
+No.
+
+1316
+01:18:31,289 --> 01:18:33,291
+Wir sind keine Freunde.
+We are not friends.
+
+1317
+01:18:35,836 --> 01:18:38,004
+- Wir sind Hase und Igel.
+- Was?
+- We are rabbits and hedgehogs.
+- What?
+
+1318
+01:18:38,672 --> 01:18:41,758
+Ach, das war auf der Kassette,
+die du reingetan hast,
+Oh, that was on the tape
+you put in
+
+1319
+01:18:41,925 --> 01:18:44,094
+wenn er nicht schlafen konnte.
+when he couldn't sleep.
+
+1320
+01:18:45,011 --> 01:18:47,848
+- Die das Rennen machen?
+- Ja.
+- Who make the race?
+- Yes.
+
+1321
+01:18:50,475 --> 01:18:54,396
+Er ist immer der Bessere,
+der Schnellere, der Stärkere.
+He's always the better,
+the faster, the stronger.
+
+1322
+01:18:54,563 --> 01:18:56,732
+- Aber...
+- Ich kann nicht mehr.
+- But ...
+- I can't take it anymore.
+
+1323
+01:18:56,898 --> 01:18:58,442
+Ach, Pauli.
+Oh, Pauli.
+
+1324
+01:19:01,111 --> 01:19:03,697
+Hättest du lieber ihn als Sohn, Mama?
+Would you rather have him as a son, mom?
+
+1325
+01:19:03,864 --> 01:19:05,323
+Nee, nee.
+No no.
+
+1326
+01:19:06,324 --> 01:19:07,951
+Jetzt mal ehrlich.
+Honestly now.
+
+1327
+01:19:08,118 --> 01:19:10,162
+Was ist das für ein Quatsch?
+What kind of nonsense is that?
+
+1328
+01:19:10,328 --> 01:19:11,830
+Weiß nicht.
+I do not know.
+
+1329
+01:19:12,789 --> 01:19:15,542
+Alles, was er gemacht hat, war immer gut.
+Everything he did was always good.
+
+1330
+01:19:15,709 --> 01:19:17,252
+Bei mir warst du härter.
+You were harder with me.
+
+1331
+01:19:17,502 --> 01:19:19,045
+(sie seufzt)
+(she sighs)
+
+1332
+01:19:19,212 --> 01:19:21,757
+Er hat es einfach schwerer, Pauli.
+It's just harder for him, Pauli.
+
+1333
+01:19:35,353 --> 01:19:37,689
+(Lied: "Clementine" von Sarah Jaffe)
+(Lied: "Clementine" von Sarah Jaffe)
+
+1334
+01:19:39,065 --> 01:19:41,443
+(beschwingter Indie-Rock)
+(lively indie rock)
+
+1335
+01:19:46,823 --> 01:19:48,784
+Oh, Paul, du Vollidiot.
+Oh, Paul, you Vollidiot.
+
+1336
+01:19:59,920 --> 01:20:01,421
+(Freiton)
+(Ringing tone)
+
+1337
+01:20:01,588 --> 01:20:03,840
+<i>Das ist die Mailbox von Lucy Denske.</i>
+<i>This is Lucy Denske's mailbox.</i>
+
+1338
+01:20:04,007 --> 01:20:05,884
+<i>Nachrichten nach dem Piep.</i>
+<i>Messages after the beep.</i>
+
+1339
+01:20:19,314 --> 01:20:20,565
+Hallo?
+Hi there?
+
+1340
+01:20:25,904 --> 01:20:27,823
+Sorry, das war...
+Sorry that was ...
+
+1341
+01:20:30,408 --> 01:20:31,535
+Lucy?
+Lucy?
+
+1342
+01:20:32,369 --> 01:20:33,495
+Lucy.
+Lucy.
+
+1343
+01:20:34,663 --> 01:20:35,705
+Lucy?
+Lucy?
+
+1344
+01:20:35,872 --> 01:20:38,375
+- (Lucy) Geh weg.
+- Oh Gott, du bist es.
+- (Lucy) Go away.
+- Oh god, it's you.
+
+1345
+01:20:39,042 --> 01:20:41,169
+- Bist du noch da?
+- Nein.
+- Are you there?
+- no
+
+1346
+01:20:41,336 --> 01:20:44,548
+Es tut mir leid,
+dass du dazwischengeraten bist.
+I'm sorry
+you got in the way.
+
+1347
+01:20:44,798 --> 01:20:47,801
+Paul ist 'ne 0. Der ist ein Niemand.
+Paul is 0. He's a nobody.
+
+1348
+01:20:48,051 --> 01:20:50,595
+Der hätte das nicht machen dürfen.
+He shouldn't have done that.
+
+1349
+01:20:56,226 --> 01:20:58,228
+Was hat er gemacht?
+What did he do?
+
+1350
+01:20:58,395 --> 01:20:59,646
+Na ja.
+On me.
+
+1351
+01:21:00,605 --> 01:21:02,440
+Er hat dich verpfiffen.
+He whistled on you.
+
+1352
+01:21:02,607 --> 01:21:04,901
+Dein ganzes Zeug ist gepfändet.
+All your stuff is seized.
+
+1353
+01:21:05,151 --> 01:21:08,071
+Es tut mir leid, ich mache das gut.
+I'm sorry, I'm doing fine
+
+1354
+01:21:08,238 --> 01:21:10,323
+Niemand hat mich verpfiffen.
+Nobody told me about it.
+
+1355
+01:21:11,199 --> 01:21:13,451
+Ich habe mich selbst angezeigt.
+I reported myself.
+
+1356
+01:21:15,078 --> 01:21:16,329
+Was?
+Was?
+
+1357
+01:21:17,581 --> 01:21:20,792
+Du hast gesagt,
+es gibt keinen freien Willen.
+You said
+there is no such thing as free will.
+
+1358
+01:21:20,959 --> 01:21:22,460
+Da habe ich gedacht,
+I thought
+
+1359
+01:21:22,627 --> 01:21:26,715
+das ist der ideale Augenblick,
+das Gegenteil zu beweisen.
+this is the ideal moment
+to prove otherwise.
+
+1360
+01:21:28,258 --> 01:21:30,260
+Lucy. Lucy.
+Lucy. Lucy.
+
+1361
+01:21:34,347 --> 01:21:36,266
+Wie viel Schulden hast du?
+How much debt do you owe
+
+1362
+01:21:38,268 --> 01:21:40,812
+68.743.
+68.743.
+
+1363
+01:21:42,480 --> 01:21:44,357
+- Was?
+- Ja.
+- What?
+- Yes.
+
+1364
+01:21:44,608 --> 01:21:46,526
+- Das ist alles?
+- Bitte?
+- That's all?
+- You're welcome?
+
+1365
+01:21:46,776 --> 01:21:48,778
+Ich zahle sie.
+I pay them.
+
+1366
+01:21:51,448 --> 01:21:52,908
+Was?
+Was?
+
+1367
+01:21:53,074 --> 01:21:54,701
+Ich habe gewonnen.
+I have won.
+
+1368
+01:21:54,951 --> 01:21:56,202
+Ich bin steinreich.
+I am filthy rich.
+
+1369
+01:21:56,369 --> 01:21:58,538
+68.000, das sind Peanuts.
+68,000, that's peanuts.
+
+1370
+01:21:58,705 --> 01:22:01,166
+Das zahle ich aus der Portokasse.
+I'll pay that out of the postage.
+
+1371
+01:22:04,169 --> 01:22:05,879
+Zwischen uns sind Welten.
+There are worlds between us.
+
+1372
+01:22:06,129 --> 01:22:08,423
+Wieso? Es gibt Probleme, wir lösen sie.
+How so? There are problems, we solve them.
+
+1373
+01:22:09,257 --> 01:22:11,301
+- Du löst sie.
+- Ok.
+- You solve it.
+- OK.
+
+1374
+01:22:11,468 --> 01:22:12,594
+Ich.
+I.
+
+1375
+01:22:12,844 --> 01:22:15,305
+Du denkst, damit ist es erledigt.
+You think that's the end of it.
+
+1376
+01:22:15,472 --> 01:22:16,681
+Warum nicht?
+Why not?
+
+1377
+01:22:18,683 --> 01:22:20,769
+Weil ich nicht heil bin.
+Because I'm not whole.
+
+1378
+01:22:22,479 --> 01:22:24,064
+Das ist mir egal.
+I don't care.
+
+1379
+01:22:25,690 --> 01:22:27,275
+Das ist dir egal?
+You don't care
+
+1380
+01:22:31,655 --> 01:22:33,490
+Das ist meine Wohnung.
+This is my apartment.
+
+1381
+01:22:36,076 --> 01:22:38,244
+(schnieft) Hier lebe ich.
+(sniffs) This is where I live.
+
+1382
+01:22:40,622 --> 01:22:42,624
+Hat man mir zugewiesen.
+Has been assigned to me.
+
+1383
+01:22:45,335 --> 01:22:47,212
+Ich habe einen Vormund.
+I have a guardian.
+
+1384
+01:22:48,046 --> 01:22:51,967
+Ich darf nur wenige Euro haben,
+sonst gebe ich sie aus.
+I am only allowed to have a few euros,
+otherwise I will spend them.
+
+1385
+01:22:54,177 --> 01:22:56,596
+Ich habe so viel gelogen in meinem Leben,
+I've lied so much in my life
+
+1386
+01:22:56,763 --> 01:22:59,391
+meine Eltern sprechen nicht mit mir.
+my parents don't speak to me.
+
+1387
+01:23:00,433 --> 01:23:02,060
+Aber das ist dir egal.
+But you don't care.
+
+1388
+01:23:06,356 --> 01:23:08,692
+Ich habe ein Loch in meiner Seele.
+I have a hole in my soul
+
+1389
+01:23:10,110 --> 01:23:11,945
+Das lässt sich nicht stopfen.
+That can't be stuffed.
+
+1390
+01:23:12,821 --> 01:23:15,907
+Durch kein Geld,
+durch keine Sache der Welt.
+No money,
+no thing in the world.
+
+1391
+01:23:18,076 --> 01:23:20,745
+Guck mich an und sag,
+dass dir das egal ist.
+Look at me and say
+you don't care.
+
+1392
+01:23:25,333 --> 01:23:26,835
+Siehst du?
+Do you see?
+
+1393
+01:23:27,711 --> 01:23:30,338
+Du brauchst wen,
+der so viel drauf hat wie du.
+You need someone who can do
+as much as you do.
+
+1394
+01:23:30,964 --> 01:23:32,841
+Der mit dir mithalten kann.
+Who can keep up with you.
+
+1395
+01:23:32,966 --> 01:23:34,759
+Nicht jemanden wie mich,
+Not someone like me
+
+1396
+01:23:34,926 --> 01:23:37,345
+neben dem du nur besser aussiehst.
+next to which you just look better.
+
+1397
+01:23:38,972 --> 01:23:40,974
+Ich bin nicht dein Projekt.
+I am not your project.
+
+1398
+01:23:43,476 --> 01:23:45,478
+(ernste Klaviermusik)
+(serious piano music)
+
+1399
+01:24:12,756 --> 01:24:14,841
+Herzlichen Glückwunsch, Toni.
+Congratulations, Toni.
+
+1400
+01:24:22,223 --> 01:24:23,725
+Paul?
+Paul?
+
+1401
+01:24:26,102 --> 01:24:28,271
+Du kannst mich nicht ewig ignorieren.
+You can't ignore me forever
+
+1402
+01:24:28,438 --> 01:24:30,565
+Du musst mal rauskommen.
+You have to come out.
+
+1403
+01:24:31,483 --> 01:24:33,151
+Es tut mir leid.
+I'm so sorry.
+
+1404
+01:24:42,827 --> 01:24:44,579
+(Frau) Ich brauche Helium.
+(Woman) I need helium.
+
+1405
+01:24:46,039 --> 01:24:49,000
+- Immer noch nicht?
+- Keiner hat ihn gesehen.
+- Still not?
+- Nobody saw him.
+
+1406
+01:24:49,167 --> 01:24:51,211
+Muss man sich Sorgen machen?
+Do you have to worry?
+
+1407
+01:24:51,377 --> 01:24:53,713
+Hast du die Verträge von den Amis?
+Do you have the contracts from the Americans?
+
+1408
+01:24:53,880 --> 01:24:56,424
+Die Anwälte sagten, sie seien in der Post.
+The lawyers said they were in the mail.
+
+1409
+01:25:00,845 --> 01:25:03,640
+Das ist ja 'ne schöne Überraschung.
+That's a nice surprise.
+
+1410
+01:25:03,807 --> 01:25:06,101
+- Hi, Wolfgang.
+- Komm rein, Toni.
+- Hi, Wolfgang.
+- Come in, Toni.
+
+1411
+01:25:07,477 --> 01:25:09,062
+Das Spiel läuft. Komm.
+The game is on. Come over.
+
+1412
+01:25:09,229 --> 01:25:10,647
+Ist Renate da?
+Is Renate there?
+
+1413
+01:25:10,897 --> 01:25:12,190
+Nee, die...
+No, the ...
+
+1414
+01:25:12,357 --> 01:25:15,819
+Die macht bei Oma sauber,
+morgen kommen Interessenten.
+She cleans up at Grandma's,
+tomorrow interested parties will come.
+
+1415
+01:25:16,069 --> 01:25:18,071
+Was ist eigentlich mit euch los?
+What's the matter with you guys?
+
+1416
+01:25:18,988 --> 01:25:21,533
+Wo warst du denn auf der Beerdigung?
+Where were you at the funeral?
+
+1417
+01:25:23,493 --> 01:25:25,161
+Was, wie...
+What how...
+
+1418
+01:25:25,411 --> 01:25:27,372
+Wir haben uns gewundert, wo du warst.
+We wondered where you were.
+
+1419
+01:25:27,622 --> 01:25:29,707
+Hat er dir gar nichts erzählt?
+Didn't he tell you anything?
+
+1420
+01:25:33,419 --> 01:25:36,172
+Es gab nicht mehr die Gelegenheit dazu.
+There was no longer the opportunity.
+
+1421
+01:25:38,091 --> 01:25:39,801
+Was macht ihr denn?
+What are you doing?
+
+1422
+01:25:40,051 --> 01:25:42,137
+Oh, das verzeiht er mir nie.
+Oh, he'll never forgive me.
+
+1423
+01:25:46,349 --> 01:25:48,977
+Na komm, leg dich her.
+Come on, lie down.
+
+1424
+01:25:49,602 --> 01:25:51,521
+So wie früher. Hm?
+As before. Hm?
+
+1425
+01:25:52,272 --> 01:25:54,190
+Renate, ich bin 35 Jahre alt.
+Renate, I am 35 years old.
+
+1426
+01:25:54,440 --> 01:25:55,900
+Sieht doch keiner.
+Nobody sees it.
+
+1427
+01:25:56,860 --> 01:25:58,486
+Komm.
+Come over.
+
+1428
+01:26:02,699 --> 01:26:04,200
+Kackwette.
+Poop bet.
+
+1429
+01:26:05,076 --> 01:26:06,744
+Weißt du, Toni,
+You know, Toni,
+
+1430
+01:26:08,538 --> 01:26:11,666
+ihr müsst langsam aufhören,
+Kinder zu sein.
+you must slowly stop being
+children.
+
+1431
+01:26:12,500 --> 01:26:15,211
+Ihr braucht mal was Echtes in eurem Leben.
+You need something real in your life.
+
+1432
+01:26:15,378 --> 01:26:17,755
+Was weiß ich? Frauen, Familie.
+What do I know? Women, family.
+
+1433
+01:26:18,756 --> 01:26:21,885
+Dann wisst ihr,
+was richtige Probleme sind.
+Then you know
+what real problems are.
+
+1434
+01:26:22,051 --> 01:26:23,219
+Wahrscheinlich.
+Probably.
+
+1435
+01:26:23,845 --> 01:26:25,096
+Sicher.
+For sure.
+
+1436
+01:26:30,018 --> 01:26:32,270
+Kannst du ein gutes Wort einlegen?
+Can you put in a good word
+
+1437
+01:26:32,437 --> 01:26:34,063
+Der zieht das ewig durch.
+He pulls this through forever.
+
+1438
+01:26:34,314 --> 01:26:37,400
+Der verhungert lieber, als rauszukommen.
+He'd rather starve than come out.
+
+1439
+01:26:37,567 --> 01:26:39,611
+Toni, Paul ist weg.
+Toni, Paul is gone.
+
+1440
+01:26:40,695 --> 01:26:42,572
+Der ist in Kalifornien.
+It's in California.
+
+1441
+01:26:42,822 --> 01:26:44,365
+First Class.
+First Class.
+
+1442
+01:26:44,532 --> 01:26:46,201
+Wer bezahlt denn so was?
+Who pays for that?
+
+1443
+01:26:51,623 --> 01:26:52,999
+Nein.
+No.
+
+1444
+01:27:01,007 --> 01:27:03,009
+(energische Musik)
+(energetic music)
+
+1445
+01:27:05,553 --> 01:27:06,679
+Paul!
+Paul!
+
+1446
+01:27:07,847 --> 01:27:09,224
+Paul?
+Paul?
+
+1447
+01:27:10,725 --> 01:27:12,560
+Paul!
+Paul!
+
+1448
+01:27:15,521 --> 01:27:17,023
+Paul!
+Paul!
+
+1449
+01:27:28,826 --> 01:27:30,828
+(Klappern)
+(Clatter)
+
+1450
+01:27:30,995 --> 01:27:32,997
+(Absätze klackern)
+(Paragraphs click)
+
+1451
+01:27:36,251 --> 01:27:38,628
+- Sag: Hallo, Toni.
+- Hallo, Toni.
+- Say: Hello, Toni.
+- Hello Toni.
+
+1452
+01:27:39,629 --> 01:27:41,130
+Hallo, Willi.
+Hello, Willi.
+
+1453
+01:27:42,632 --> 01:27:45,426
+Sagst du Paul,
+er soll sein Auto reparieren?
+Are you telling Paul to
+fix his car?
+
+1454
+01:27:45,593 --> 01:27:48,179
+Elke kriegt das Öl nicht aus Willis Hose.
+Elke can't get the oil out of Willis' pants.
+
+1455
+01:27:48,346 --> 01:27:51,015
+Da geht 'ne Ölspur bis auf die Straße.
+There's a trace of oil on the street.
+
+1456
+01:27:55,019 --> 01:27:57,689
+(verträumte Gitarrenmusik)
+(dreamy guitar music)
+
+1457
+01:28:15,373 --> 01:28:17,375
+(Insekt summt)
+(Insect hums)
+
+1458
+01:28:20,336 --> 01:28:21,838
+Scheißnatur.
+Fucking nature.
+
+1459
+01:28:23,214 --> 01:28:26,801
+(Lied: "Overwhelmed With Pride"
+von Avi Buffalo)
+(Lied: "Overwhelmed With Pride"
+von Avi Buffalo)
+
+1460
+01:28:30,179 --> 01:28:32,181
+(Plätschern)
+(Lapping)
+
+1461
+01:28:45,153 --> 01:28:46,988
+(Musik schwillt an)
+(Music swells)
+
+1462
+01:28:48,906 --> 01:28:50,908
+(Lied endet abrupt)
+(Song ends abruptly)
+
+1463
+01:28:54,454 --> 01:28:55,872
+Au.
+At.
+
+1464
+01:29:01,669 --> 01:29:04,047
+(er stöhnt)
+(he groans)
+
+1465
+01:29:08,384 --> 01:29:11,137
+(Toni) Du musst die Ölwanne auswechseln.
+(Toni) You have to change the oil pan.
+
+1466
+01:29:11,304 --> 01:29:13,514
+Du hast die halbe Stadt verseucht.
+You polluted half the city.
+
+1467
+01:29:15,308 --> 01:29:17,685
+Greenpeace hat den Notstand ausgerufen.
+Greenpeace has declared a state of emergency.
+
+1468
+01:29:19,354 --> 01:29:21,105
+Wie bei Hänsel und Gretel?
+As with Hansel and Gretel?
+
+1469
+01:29:21,272 --> 01:29:22,982
+Folge der Ölspur?
+Follow the oil trail?
+
+1470
+01:29:27,236 --> 01:29:29,781
+Du kannst mich nicht so alleine lassen.
+You can't leave me alone like this.
+
+1471
+01:29:35,495 --> 01:29:37,121
+Kannst du mir verzeihen?
+Can you forgive me?
+
+1472
+01:29:37,372 --> 01:29:39,374
+Was jetzt genau?
+What now exactly?
+
+1473
+01:29:43,294 --> 01:29:45,421
+Dass ich dich geschlagen habe.
+That I hit you
+
+1474
+01:29:45,588 --> 01:29:46,798
+Ok.
+Ok.
+
+1475
+01:29:46,964 --> 01:29:48,341
+- Ja?
+- Ja.
+- Yes?
+- Yes.
+
+1476
+01:29:48,508 --> 01:29:50,009
+Ähm...
+Um ...
+
+1477
+01:29:50,176 --> 01:29:51,761
+Dann...
+Then...
+
+1478
+01:29:51,928 --> 01:29:53,471
+sind wir fein?
+are we fine?
+
+1479
+01:29:55,473 --> 01:29:56,974
+Nein.
+No.
+
+1480
+01:30:00,436 --> 01:30:02,438
+Ok, was denn noch?
+Ok what else?
+
+1481
+01:30:02,688 --> 01:30:04,232
+Sag du es mir.
+You tell me.
+
+1482
+01:30:07,443 --> 01:30:09,195
+Ich hab dich ungerecht behandelt.
+I treated you unfairly.
+
+1483
+01:30:09,445 --> 01:30:10,822
+Ok, verziehen.
+Ok, sorry.
+
+1484
+01:30:11,614 --> 01:30:14,200
+- Ich hab mit dem Geld gepokert.
+- Verziehen.
+- I gambled with the money.
+- Forgive.
+
+1485
+01:30:14,450 --> 01:30:17,286
+- Der Missbrauch deiner Daten.
+- Verziehen.
+- The misuse of your data.
+- Forgive.
+
+1486
+01:30:17,537 --> 01:30:19,330
+Auf Malle das Blitzerfoto?
+The speed camera photo on Malle?
+
+1487
+01:30:19,497 --> 01:30:22,166
+- Das ich dir angehängt habe?
+- Verziehen.
+- That I attached you?
+- Forgive.
+
+1488
+01:30:22,416 --> 01:30:24,836
+Ich gab deine Facharbeit als meine aus.
+I passed your paper off as mine.
+
+1489
+01:30:25,002 --> 01:30:27,171
+Was denn noch?
+What else?
+
+1490
+01:30:30,675 --> 01:30:33,219
+Nicht dein Ernst. Du meinst nicht...
+Really. You don't mean ...
+
+1491
+01:30:35,555 --> 01:30:36,681
+Anna Kloske.
+Anna Kloske.
+
+1492
+01:30:41,310 --> 01:30:44,689
+- Was gibt es da zu verzeihen?
+- Ist das 'ne ernste Frage?
+- What is there to forgive?
+- Is that a serious question?
+
+1493
+01:30:44,856 --> 01:30:47,942
+Zum tausendsten Mal,
+ich kann nichts dafür.
+For the thousandth time,
+I can't help it.
+
+1494
+01:30:48,192 --> 01:30:50,736
+- Du checkst nichts.
+- Sie lief mir nach!
+- You don't check anything.
+- She ran after me!
+
+1495
+01:30:51,696 --> 01:30:53,322
+Ah!
+Ah!
+
+1496
+01:30:54,198 --> 01:30:56,033
+Gib's zu!
+Admit it!
+
+1497
+01:30:57,118 --> 01:30:59,162
+Gib's zu, du Scheißkerl!
+Admit it, you bastard!
+
+1498
+01:30:59,412 --> 01:31:00,663
+Was willst du?
+What do you want?
+
+1499
+01:31:00,913 --> 01:31:03,708
+Hättest du sie gemocht,
+hätte ich dir verziehen.
+If you had liked her,
+I would have forgiven you.
+
+1500
+01:31:03,958 --> 01:31:06,210
+Warum hast du sie nicht angerufen?
+Why didn't you call her?
+
+1501
+01:31:06,460 --> 01:31:09,881
+Es geht nicht um Anna,
+sondern um dich, Arschgesicht!
+It's not about Anna,
+it's about you, ass face!
+
+1502
+01:31:10,339 --> 01:31:11,757
+Gib es endlich zu!
+Finally admit it!
+
+1503
+01:31:12,008 --> 01:31:13,467
+Ich weiß nicht, was!
+I do not know what!
+
+1504
+01:31:13,593 --> 01:31:15,386
+Sie war dir scheißegal!
+You didn't give a shit!
+
+1505
+01:31:15,553 --> 01:31:17,013
+Du wolltest mir wehtun.
+You wanted to hurt me
+
+1506
+01:31:17,680 --> 01:31:18,848
+Natürlich.
+Naturally.
+
+1507
+01:31:22,351 --> 01:31:23,394
+Was?
+Was?
+
+1508
+01:31:23,644 --> 01:31:25,980
+Ich wollte dir das kaputtmachen.
+I wanted to break this for you.
+
+1509
+01:31:28,065 --> 01:31:30,109
+Ich wollte dir was nehmen.
+I wanted to take something from you.
+
+1510
+01:31:30,276 --> 01:31:33,696
+Ich hab's dir nicht gegönnt,
+in deinem perfekten Leben.
+I did not grant you it
+in your perfect life.
+
+1511
+01:31:33,863 --> 01:31:36,115
+- Was?
+- Du hast alles.
+- What?
+- You have everything.
+
+1512
+01:31:36,282 --> 01:31:39,660
+Du hast ein Zuhause,
+eine Familie, die dich liebt.
+You have a home,
+a family that loves you.
+
+1513
+01:31:39,827 --> 01:31:41,704
+Das ist auch deine Familie.
+This is your family too.
+
+1514
+01:31:42,371 --> 01:31:45,708
+Ich musste alles erkämpfen.
+Jede Aufmerksamkeit.
+I had to fight for everything.
+Any attention.
+
+1515
+01:31:45,875 --> 01:31:48,377
+Weißt du noch, der Hase und der Igel?
+Do you remember the hare and the hedgehog?
+
+1516
+01:31:48,544 --> 01:31:50,588
+Ja, du warst immer der Hase.
+Yes, you were always the rabbit.
+
+1517
+01:31:50,838 --> 01:31:54,383
+- Ja, der rennt und rennt.
+- Immer schneller, immer vorne.
+- Yes, he runs and runs.
+- Always faster, always ahead.
+
+1518
+01:31:54,634 --> 01:31:57,136
+Egal, wie schnell der Hase rannte...
+No matter how fast the rabbit ran ...
+
+1519
+01:31:58,304 --> 01:31:59,430
+der Igel...
+the Hedgehog...
+
+1520
+01:31:59,680 --> 01:32:01,349
+...war schon dort.
+... was already there.
+
+1521
+01:32:03,643 --> 01:32:05,144
+Fuck.
+Fuck.
+
+1522
+01:32:06,312 --> 01:32:08,022
+Der Igel hat gewonnen.
+The hedgehog won.
+
+1523
+01:32:11,859 --> 01:32:13,903
+Weil er nicht alleine war.
+Because he wasn't alone.
+
+1524
+01:32:15,446 --> 01:32:17,448
+Aber du bist nicht alleine.
+But you are not alone
+
+1525
+01:32:18,616 --> 01:32:21,369
+Du darfst nicht einfach verschwinden.
+You can't just go away.
+
+1526
+01:32:23,788 --> 01:32:26,040
+Ich schaffe das nicht ohne dich.
+I can't do this without you.
+
+1527
+01:32:31,087 --> 01:32:32,505
+Das ist Schlamm.
+This is mud.
+
+1528
+01:32:32,672 --> 01:32:35,299
+- Ich habe Schlamm im Auge.
+- Ist klar.
+- I have mud in my eyes.
+- Is clear.
+
+1529
+01:32:35,466 --> 01:32:37,468
+(Toni schnieft)
+(Toni sniffs)
+
+1530
+01:32:42,473 --> 01:32:44,433
+- Komm.
+- Ein bisschen höher.
+- Come on.
+- A little higher.
+
+1531
+01:32:44,600 --> 01:32:46,352
+Ah, ok.
+Ah, ok.
+
+1532
+01:32:46,519 --> 01:32:49,313
+- Du musst dranbleiben.
+- Stups nicht.
+- You have to hold on.
+- Don't nudge.
+
+1533
+01:32:49,480 --> 01:32:50,523
+Ok.
+Ok.
+
+1534
+01:32:59,615 --> 01:33:01,117
+Auf Oma.
+To grandma.
+
+1535
+01:33:02,660 --> 01:33:04,078
+Auf Oma.
+To grandma.
+
+1536
+01:33:05,746 --> 01:33:08,582
+Hast du das Teil
+in der Müllpresse gefunden?
+Did you
+find that part in the trash compactor?
+
+1537
+01:33:08,749 --> 01:33:11,252
+Ich war in den Trödelläden der Umgebung.
+I went to the junk shops in the area.
+
+1538
+01:33:11,419 --> 01:33:12,795
+12,50 Euro.
+12,50 Euro.
+
+1539
+01:33:13,045 --> 01:33:15,631
+(Paul) Das ist zu viel für das Teil.
+(Paul) That's too much for the part.
+
+1540
+01:33:16,966 --> 01:33:20,261
+Ich habe am 99. Tag eine Sache gekauft.
+I bought a thing on the 99th day.
+
+1541
+01:33:22,013 --> 01:33:24,015
+Ich habe die Wette verloren.
+I lost the bet.
+
+1542
+01:33:25,599 --> 01:33:27,560
+Ich habe vorher aufgegeben.
+I gave up before.
+
+1543
+01:33:27,727 --> 01:33:29,145
+Was?
+Was?
+
+1544
+01:33:29,937 --> 01:33:32,023
+Habe ich nicht gehört.
+I haven't heard
+
+1545
+01:33:32,189 --> 01:33:34,191
+Du hast nichts gesagt.
+You did not say anything.
+
+1546
+01:33:37,778 --> 01:33:39,780
+(freudiges Stimmengewirr)
+(happy babble of voices)
+
+1547
+01:33:46,495 --> 01:33:48,205
+Hello, Boys.
+Hello, Boys.
+
+1548
+01:33:48,831 --> 01:33:51,208
+(verführerische Musik)
+(seductive music)
+
+1549
+01:33:52,084 --> 01:33:53,711
+(Mann) Hallo, Betty.
+(Man) Hello, Betty.
+
+1550
+01:33:53,961 --> 01:33:55,046
+Was geht?
+What's going on?
+
+1551
+01:33:55,296 --> 01:33:58,007
+Ich komme nicht weit
+in den Manolo Blahniks.
+I don't get very far
+in the Manolo Blahniks.
+
+1552
+01:34:03,220 --> 01:34:06,640
+Hat man dir mit 'ner Uzi
+Make-up ins Gesicht geschossen?
+Were you
+shot in the face with Uzi make-up?
+
+1553
+01:34:06,807 --> 01:34:08,809
+Das ist der Adele–Look.
+That is the Adele look.
+
+1554
+01:34:09,435 --> 01:34:11,687
+Die Wimpern wiegen 30 Gramm,
+ich krieg die Augen kaum auf.
+The eyelashes weigh 30 grams,
+I can barely open my eyes.
+
+1555
+01:34:11,937 --> 01:34:14,690
+Ich wurde in dieses
+4000-Euro-Kleid genäht.
+I was
+sewn into this 4,000 euro dress.
+
+1556
+01:34:14,940 --> 01:34:17,526
+- Womit hast du das bezahlt?
+- Kreditkarte.
+- What did you pay for that with?
+- Credit card.
+
+1557
+01:34:17,693 --> 01:34:20,237
+- Vorauszahlung auf den Sieg.
+- So sicher?
+- Prepayment for the win.
+- Sure?
+
+1558
+01:34:20,488 --> 01:34:21,781
+- Du nicht?
+- Sie kommen.
+- Not you?
+- They are coming.
+
+1559
+01:34:21,947 --> 01:34:22,990
+Was? Oh.
+Was? Oh.
+
+1560
+01:34:23,240 --> 01:34:25,201
+(Jubel)
+(Cheers)
+
+1561
+01:34:33,250 --> 01:34:34,960
+- Hi.
+- Hey.
+- Hi.
+- Hey.
+
+1562
+01:34:35,127 --> 01:34:37,129
+(Jubel verebbt)
+(Cheers subsided)
+
+1563
+01:34:37,922 --> 01:34:39,673
+- Shit.
+- Beide haben es geschafft.
+- Shit.
+- They both made it.
+
+1564
+01:34:39,840 --> 01:34:41,258
+Nie und nimmer.
+Never ever.
+
+1565
+01:34:41,967 --> 01:34:43,552
+- Ich hab verloren.
+- Yes?
+- I lost.
+- Yes?
+
+1566
+01:34:43,719 --> 01:34:44,970
+- Was? Fuck.
+- Du?
+- Was? Fuck.
+- Du?
+
+1567
+01:34:45,137 --> 01:34:47,598
+- Ich hab umgeschwenkt.
+- Was? Wann?
+- I turned around.
+- What? When?
+
+1568
+01:34:47,848 --> 01:34:49,225
+Entschuldigung.
+Sorry.
+
+1569
+01:34:50,309 --> 01:34:51,811
+- Ich habe verloren.
+- Ha!
+- I lost.
+- Ha!
+
+1570
+01:34:52,061 --> 01:34:53,979
+- Was?
+- Na also. Stopp.
+- What?
+- So what. Stop.
+
+1571
+01:34:54,146 --> 01:34:57,608
+- Das war nicht vorgesehen.
+- Was heißt das für uns?
+- It wasn't intended.
+- What does that mean for us?
+
+1572
+01:34:58,484 --> 01:34:59,527
+Mhm...
+Mhm ...
+
+1573
+01:35:01,070 --> 01:35:02,279
+Ähm...
+Um ...
+
+1574
+01:35:03,155 --> 01:35:05,783
+Wir teilen alles durch alle.
+We share everything through everyone.
+
+1575
+01:35:06,033 --> 01:35:08,411
+Jeder bekommt den gleichen Anteil.
+Everyone gets the same share.
+
+1576
+01:35:10,079 --> 01:35:12,498
+Ihr, wir, alle.
+You, we, all.
+
+1577
+01:35:13,124 --> 01:35:14,291
+- Wie viele?
+- 12.
+- How many?
+- 12.
+
+1578
+01:35:14,458 --> 01:35:15,793
+- Wie viel?
+- 14 durch 12.
+- How much?
+- 14 through 12.
+
+1579
+01:35:16,043 --> 01:35:18,838
+Das sind 1.166.666.
+That's 1,166,666.
+
+1580
+01:35:19,004 --> 01:35:20,256
+Und 66 Cent.
+And 66 cents.
+
+1581
+01:35:20,423 --> 01:35:22,383
+- Für jeden.
+- What?
+- For each.
+- what?
+
+1582
+01:35:23,008 --> 01:35:26,846
+Nie wieder:
+"Darf ich Ihnen den Bleistift aufheben?"
+Never again:
+"May I pick up your pencil?"
+
+1583
+01:35:27,012 --> 01:35:29,598
+- Ich kauf den Todesstern.
+- Ich 'nen Fußballverein.
+- I'll buy the death star.
+- I'm a football club.
+
+1584
+01:35:29,765 --> 01:35:30,808
+- Zu teuer.
+- Herta.
+- Too expensive.
+- Herta.
+
+1585
+01:35:31,058 --> 01:35:32,017
+Ach so.
+I see.
+
+1586
+01:35:32,226 --> 01:35:34,103
+- Oh Gott.
+- (Ronnie) Wo gehst du hin?
+- Oh God.
+- (Ronnie) Where are you going?
+
+1587
+01:35:34,353 --> 01:35:37,523
+- Mich übergeben.
+- Warte mal, wir wollten...
+- Throw up.
+- Wait a minute, we wanted ...
+
+1588
+01:35:38,190 --> 01:35:41,527
+Wir wollten euch noch ein Angebot machen.
+We wanted to make you another offer.
+
+1589
+01:35:43,028 --> 01:35:46,323
+Jeder kann mit seinem Anteil
+in der Firma bleiben.
+Everyone can
+stay with the company with their share .
+
+1590
+01:35:46,490 --> 01:35:48,742
+Und wir machen was Revolutionäres.
+And we're doing something revolutionary.
+
+1591
+01:35:49,618 --> 01:35:50,953
+Was denn?
+What?
+
+1592
+01:35:53,622 --> 01:35:56,125
+Wir hören auf mit dem Wettbewerb.
+We stop competing.
+
+1593
+01:35:57,209 --> 01:35:59,503
+Wir nehmen das Geld und...
+We take the money and ...
+
+1594
+01:36:00,171 --> 01:36:01,547
+machen was Echtes.
+do something real.
+
+1595
+01:36:01,797 --> 01:36:03,132
+Und was?
+And what?
+
+1596
+01:36:04,341 --> 01:36:06,343
+Wir könnten uns Land kaufen.
+We could buy land.
+
+1597
+01:36:07,803 --> 01:36:11,098
+Einen Ort schaffen,
+an dem Geld nicht alles ist.
+Create a place
+where money isn't everything.
+
+1598
+01:36:11,765 --> 01:36:14,310
+Wir könnten selber anbauen, tauschen.
+We could grow ourselves, trade.
+
+1599
+01:36:15,311 --> 01:36:17,396
+Wirklich nachhaltig sein.
+Be really sustainable.
+
+1600
+01:36:17,646 --> 01:36:19,440
+Wir sind zwar nur Wenige,
+We are only a few
+
+1601
+01:36:19,690 --> 01:36:21,984
+aber alle großen Ideen fingen klein an.
+but all big ideas started small.
+
+1602
+01:36:22,151 --> 01:36:25,529
+Die Menschen spüren,
+dass es so nicht weitergeht.
+People feel
+that things cannot go on like this.
+
+1603
+01:36:25,779 --> 01:36:28,574
+(Nachrichtenton)
+Wir sind Revolutionäre.
+(Message sound)
+We are revolutionaries.
+
+1604
+01:36:28,824 --> 01:36:30,659
+Der Sand im Getriebe.
+The sand in the gears.
+
+1605
+01:36:30,910 --> 01:36:32,119
+- Ein Stock...
+- Paul?
+- A stick ...
+- Paul?
+
+1606
+01:36:32,369 --> 01:36:34,079
+...in den Speichen des Systems.
+... in the spokes of the system.
+
+1607
+01:36:34,246 --> 01:36:35,414
+- Paul!
+- Was ist?
+- Paul!
+- What is?
+
+1608
+01:36:35,664 --> 01:36:38,000
+Die Amis haben NANA rausgebracht.
+The Americans brought out NANA.
+
+1609
+01:36:38,167 --> 01:36:39,502
+- Was?
+- Hä?
+- What?
+- Huh?
+
+1610
+01:36:39,752 --> 01:36:42,505
+"Zuckerman revolutioniert erneut die Welt.
+"Zuckerman is revolutionizing the world again.
+
+1611
+01:36:42,671 --> 01:36:44,340
+Auf 700.000.000 Handys
+On 700,000,000 cell phones
+
+1612
+01:36:44,507 --> 01:36:47,885
+ist sein Stimmerkennungssystem
+NANA zu haben."
+his voice recognition system
+NANA is available. "
+
+1613
+01:36:48,052 --> 01:36:49,553
+(Nana) <i>Hallo, Ronnie.</i>
+(Nana) <i>Hallo, Ronnie.</i>
+
+1614
+01:36:49,803 --> 01:36:52,848
+<i>Bist du bereit für</i>
+<i>deinen Schritt in die Zukunft?</i>
+<i>Are you ready for </i>
+<i>your step into the future?</i>
+
+1615
+01:36:53,641 --> 01:36:55,017
+(Jubelschrei)
+(Jubelschrei)
+
+1616
+01:36:55,267 --> 01:36:57,228
+(singt) <i>De, de, de</i>
+<i>De, de, de...</i>
+(singt) <i>The, the, the </i>
+<i>De, the, the ...</i>
+
+1617
+01:36:57,478 --> 01:36:58,771
+<i>14!</i>
+<i>14!</i>
+
+1618
+01:36:59,021 --> 01:37:00,648
+<i>De, de, de, de...</i>
+<i>De, de, de, de ...</i>
+
+1619
+01:37:02,691 --> 01:37:03,734
+Was?
+Was?
+
+1620
+01:37:09,657 --> 01:37:11,992
+Ja, klar, nehmt euch noch was mit.
+Yes, of course, take something with you.
+
+1621
+01:37:12,701 --> 01:37:15,871
+So. Damit zahle ich meine Schulden ab.
+So. I'll use it to pay off my debts.
+
+1622
+01:37:16,038 --> 01:37:17,665
+Weil,
+Because,
+
+1623
+01:37:17,831 --> 01:37:19,750
+das habe ich mir verdient.
+I deserve that.
+
+1624
+01:37:21,752 --> 01:37:23,546
+Ich kaufe dir einen Drink.
+I'll buy you a drink
+
+1625
+01:37:23,712 --> 01:37:26,215
+Nee, betrunken will ich knutschen.
+Nah, drunk I want to make out.
+
+1626
+01:37:26,382 --> 01:37:27,550
+Du bist betrunken.
+You're drunk.
+
+1627
+01:37:27,716 --> 01:37:29,301
+- Echt?
+- Ja.
+- For real?
+- Yes.
+
+1628
+01:37:35,349 --> 01:37:37,184
+Das war's.
+That's it
+
+1629
+01:37:37,351 --> 01:37:38,978
+Jap.
+Jap.
+
+1630
+01:37:41,689 --> 01:37:44,191
+- Hat man das auch mal erlebt.
+- Was?
+- Has one experienced that too?
+- What?
+
+1631
+01:37:44,817 --> 01:37:46,694
+- Reich sein.
+- Ah.
+- Be rich.
+- Ah.
+
+1632
+01:37:49,446 --> 01:37:52,074
+(seufzt) Hat mich eh gestresst.
+(sighs) Stressed me out anyway.
+
+1633
+01:37:53,784 --> 01:37:56,036
+Geld weg, Frau weg.
+Money gone, wife gone.
+
+1634
+01:37:56,203 --> 01:37:57,580
+Alles weg.
+All gone.
+
+1635
+01:37:58,080 --> 01:37:59,331
+Ähm,
+Um,
+
+1636
+01:38:00,291 --> 01:38:01,584
+hallo?
+Hi there?
+
+1637
+01:38:04,628 --> 01:38:07,256
+Sorry, aber die Frau wäre mir lieber.
+Sorry, but I would prefer the woman.
+
+1638
+01:38:09,300 --> 01:38:10,843
+Liebst du sie?
+Do you love her?
+
+1639
+01:38:14,680 --> 01:38:15,723
+Ach...
+But ...
+
+1640
+01:38:20,019 --> 01:38:22,021
+(er schnieft)
+(he sniffs)
+
+1641
+01:38:36,619 --> 01:38:37,953
+Ok.
+Ok.
+
+1642
+01:38:38,746 --> 01:38:39,872
+Ok was?
+Ok was?
+
+1643
+01:38:40,664 --> 01:38:42,166
+Komm.
+Come over.
+
+1644
+01:38:49,298 --> 01:38:52,009
+(Lied: "Little Giant" von Roo Panes)
+(Lied: "Little Giant" von Roo Panes)
+
+1645
+01:38:53,093 --> 01:38:55,387
+(ruhiger Gitarren-Folk)
+(quiet guitar folk)
+
+1646
+01:39:12,196 --> 01:39:13,697
+<i>Thought...</i>
+<i>Thought...</i>
+
+1647
+01:39:13,947 --> 01:39:15,574
+<i>That I was in...</i>
+<i>That I was in...</i>
+
+1648
+01:39:16,784 --> 01:39:18,869
+<i>My prime</i>
+<i>My prime</i>
+
+1649
+01:39:23,248 --> 01:39:26,752
+<i>But I was naked dressed...</i>
+<i>But I was naked dressed...</i>
+
+1650
+01:39:28,504 --> 01:39:30,381
+<i>In my pride</i>
+<i>In my pride</i>
+
+1651
+01:39:34,968 --> 01:39:38,722
+<i>You saw through the things...</i>
+<i>You saw through the things...</i>
+
+1652
+01:39:39,848 --> 01:39:42,059
+<i>I hide</i>
+<i>I hide</i>
+
+1653
+01:39:45,938 --> 01:39:49,483
+<i>Yet still said be yourself</i>
+<i>Yet still said be yourself</i>
+
+1654
+01:39:50,317 --> 01:39:55,155
+<i>You'll turn out all right</i>
+<i>You'll turn out all right</i>
+
+1655
+01:39:57,449 --> 01:39:59,827
+<i>You made me run</i>
+<i>Like I'd never run</i>
+<i>You made me run</i>
+<i>Like I'd never run</i>
+
+1656
+01:40:00,953 --> 01:40:03,580
+<i>Try like I had never tried</i>
+<i>Try like I had never tried</i>
+
+1657
+01:40:04,248 --> 01:40:07,292
+<i>Fight like had never fought...</i>
+<i>Fight like had never fought...</i>
+
+1658
+01:40:07,459 --> 01:40:08,877
+Hallo.
+Hi there.
+
+1659
+01:40:09,128 --> 01:40:10,504
+Hallo.
+Hi there.
+
+1660
+01:40:18,595 --> 01:40:20,514
+Ich wollte dir nur sagen...
+I just wanted to tell you ...
+
+1661
+01:40:20,681 --> 01:40:22,182
+Ich bin nicht perfekt.
+I am not perfect.
+
+1662
+01:40:22,808 --> 01:40:24,059
+Aha.
+Aha.
+
+1663
+01:40:24,309 --> 01:40:25,561
+Ich sehe nicht gut,
+I don't see well
+
+1664
+01:40:25,728 --> 01:40:27,980
+aber damit sehe ich aus wie ein Honk.
+but that makes me look like a honk.
+
+1665
+01:40:28,689 --> 01:40:30,357
+Ich habe morgens Mundgeruch.
+I have bad breath in the morning.
+
+1666
+01:40:30,607 --> 01:40:33,318
+Schlechte Laune, wenn ich hungrig bin.
+Bad mood when I'm hungry.
+
+1667
+01:40:33,485 --> 01:40:37,114
+Ich habe eine Leseschwäche,
+kann mir keine Namen merken.
+I have a reading disorder,
+can't remember names.
+
+1668
+01:40:37,281 --> 01:40:39,366
+Ich musste mit offener Tür schlafen,
+I had to sleep with the door open
+
+1669
+01:40:39,533 --> 01:40:41,994
+damit ich meine Mutter sehen konnte.
+so I could see my mother.
+
+1670
+01:40:42,161 --> 01:40:45,372
+Ich muss recht haben,
+ich schulmeistere gerne.
+I have to be right,
+I enjoy teaching.
+
+1671
+01:40:45,539 --> 01:40:49,668
+Ich kann mich nicht einlassen,
+aber habe Sehnsucht nach Nähe.
+I can't get involved,
+but I long for closeness.
+
+1672
+01:40:49,835 --> 01:40:51,754
+Soll ich weitermachen?
+Should I continue?
+
+1673
+01:40:51,920 --> 01:40:55,507
+Ich meine, wir alle haben
+ein Loch in unserer Seele.
+I mean we all have
+a hole in our souls.
+
+1674
+01:40:56,133 --> 01:40:58,761
+Wir hoffen, dass uns irgendwas ganz macht.
+We hope that something will make us whole.
+
+1675
+01:40:58,927 --> 01:41:01,930
+Geld, Aufmerksamkeit, irgendeine Sache.
+Money, attention, anything.
+
+1676
+01:41:02,890 --> 01:41:04,224
+Ein Mensch.
+A human.
+
+1677
+01:41:04,391 --> 01:41:06,477
+Vielleicht ist das Bullshit.
+Maybe this is bullshit.
+
+1678
+01:41:07,227 --> 01:41:09,104
+Vielleicht müssen wir kapieren,
+Maybe we have to understand
+
+1679
+01:41:09,271 --> 01:41:11,023
+dass wir unfertig sind.
+that we are unfinished.
+
+1680
+01:41:11,190 --> 01:41:15,110
+Dann würden wir uns nicht
+kaputtmachen und zusammen...
+Then we wouldn't
+break each other and together ...
+
+1681
+01:41:16,111 --> 01:41:17,362
+unfertig sein.
+be unfinished.
+
+1682
+01:41:19,406 --> 01:41:21,825
+(Räuspern)
+Ah ja, und...
+(Clearing throat)
+Ah yes, and ...
+
+1683
+01:41:22,910 --> 01:41:24,745
+mir gehen die Haare aus.
+I'm running out of hair.
+
+1684
+01:41:28,290 --> 01:41:31,710
+Du brauchst eine neue Matratze.
+Da nisten Eichhörnchen.
+You need a new mattress.
+Squirrels nest there.
+
+1685
+01:41:31,960 --> 01:41:33,545
+Shit, die brauche ich noch.
+Shit, I still need that.
+
+1686
+01:41:35,005 --> 01:41:36,673
+Kauf dir halt 'ne neue.
+Just buy a new one.
+
+1687
+01:41:36,924 --> 01:41:38,509
+Das geht nicht.
+That will not do.
+
+1688
+01:41:38,675 --> 01:41:40,344
+Ich dachte, du bist reich.
+I thought you were rich.
+
+1689
+01:41:41,804 --> 01:41:43,639
+Ja, das, ähm...
+Yes, that, um ...
+
+1690
+01:41:43,806 --> 01:41:46,725
+Es stellt sich heraus,
+das war etwas voreilig.
+It turns out that
+was a bit premature.
+
+1691
+01:41:47,601 --> 01:41:49,144
+Das ist alles, was ich habe.
+That's all I have.
+
+1692
+01:41:49,311 --> 01:41:51,313
+In aufsteigender Wichtigkeit.
+In increasing importance.
+
+1693
+01:41:51,480 --> 01:41:52,689
+Ordnung muss sein.
+There must be order.
+
+1694
+01:41:52,940 --> 01:41:54,441
+Ja.
+And.
+
+1695
+01:41:58,320 --> 01:42:01,532
+Alles, was du hier siehst,
+sind die 5 Dinge,
+All you see here
+are the 5 things
+
+1696
+01:42:01,698 --> 01:42:03,826
+ohne die ich nicht leben kann.
+I can't live without
+
+1697
+01:42:07,788 --> 01:42:09,122
+Ich sehe nur 4.
+I only see 4.
+
+1698
+01:42:14,211 --> 01:42:15,712
+Oh Gott.
+Oh God.
+
+1699
+01:42:18,757 --> 01:42:21,176
+Das ist so schlecht, dass es süß ist.
+This is so bad it's cute.
+
+1700
+01:42:21,343 --> 01:42:24,513
+Ich würde heulen,
+wenn's nicht so schlecht wäre.
+I would cry
+if it wasn't so bad.
+
+1701
+01:42:24,680 --> 01:42:26,849
+- Ist von Paul.
+- Ja, natürlich.
+- It's from Paul.
+- Yes of course.
+
+1702
+01:42:27,099 --> 01:42:28,684
+Ich find's auch gut...
+I think it's good too ...
+
+1703
+01:42:35,732 --> 01:42:37,734
+(Lied läuft weiter)
+(Song continues)
+
+1704
+01:42:47,327 --> 01:42:51,081
+(Wolfgang) Ist eine Pleite
+die richtige Zeit für Urlaub?
+(Wolfgang) Is a bankruptcy
+the right time for a vacation?
+
+1705
+01:42:51,248 --> 01:42:53,166
+(Toni) Die perfekte Zeit.
+(Toni) The perfect time.
+
+1706
+01:42:53,417 --> 01:42:56,253
+- Mal etwas nachdenken.
+- Und dann?
+- Think something.
+- And then?
+
+1707
+01:42:56,420 --> 01:42:58,088
+- Och, mal sehen.
+- Mal sehen.
+- Oh, let's see.
+- Let's see.
+
+1708
+01:42:58,338 --> 01:42:59,715
+Tschüss.
+Bye.
+
+1709
+01:43:00,465 --> 01:43:01,592
+Tschüss.
+Bye.
+
+1710
+01:43:04,928 --> 01:43:06,930
+Und von was wollt ihr leben?
+And what do you want to live from?
+
+1711
+01:43:07,973 --> 01:43:09,975
+Man braucht so wenig, Mama.
+So little is needed, mom.
+
+1712
+01:43:12,769 --> 01:43:14,605
+- Tschüss.
+- Tschüss.
+- Bye.
+- Bye.
+
+1713
+01:43:24,615 --> 01:43:26,617
+(Musik schwillt an)
+(Music swells)
+
+1714
+01:43:48,221 --> 01:43:50,474
+- Ist doch irgendwie Kacke.
+- Hm?
+- It's kind of crap.
+- huh?
+
+1715
+01:43:51,141 --> 01:43:53,518
+Die haben eure Erfindung geklaut.
+They stole your invention.
+
+1716
+01:43:53,769 --> 01:43:56,271
+Das kann man doch nicht hinnehmen.
+You can't accept that.
+
+1717
+01:43:56,438 --> 01:43:59,316
+Die haben mehr Anwälte
+als Berlin Einwohner.
+They have more lawyers
+than Berlin residents.
+
+1718
+01:43:59,483 --> 01:44:01,151
+Der Zug ist abgefahren.
+The train left.
+
+1719
+01:44:01,401 --> 01:44:04,279
+Vielleicht ist es
+eine unglaubliche Chance.
+Maybe it's
+an incredible opportunity.
+
+1720
+01:44:04,529 --> 01:44:05,906
+Was meinst du?
+What do you think?
+
+1721
+01:44:06,073 --> 01:44:07,199
+Na ja.
+On me.
+
+1722
+01:44:07,824 --> 01:44:10,744
+Es ist unser Programm, auf ihren Rechnern.
+It's our program, on your computers.
+
+1723
+01:44:10,994 --> 01:44:13,330
+Die App läuft auf 700.000.000 Handys.
+The app runs on 700,000,000 cell phones.
+
+1724
+01:44:14,790 --> 01:44:16,792
+Was, wenn es eine Hintertür gäbe?
+What if there was a back door?
+
+1725
+01:44:17,042 --> 01:44:19,252
+Alter, die forsten das durch.
+Dude, they're going through this.
+
+1726
+01:44:19,419 --> 01:44:21,546
+Ja, es wäre auch kein Virus.
+Yes, it wouldn't be a virus either.
+
+1727
+01:44:21,797 --> 01:44:23,006
+Sondern?
+Rather?
+
+1728
+01:44:23,256 --> 01:44:25,217
+'ne kleine Verabredung.
+a little date.
+
+1729
+01:44:25,384 --> 01:44:27,302
+Für einen letzten Anruf.
+For one last call.
+
+1730
+01:44:27,469 --> 01:44:31,056
+Nana würde mich fragen,
+was sie für mich tun kann.
+Nana would ask
+what she can do for me.
+
+1731
+01:44:32,140 --> 01:44:33,976
+Und was würdest du sagen?
+And what would you say
+
+1732
+01:44:34,142 --> 01:44:35,268
+Ich weiß nicht.
+I do not know.
+
+1733
+01:44:35,519 --> 01:44:38,939
+Vielleicht würde Nana
+die Leute ansprechen.
+Maybe Nana would speak
+to people.
+
+1734
+01:44:39,106 --> 01:44:42,693
+<i>Ihnen zeigen, welche Daten</i>
+<i>von ihnen gesammelt werden.</i>
+<i>Show you what data is </i>
+<i>being collected from them.</i>
+
+1735
+01:44:43,443 --> 01:44:46,780
+Sie würde uns fragen,
+wie wir leben möchten.
+She would ask us
+how we want to live.
+
+1736
+01:44:47,030 --> 01:44:50,534
+<i>Ob Dinge, die wir kaufen,</i>
+<i>Freude in unser Leben bringen,</i>
+<i>Whether things we buy </i>
+<i>bring joy to our lives</i>
+
+1737
+01:44:50,742 --> 01:44:53,036
+<i>oder nur die Wohnung vollstellen.</i>
+<i>or just fill up the apartment.</i>
+
+1738
+01:44:53,286 --> 01:44:56,123
+<i>Sie würde sagen: "Die Zukunft ist da.</i>
+<i>She would say, "The future is here.</i>
+
+1739
+01:44:56,289 --> 01:44:58,000
+<i>Wir sind mittendrin.</i>
+<i>We are right in the middle.</i>
+
+1740
+01:44:58,166 --> 01:45:00,293
+<i>Aber wir müssen selber denken."</i>
+<i>But we have to think for ourselves. "</i>
+
+1741
+01:45:01,837 --> 01:45:04,089
+Wisst ihr, was das Beste daran ist?
+Do you know what's best about it?
+
+1742
+01:45:04,339 --> 01:45:07,551
+Zuckerman müsste mitmachen.
+Er könnte nicht zurück.
+Zuckerman would have to join in.
+He couldn't go back.
+
+1743
+01:45:07,801 --> 01:45:10,804
+<i>Er kann schlecht zugeben,</i>
+<i>dass NANA geklaut ist.</i>
+<i>He can hardly admit </i>
+<i>that NANA was stolen.</i>
+
+1744
+01:45:10,971 --> 01:45:13,348
+<i>Es wäre alles seine Idee gewesen.</i>
+<i>It would have been all his idea.</i>
+
+1745
+01:45:16,309 --> 01:45:18,311
+Das hast du...
+You have it...
+
+1746
+01:45:19,938 --> 01:45:21,273
+Hm?
+Hm?
+
+1747
+01:45:21,440 --> 01:45:23,358
+Nee, das hast du nicht.
+Nah, you didn't.
+
+1748
+01:45:23,608 --> 01:45:25,610
+(Handy klingelt)
+(Cell phone rings)
+
+1749
+01:45:25,777 --> 01:45:28,613
+Ich glaube, das ist meins. Sorry.
+I think this is mine. Sorry
+
+1750
+01:45:34,161 --> 01:45:35,287
+Hallo, Nana.
+Hello, Nana.
+
+1751
+01:45:35,537 --> 01:45:36,997
+<i>Guten Morgen, Paul.</i>
+<i>Good morning, Paul.</i>
+
+1752
+01:45:37,164 --> 01:45:38,790
+Was für ein schöner Tag.
+What a beautiful day.
+
+1753
+01:45:39,041 --> 01:45:40,417
+<i>Ja, wunderschön.</i>
+<i>Yes wonderful.</i>
+
+1754
+01:45:40,584 --> 01:45:41,960
+<i>Ist es Zeit?</i>
+<i>Is it time</i>
+
+1755
+01:45:42,586 --> 01:45:43,962
+Jap.
+Jap.
+
+1756
+01:45:44,129 --> 01:45:45,756
+Zeit aufzuwachen.
+Time to wake up.
+
+1757
+01:45:47,049 --> 01:45:48,258
+3,
+3,
+
+1758
+01:45:48,508 --> 01:45:50,052
+2,
+2,
+
+1759
+01:45:50,302 --> 01:45:51,678
+1.
+1.
+
+1760
+01:50:44,888 --> 01:50:46,890
+{\an8}Übersetzung:
+G. Thürnau
+{\ an8} Translation:
+G. Thürnau
+
